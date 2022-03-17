@@ -1,9 +1,29 @@
 {
     "hats": [
         {
+            "author": "Tsutina",
+            "name": "クルーvsジャッカルvsインポスター",
+            "resource": "CvsJvsI.png"
+        },
+        {
+            "author": "Tsutina",
+            "name": "シェリフ",
+            "resource": "SheriffIntro.png"
+        },
+        {
+            "author": "Tsutina",
+            "name": "ライター",
+            "resource": "LighterIntro.png"
+        },
+        {
             "author": "ykundesu",
-            "name": "テスト",
-            "resource": "test.png"
+            "name": "SuperNewRolesロゴ",
+            "resource": "SuperNewRolesLogo.png"
+        },
+        {
+            "author": "ビブラーバ",
+            "name": "クルーメイト達",
+            "resource": "Crewmates.png"
         },
     ]
 }
