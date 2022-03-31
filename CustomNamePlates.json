@@ -35,5 +35,25 @@
             "name": "フリスク",
             "resource": "frisk.png"
         },
+        {
+            "author": "SakuraWhite",
+            "name": "R0B0T Ice Laser Cannon",
+            "resource": "R0B0TIceLaserCannon.png"
+        },
+        {
+            "author": "Kouyou",
+            "name": "tree ice",
+            "resource": "treeice.png"
+        },
+        {
+            "author": "Kouyou",
+            "name": "Room selection",
+            "resource": "Roomselection.png"
+        },
+        {
+            "author": "amekun",
+            "name": "Yukkuri nameplate",
+            "resource": "Yukkurinameplate.png"
+        },
     ]
 }
