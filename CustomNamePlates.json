@@ -55,5 +55,15 @@
             "name": "Yukkuri nameplate",
             "resource": "Yukkurinameplate.png"
         },
+        {
+            "author": "そーだー",
+            "name": "Yellow crewmate's",
+            "resource": "Yellowcrewmate's.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス",
+            "resource": "kurisu.png"
+        },
     ]
 }
