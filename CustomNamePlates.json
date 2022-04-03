@@ -70,5 +70,27 @@
             "name": "チラ見え瑞希ちゃん",
             "resource": "チラ見え瑞希ちゃん.png"
         },
+        {
+            "author": "天才",
+            "name": "天才",
+            "resource": "天才.png"
+        },
+        {
+            "author": "よっしー",
+            "name": "いっぱいキョウカちゃん",
+            "resource": "いっぱいキョウカちゃん.png"
+        },
+            "author": "radian462",
+            "name": "クリス2",
+            "resource": "kurisu2.png"
+        },
+            "author": "radian462",
+            "name": "クリス3",
+            "resource": "kurisu3.png"
+        },
+            "author": "radian462",
+            "name": "クリス4",
+            "resource": "kurisu4.png"
+        },
     ]
 }
