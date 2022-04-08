@@ -1,0 +1,20 @@
+﻿{
+    "hats": [
+        {
+            "name": "Gaming hat",
+            "author": "Wifi/main",
+            "package": "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats",
+            "condition": "None",
+            "resource": "GamingHat.png",
+            "reshasha": "537bba3421fa89c3fb648f158fb86efb",
+        },
+        {
+            "name": "Leaf hat",
+            "author": "Kouyou",
+            "package": "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats",
+            "condition": "None",
+            "resource": "Leafhat.png",
+            "reshasha": "537dba3421fa89c3fb648f158fb86efb",
+        },
+    ]
+}
