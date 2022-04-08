@@ -3,7 +3,7 @@
         {
             "name": "照れ顔",
             "author": "こめこのぱん",
-            "resource": "照れ顔.png"
+            "resource": "照れ顔.png",
             "backresource": "照れ顔.png"
         },
         {
@@ -15,7 +15,7 @@
         {
             "name": "キレる",
             "author": "こめこのぱん",
-            "resource": "キレる.png"
+            "resource": "キレる.png",
             "backresource": "キレる.png"
         }
     ]
