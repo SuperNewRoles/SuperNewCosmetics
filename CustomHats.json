@@ -6,8 +6,8 @@
             "package": "Hat_SNR",
             "condition": "None",
             "resource": "GamingHat.png",
-            "reshasha": "537bba3421fa89c3fb648f158fb86efb",
-            "climbresource": "GamingHat.png",
+            "reshasha": "537bba3421fa89c3fb648f158fb86dwe",
+            "climbresource": "GamingHat_climb.png",
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
@@ -16,8 +16,8 @@
             "package": "Hat_SNR",
             "condition": "None",
             "resource": "Leafhat.png",
-            "reshasha": "537dba3421fa89c3fb648f158fb86efb",
-            "climbresource": "Leafhat.png",
+            "reshasha": "537dba3421fa89c3fb648f158fdew86b",
+            "climbresource": "Leafhat_climb.png",
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
     ]
