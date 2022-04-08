@@ -6,14 +6,14 @@
             "resource": "照れ顔.png"
         },
         {
-            "name": "キレる",
-            "author": "こめこのぱん",
-            "resource": "キレる.png"
-        },
-        {
             "name": "アリスの人形",
             "author": "あもあすゆっくり",
             "resource": "アリスの人形.png"
+        },
+        {
+            "name": "キレる",
+            "author": "こめこのぱん",
+            "resource": "キレる.png"
         }
     ]
 }
