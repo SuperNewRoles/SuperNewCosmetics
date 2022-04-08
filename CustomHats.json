@@ -3,18 +3,22 @@
         {
             "name": "Gaming hat",
             "author": "Wifi/main",
-            "package": "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats",
+            "package": "Hat_SNR",
             "condition": "None",
             "resource": "GamingHat.png",
-            "reshasha": "537bba3421fa89c3fb648f158fb86efb",
+            "reshasha": "GamingHat.png",
+            "climbresource": "enoki_climb.png",
+            "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
             "name": "Leaf hat",
             "author": "Kouyou",
-            "package": "<color=#ffa500>Super</color><color=#ff0000>New</color><color=#00ff00>Roles</color>Hats",
+            "package": "Hat_SNR",
             "condition": "None",
             "resource": "Leafhat.png",
             "reshasha": "537dba3421fa89c3fb648f158fb86efb",
+            "climbresource": "Leafhat.png",
+            "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
     ]
 }
