@@ -21,14 +21,14 @@
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
-            "name": "棒人間",
-            "author": "名無し",
+            "name": "ウパウパ兄弟",
+            "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "棒人間.png",
-            "reshasha": "537dba3421fa89c3fb648f158fdew86b",
-            "climbresource": "棒人間_climb.png",
-            "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
+            "resource": "ウパウパ兄弟.png",
+            "reshasha": "537dba3421fa89c3fb648f15nytgbw86b",
+            "climbresource": "ウパウパ兄弟_climb.png",
+            "reshashc": "ce1b148a5d4a56dd85fe4fccc46"
         },
     ]
 }
