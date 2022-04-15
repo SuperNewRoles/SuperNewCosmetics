@@ -30,5 +30,15 @@
             "climbresource": "ウパウパ兄弟_climb.png",
             "reshashc": "ce1b148a5d4a56dd85fe4fccc46"
         },
+        {
+            "name": "ヘッドセット",
+            "author": "あもあすゆっくり",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "ヘッドセット.png",
+            "reshasha": "537dba3421fa89cbtr3fb648f15nytgbw86b",
+            "climbresource": "ヘッドセット_climb.png",
+            "reshashc": "ce1b148a5d4a5hjy6dd85fe4fccc46"
+        },
     ]
 }
