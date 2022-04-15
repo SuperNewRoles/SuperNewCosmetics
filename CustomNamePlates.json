@@ -161,9 +161,59 @@
             "resource": "BlueBack.png"
         },
         {
-            "author": "硫化水素の音",
+            "author": "頭がいい人",
             "name": "Among Us",
             "resource": "AmongUsLogo.png"
+        },
+        {
+            "author": "komeko",
+            "name": "パステルクルー",
+            "resource": "パステルクルー.png"
+        },
+        {
+            "author": "komeko",
+            "name": "パステルクルー2",
+            "resource": "パステルクルー2.png"
+        },
+        {
+            "author": "あもゆく",
+            "name": "INKTALE",
+            "resource": "INKTALE.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "ゲームを作成する",
+            "resource": "ゲームを作成する.png"
+        },
+        {
+            "author": "硫化水素の音(イケメン)",
+            "name": "ラーメンです",
+            "resource": "ラーメンです.png"
+        },
+        {
+            "author": "Supe",
+            "name": "AGARTHA",
+            "resource": "AGARTHA.png"
+        },
+        {
+            "author": "夜桜",
+            "name": "ずんだもん",
+            "resource": "ずんだもん.png"
+        },
+        {
+            "author": "そーだー",
+            "name": "愉快なクルー達",
+            "resource": "愉快なクルー達.png"
+        },
+        {
+            "author": "偽めめんともり",
+            "name": "なんだろう",
+            "resource": "なんだろう.png"
+        },
+        {
+            "author": "wakanY",
+            "name": "通信室",
+            "resource": "Comms.png"
         }
     ]
 }
