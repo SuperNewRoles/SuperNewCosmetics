@@ -83,5 +83,22 @@
             "climbresource": "cat_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
+        {
+            "name": "Gunkill",
+            "author": "あもあすゆっくり",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Gun_kill.png",
+            "reshasha": "537dba3421fa89cbtr3fb648f15nytgbw86b",
+        },
+        {
+            "adaptive": true,
+            "name": "Knifekill",
+            "author": "あもあすゆっくり",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Knife_kill_adaptive.png.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+        },
     ]
 }
