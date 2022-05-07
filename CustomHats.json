@@ -65,9 +65,9 @@
             "author": "ヤマブキ",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "TVCrew_Camera.png",
+            "resource": "TVCrew_Camera_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "TVCrew_Camera_climb.png",
+            "climbresource": "TVCrew_Camera_climb_adaptive.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -75,9 +75,9 @@
             "author": "ヤマブキ",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "TVCrew_Sound.png",
+            "resource": "TVCrew_Sound_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "TVCrew_Sound_climb.png",
+            "climbresource": "TVCrew_Sound_climb_adaptive.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
     ]
