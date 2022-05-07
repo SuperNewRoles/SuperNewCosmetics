@@ -41,17 +41,6 @@
             "reshashc": "ce1b148a5d4a5hjy6dd85fe4fccc46"
         },
         {
-            "adaptive": true,
-            "name": "おにぎり",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "おにぎり_adaptive.png",
-            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
-            "climbresource": "おにぎり_climb.png",
-            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
-        },
-        {
             "name": "高級食パン",
             "author": "ヤマブキ",
             "package": "Hat_SNR",
@@ -81,6 +70,17 @@
             "resource": "TVCrew_Sound_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "TVCrew_Sound_climb_adaptive.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "猫",
+            "author": "こめこのぱん",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "cat_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "cat_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
     ]
