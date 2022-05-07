@@ -61,6 +61,7 @@
             "reshashc": "ce1b148akutywrfewsfgsggseg4fccc46"
         },
         {
+            "adaptive": true,
             "name": "テレビクルー_カメラ",
             "author": "ヤマブキ",
             "package": "Hat_SNR",
@@ -71,6 +72,7 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
+            "adaptive": true,
             "name": "テレビクルー_音声",
             "author": "ヤマブキ",
             "package": "Hat_SNR",
