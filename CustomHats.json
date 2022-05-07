@@ -41,11 +41,12 @@
             "reshashc": "ce1b148a5d4a5hjy6dd85fe4fccc46"
         },
         {
+            "adaptive": true,
             "name": "おにぎり",
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "おにぎり.png",
+            "resource": "おにぎり_adaptive.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "おにぎり_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
