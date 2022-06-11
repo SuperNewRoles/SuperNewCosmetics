@@ -100,7 +100,7 @@
             "package": "Hat_SNR",
             "condition": "None",
             "resource": "CrewCar_adaptive.png",
-            "reshasha": "537dba3421fa;io;ll48f15nytgbw86b",
+            "reshasha": "537dba3421fa;io;ll48f15nytgbw86b"
         },
         {
             "adaptive": true,
@@ -109,7 +109,7 @@
             "package": "Hat_SNR",
             "condition": "None",
             "resource": "さつまいも_adaptive.png",
-            "reshasha": "537dba3421fa;io;ll48f15nytgbw86b",
+            "reshasha": "537dba3421fa;io;ll48f15nytgbw86b"
         },
         {
             "adaptive": true,
@@ -174,7 +174,7 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "reshashb": "3d3dea545c0655ca9aa323d27dfbd790",
             "reshashbf": "fc7928da160a7d014835772c572fc8be",
-            "reshashf": "3259d7485c9c9923dd919c3fa3acef84",
+            "reshashf": "3259d7485c9c9923dd919c3fa3acef84"
         },
         {
             "adaptive": true,
@@ -197,6 +197,26 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "switch_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "name": "トレジャーハント",
+            "author": "よっす",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "treasurehunt.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "name": "リモート会議",
+            "author": "よっす",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "remotemeeting.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
     ]
 }
