@@ -119,8 +119,34 @@
             "condition": "None",
             "resource": "kyubi_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "kyubi_adaptive_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
             "climbresource": "kyubi_adaptive_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        }
+        },
+        {
+            "adaptive": true,
+            "name": "魔女",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "witch_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "witch_adaptive_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "ドラゴン",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "dragon_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "dragon_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
+            "climbresource": "dragon_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
     ]
 }
