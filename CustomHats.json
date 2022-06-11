@@ -297,5 +297,38 @@
             "climbresource": "ezuke_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
+        {
+            "adaptive": true,
+            "name": "平和主義",
+            "author": "ヤマブキ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Heiwa_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "ラーメン屋の服",
+            "author": "しらたま",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "ramen_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "ramen_climb.png",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "コーヒー",
+            "author": "こめこのぱん",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "coffee_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
     ]
 }
