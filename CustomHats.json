@@ -110,6 +110,17 @@
             "condition": "None",
             "resource": "さつまいも_adaptive.png",
             "reshasha": "537dba3421fa;io;ll48f15nytgbw86b",
+        },
+        {
+            "adaptive": true,
+            "name": "九尾の狐",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "kyubi_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "kyubi_adaptive_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
 }
