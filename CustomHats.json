@@ -148,5 +148,16 @@
             "climbresource": "dragon_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
+        {
+            "adaptive": true,
+            "name": "ポテイト",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "potaito_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "potaito_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
     ]
 }
