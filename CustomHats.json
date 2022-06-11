@@ -199,6 +199,7 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
+            "adaptive": true,
             "name": "トレジャーハント",
             "author": "よっす",
             "package": "Hat_SNR",
@@ -209,6 +210,7 @@
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
+            "adaptive": true,
             "name": "リモート会議",
             "author": "よっす",
             "package": "Hat_SNR",
@@ -216,6 +218,50 @@
             "resource": "remotemeeting.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "虫取り網",
+            "author": "こめこのぱん",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "musitoriami_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "musitoriami_climb.png",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "元気ハツラツ！",
+            "author": "shobon",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "gennkihatsuratsu_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "gennkihatsuratsu_climb.png",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "ドットクルー",
+            "author": "shobon",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "dotcrew_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "dotcrew_climb.png",
+            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "フラン",
+            "author": "あどみん",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Huran_adaptive.png",
+            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
+            "climbresource": "Huran_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
     ]
