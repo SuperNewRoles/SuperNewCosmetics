@@ -327,6 +327,43 @@
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "柴犬",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "shiba_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "shiba_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
+            "climbresource": "shiba_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "魔術師",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Conjurer_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "Conjurer_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
+            "climbresource": "Conjurer_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "怪しい雰囲気",
+            "author": "shobon",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Ayashii.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Ayashii_back.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
 }
