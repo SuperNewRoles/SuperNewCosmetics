@@ -375,7 +375,7 @@
             "reshasha": "",
             "climbresource": "kunoichi_climb.png",
             "reshashb": ""
-        }
+        },
         {
             "adaptive": true,
             "name": "メイド(ミニ)",
@@ -385,7 +385,7 @@
             "resource": "maidmini_adaptive.png",
             "reshasha": "",
             "climbresource": "maidmini_climb.png",
-            "reshashb": "",
+            "reshashb": ""
         }
     ]
 }
