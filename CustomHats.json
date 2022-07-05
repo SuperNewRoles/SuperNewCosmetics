@@ -364,6 +364,28 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "Ayashii_back.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "クノイチ",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "kunoichi_adaptive.png",
+            "reshasha": "",
+            "climbresource": "kunoichi_climb.png",
+            "reshashb": ""
+        }
+        {
+            "adaptive": true,
+            "name": "メイド(ミニ)",
+            "author": "セオノ",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "maidmini_adaptive.png",
+            "reshasha": "",
+            "climbresource": "maidmini_climb.png",
+            "reshashb": "",
         }
     ]
 }
