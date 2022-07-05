@@ -140,11 +140,11 @@
             "author": "セオノ",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "dragon_adaptive.png",
+            "resource": "dragonSNR.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "backresource": "dragon_back.png",
+            "backresource": "dragonSNR_back.png",
             "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
-            "climbresource": "dragon_climb.png",
+            "climbresource": "dragonSNR_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
