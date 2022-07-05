@@ -24,6 +24,41 @@
             "name": "くわえ花",
             "author": "kouyou",
             "resource": "くわえ花.png",
+        },
+        {
+            "name": "Aー",
+            "author": "shobon",
+            "resource": "shobon_Aー.png",
+        },
+        {
+            "name": "口の位置そこかよ！",
+            "author": "よっす",
+            "resource": "よっす_口の位置そこかよ.png",
+        },
+        {
+            "name": "クルー体験VR",
+            "author": "shobon",
+            "resource": "shobon_クルー体験VR.png",
+        },
+        {
+            "name": "困惑",
+            "author": "にぢる",
+            "resource": "にぢる_困惑.png",
+        },
+        {
+            "name": "バグっちゃってる、、、",
+            "author": "らぷ",
+            "resource": "らぷ_バグっちゃってる.png",
+        },
+        {
+            "name": "真っ黒",
+            "author": "名無し",
+            "resource": "名無し_真っ黒.png",
+        },
+        {
+            "name": "真っ黒",
+            "author": "名無し",
+            "resource": "名無し_真っ黒.png",
         }
     ]
 }
