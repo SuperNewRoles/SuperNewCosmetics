@@ -324,6 +324,111 @@
             "author": "花海",
             "name": "赤、青、黄",
             "resource": "Red_Blue_Yellow.png"
+        },
+        {
+            "author": "しらたま",
+            "name": "俺の隣にいる人がインポスターです",
+            "resource": "しらたま_俺の隣にいる人がインポスターです.png"
+        },
+        {
+            "author": "ハロン",
+            "name": "私が神だ、敬え",
+            "resource": "ハロン_私が神だ敬え.png"
+        },
+        {
+            "author": "ハロン",
+            "name": "インポスターに自首を促すナイフ",
+            "resource": "ハロン_インポスターに自首を促すナイフ.png"
+        },
+        {
+            "author": "黒リンゴ",
+            "name": "清き一票を",
+            "resource": "黒リンゴ_清き一票を.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "私神です",
+            "resource": "偽うぱ_私神です.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "世界は私を中心に回っています",
+            "resource": "偽うぱ_世界は私を中心に回っています.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "編集めんどい",
+            "resource": "偽うぱ_編集めんどい.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "俺がこんなに愛してるのによお",
+            "resource": "偽うぱ_俺がこんなに愛してるのによお.png"
+        },
+        {
+            "author": "花海",
+            "name": "海の中",
+            "resource": "花海_海の中.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "猫フード",
+            "resource": "あもあすゆっくり_猫フード_1.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "猫フード",
+            "resource": "あもあすゆっくり_猫フード_2.png"
+        },
+        {
+            "author": "さつまいも",
+            "name": "1000人おめでとう!",
+            "resource": "さつまいも_1000人おめでとう.png"
+        },
+        {
+            "author": "くらと",
+            "name": "1000人おめでとう!_Ver.その他アナウンス",
+            "resource": "くらと_1000人おめでとう.png"
+        },
+        {
+            "author": "よっす",
+            "name": "お前を殺す",
+            "resource": "よっす_お前を殺す.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "さぁ、バトルだ!",
+            "resource": "Sakura_White_UT_Battle.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "なんかの達人っぽいなにか",
+            "resource": "Sakura_White_TJAP.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "にぼしとねこ",
+            "resource": "Sakura_White_Niboshi.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "SW-Needle",
+            "resource": "Sakura_White_SWND.png"
+        },
+        {
+            "author": "くらと",
+            "name": "バグ修正を促すDiscord",
+            "resource": "くらと_Fix_bug_byDiscord_Name.png"
+        },
+        {
+            "author": "くらと",
+            "name": "獣幽霊",
+            "resource": "くらと_獣幽霊.png"
+        },        
+        {
+            "author": "にぢる",
+            "name": "不審者",
+            "resource": "にぢる_不審者.png"
         }
     ]
 }
