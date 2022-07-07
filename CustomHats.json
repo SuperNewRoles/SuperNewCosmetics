@@ -84,13 +84,13 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
-            "name": "おにぎり",
+            "name": "おにぎり(碧月)",
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "おにぎり.png",
+            "resource": "おにぎり_碧月.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
-            "climbresource": "おにぎり_climb.png",
+            "climbresource": "おにぎり_碧月_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
@@ -319,11 +319,11 @@
         },
         {
             "adaptive": true,
-            "name": "コーヒー",
+            "name": "コーヒー(こめこのぱん)",
             "author": "こめこのぱん",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "coffee_adaptive.png",
+            "resource": "coffee_Rice_adaptive.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
