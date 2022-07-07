@@ -1,373 +1,469 @@
 {
-  "nameplates": [
-    {
-      "author": "Tsutina",
-      "name": "クルーvsジャッカルvsインポスター",
-      "resource": "CvsJvsI.png"
-    },
-    {
-      "author": "Tsutina",
-      "name": "シェリフ",
-      "resource": "SheriffIntro.png"
-    },
-    {
-      "author": "Tsutina",
-      "name": "ライター",
-      "resource": "LighterIntro.png"
-    },
-    {
-      "author": "ykundesu",
-      "name": "SuperNewRolesロゴ",
-      "resource": "SuperNewRolesLogo.png"
-    },
-    {
-      "author": "名無し",
-      "name": "銀河",
-      "resource": "Galaxy.png"
-    },
-    {
-      "author": "ビブラーバ",
-      "name": "クルーメイト達",
-      "resource": "Crewmates.png"
-    },
-    {
-      "author": "あもあすゆっくり",
-      "name": "フリスク",
-      "resource": "frisk.png"
-    },
-    {
-      "author": "SakuraWhite",
-      "name": "R0B0T Ice Laser Cannon",
-      "resource": "R0B0TIceLaserCannon.png"
-    },
-    {
-      "author": "Kouyou",
-      "name": "tree ice",
-      "resource": "treeice.png"
-    },
-    {
-      "author": "Kouyou",
-      "name": "Room selection",
-      "resource": "Roomselection.png"
-    },
-    {
-      "author": "amekun",
-      "name": "Yukkuri nameplate",
-      "resource": "Yukkurinameplate.png"
-    },
-    {
-      "author": "そーだー",
-      "name": "Yellow crewmate's",
-      "resource": "Yellowcrewmate's.png"
-    },
-    {
-      "author": "ぽめら",
-      "name": "チラ見え瑞希ちゃん",
-      "resource": "チラ見え瑞希ちゃん.png"
-    },
-    {
-      "author": "天才",
-      "name": "天才",
-      "resource": "天才.png"
-    },
-    {
-      "author": "よっしー",
-      "name": "いっぱいキョウカちゃん",
-      "resource": "いっぱいキョウカちゃん.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス",
-      "resource": "kurisu.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス2",
-      "resource": "kurisu2.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス3",
-      "resource": "kurisu3.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス4",
-      "resource": "kurisu4.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス4",
-      "resource": "kurisu4.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス5",
-      "resource": "kurisu5.png"
-    },
-    {
-      "author": "radian462",
-      "name": "クリス6",
-      "resource": "kurisu6.png"
-    },
-    {
-      "author": "radian462",
-      "name": "おぉいテロやんけゴミぃ",
-      "resource": "TEROGOMI.png"
-    },
-    {
-      "author": "radian462",
-      "name": "おぉいテロやんけゴミぃ2",
-      "resource": "TEROGOMI2.png",
-      {
-        "author": "radian462",
-        "name": "おぉいテロやんけゴミぃ2",
-        "resource": "TEROGOMI2.png"
-      },
-      {
-        "author": "radian462",
-        "name": "おぉいテロやんけゴミぃ3",
-        "resource": "TEROGOMI3.png"
-      },
-      {
-        "author": "radian462",
-        "name": "おぉいテロやんけゴミぃ4",
-        "resource": "TEROGOMI4.png"
-      },
-      {
-        "author": "radian462",
-        "name": "おぉいテロやんけゴミぃ5",
-        "resource": "TEROGOMI5.png"
-      },
-      {
-        "author": "radian462",
-        "name": "おぉいテロやんけゴミぃ6",
-        "resource": "TEROGOMI6.png"
-      },
-      {
-        "author": "radian462",
-        "name": "おぉいテロやんけゴミぃ7",
-        "resource": "TEROGOMI7.png"
-      },
-      {
-        "author": "偽レイマリ",
-        "name": "イケメンです！",
-        "resource": "イケメンです.png"
-      },
-      {
-        "author": "こめこのぱん",
-        "name": "神",
-        "resource": "GOD.png"
-      },
-      {
-        "author": "pit",
-        "name": "日本",
-        "resource": "Japan.png"
-      },
-      {
-        "author": "花海",
-        "name": "深い海の底へ",
-        "resource": "深い海の底へ.png"
-      },
-      {
-        "author": "もうふ",
-        "name": "自己紹介",
-        "resource": "自己紹介.png"
-      },
-      {
-        "author": "もうふ",
-        "name": "エンジョイ心を忘れずに",
-        "resource": "Enjoy.png"
-      },
-      {
-        "author": "碧月",
-        "name": "エンジョイ心を忘れずに",
-        "resource": "Enjoy.png"
-      },
-      {
-        "author": "もうふ",
-        "name": "桜並木",
-        "resource": "桜並木.png"
-      },
-      {
-        "author": "Wakany",
-        "name": "アドミン",
-        "resource": "Admin.png"
-      },
-      {
-        "author": "もうふ",
-        "name": "グリーンバック",
-        "resource": "GreenBack.png"
-      },
-      {
-        "author": "もうふ",
-        "name": "ブルーバック",
-        "resource": "BlueBack.png"
-      },
-      {
-        "author": "頭がいい人",
-        "name": "Among Us",
-        "resource": "AmongUsLogo.png"
-      },
-      {
-        "author": "komeko",
-        "name": "パステルクルー",
-        "resource": "パステルクルー.png"
-      },
-      {
-        "author": "komeko",
-        "name": "パステルクルー2",
-        "resource": "パステルクルー2.png"
-      },
-      {
-        "author": "あもゆく",
-        "name": "INKTALE",
-        "resource": "INKTALE.png"
-      },
-      {
-        "author": "あもあすゆっくり",
-        "name": "ゲームを作成する",
-        "resource": "ゲームを作成する.png"
-      },
-      {
-        "author": "硫化水素の音(イケメン)",
-        "name": "ラーメンです",
-        "resource": "ラーメンです.png"
-      },
-      {
-        "author": "Supe",
-        "name": "AGARTHA",
-        "resource": "AGARTHA.png"
-      },
-      {
-        "author": "夜桜",
-        "name": "ずんだもん",
-        "resource": "ずんだもん.png"
-      },
-      {
-        "author": "そーだー",
-        "name": "愉快なクルー達",
-        "resource": "愉快なクルー達.png"
-      },
-      {
-        "author": "偽めめんともり",
-        "name": "なんだろう",
-        "resource": "なんだろう.png"
-      },
-      {
-        "author": "wakanY",
-        "name": "通信室",
-        "resource": "Comms.png"
-      },
-      {
-        "author": "けい",
-        "name": "もくもく～",
-        "resource": "もくもく.png"
-      },
-      {
-        "author": "もうふ",
-        "name": "綺麗な欠片",
-        "resource": "Acleanslate.png"
-      },
-      {
-        "author": "komeko",
-        "name": "かなりまな板だよコレ!",
-        "resource": "かなりまな板だよコレ!.png"
-      },
-      {
-        "author": "Kouyou",
-        "name": "かなりまな板だよコレ 反転",
-        "resource": "かなりまな板だよコレ反転.png"
-      },
-      {
-        "author": "あもあすゆっくり",
-        "name": "エイリアンキル",
-        "resource": "エイリアンキル.png"
-      },
-      {
-        "author": "色変えくん",
-        "name": "レモンプレート",
-        "resource": "レモンプレート.png"
-      },
-      {
-        "author": "nekonomura",
-        "name": "医務室",
-        "resource": "医務室.png"
-      },
-      {
-        "author": "カルメヤキ",
-        "name": "nameplate text",
-        "resource": "nameplate_text.png"
-      },
-      {
-        "author": "けい",
-        "name": "海",
-        "resource": "Sea.png"
-      },
-      {
-        "author": "なみ",
-        "name": "アクアマリンの海",
-        "resource": "Sea.png"
-      },
-      {
-        "author": "なみ",
-        "name": "梅雨",
-        "resource": "梅雨.png"
-      },
-      {
-        "author": "頭がいい人",
-        "name": "mongUs",
-        "resource": "mongUs.png"
-      },
-      {
-        "author": "なみ",
-        "name": "想像世界・緑",
-        "resource": "Creative_World_Green.png"
-      },
-      {
-        "author": "なみ",
-        "name": "想像世界・紫",
-        "resource": "Creative_World_Purple.png"
-      },
-      {
-        "author": "なみ",
-        "name": "想像世界・赤",
-        "resource": "Creative_World_Red.png"
-      },
-      {
-        "author": "なみ",
-        "name": "想像世界・青",
-        "resource": "Creative_World_Blue.png"
-      },
-      {
-        "author": "くらと",
-        "name": "諦めなかったらいけるbyよっキング",
-        "resource": "諦めなかったらいけるbyよっキング.png"
-      },
-      {
-        "author": "くらと",
-        "name": "諦めなかったらいけるbyよっキング2",
-        "resource": "諦めなかったらいけるbyよっキング2.png"
-      },
-      {
-        "author": "花海",
-        "name": "恋人",
-        "resource": "Lovers.png"
-      },
-      {
-        "author": "ののぽん",
-        "name": "服選び",
-        "resource": "服選び.png"
-      },
-      {
-        "author": "くらと",
-        "name": "あすきーあーと",
-        "resource": "あすきーあーと.png"
-      },
-      {
-        "author": "花海",
-        "name": "赤、青、黄",
-        "resource": "Red_Blue_Yellow.png"
-      }
-  ]
+    "nameplates": [
+        {
+            "author": "Tsutina",
+            "name": "クルーvsジャッカルvsインポスター",
+            "resource": "CvsJvsI.png"
+        },
+        {
+            "author": "Tsutina",
+            "name": "シェリフ",
+            "resource": "SheriffIntro.png"
+        },
+        {
+            "author": "Tsutina",
+            "name": "ライター",
+            "resource": "LighterIntro.png"
+        },
+        {
+            "author": "ykundesu",
+            "name": "SuperNewRolesロゴ",
+            "resource": "SuperNewRolesLogo.png"
+        },
+        {
+            "author": "名無し",
+            "name": "銀河",
+            "resource": "Galaxy.png"
+        },
+        {
+            "author": "ビブラーバ",
+            "name": "クルーメイト達",
+            "resource": "Crewmates.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "フリスク",
+            "resource": "frisk.png"
+        },
+        {
+            "author": "SakuraWhite",
+            "name": "R0B0T Ice Laser Cannon",
+            "resource": "R0B0TIceLaserCannon.png"
+        },
+        {
+            "author": "Kouyou",
+            "name": "tree ice",
+            "resource": "treeice.png"
+        },
+        {
+            "author": "Kouyou",
+            "name": "Room selection",
+            "resource": "Roomselection.png"
+        },
+        {
+            "author": "amekun",
+            "name": "Yukkuri nameplate",
+            "resource": "Yukkurinameplate.png"
+        },
+        {
+            "author": "そーだー",
+            "name": "Yellow crewmate's",
+            "resource": "Yellowcrewmate's.png"
+        },
+        {
+            "author": "天才",
+            "name": "天才",
+            "resource": "天才.png"
+        },
+        {
+            "author": "よっしー",
+            "name": "いっぱいキョウカちゃん",
+            "resource": "いっぱいキョウカちゃん.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス",
+            "resource": "kurisu.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス2",
+            "resource": "kurisu2.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス3",
+            "resource": "kurisu3.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス4",
+            "resource": "kurisu4.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス5",
+            "resource": "kurisu5.png"
+        },
+        {
+            "author": "radian462",
+            "name": "クリス6",
+            "resource": "kurisu6.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ",
+            "resource": "TEROGOMI.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ2",
+            "resource": "TEROGOMI2.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ3",
+            "resource": "TEROGOMI3.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ4",
+            "resource": "TEROGOMI4.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ5",
+            "resource": "TEROGOMI5.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ6",
+            "resource": "TEROGOMI6.png"
+        },
+        {
+            "author": "radian462",
+            "name": "おぉいテロやんけゴミぃ7",
+            "resource": "TEROGOMI7.png"
+        },
+        {
+            "author": "偽レイマリ",
+            "name": "イケメンです！",
+            "resource": "イケメンです.png"
+        },
+        {
+            "author": "こめこのぱん",
+            "name": "神",
+            "resource": "GOD.png"
+        },
+        {
+            "author": "pit",
+            "name": "日本",
+            "resource": "Japan.png"
+        },
+        {
+            "author": "花海",
+            "name": "深い海の底へ",
+            "resource": "深い海の底へ.png"
+        },
+        {
+            "author": "もうふ",
+            "name": "自己紹介",
+            "resource": "自己紹介.png"
+        },
+        {
+            "author": "もうふ",
+            "name": "エンジョイ心を忘れずに",
+            "resource": "Enjoy.png"
+        },
+        {
+            "author": "碧月",
+            "name": "エンジョイ心を忘れずに",
+            "resource": "Enjoy.png"
+        },
+        {
+            "author": "もうふ",
+            "name": "桜並木",
+            "resource": "桜並木.png"
+        },
+        {
+            "author": "Wakany",
+            "name": "アドミン",
+            "resource": "Admin.png"
+        },
+        {
+            "author": "もうふ",
+            "name": "グリーンバック",
+            "resource": "GreenBack.png"
+        },
+        {
+            "author": "もうふ",
+            "name": "ブルーバック",
+            "resource": "BlueBack.png"
+        },
+        {
+            "author": "頭がいい人",
+            "name": "Among Us",
+            "resource": "AmongUsLogo.png"
+        },
+        {
+            "author": "komeko",
+            "name": "パステルクルー",
+            "resource": "パステルクルー.png"
+        },
+        {
+            "author": "komeko",
+            "name": "パステルクルー2",
+            "resource": "パステルクルー2.png"
+        },
+        {
+            "author": "あもゆく",
+            "name": "INKTALE",
+            "resource": "INKTALE.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "ゲームを作成する",
+            "resource": "ゲームを作成する.png"
+        },
+        {
+            "author": "硫化水素の音(イケメン)",
+            "name": "ラーメンです",
+            "resource": "ラーメンです.png"
+        },
+        {
+            "author": "Supe",
+            "name": "AGARTHA",
+            "resource": "AGARTHA.png"
+        },
+        {
+            "author": "夜桜",
+            "name": "ずんだもん",
+            "resource": "ずんだもん.png"
+        },
+        {
+            "author": "そーだー",
+            "name": "愉快なクルー達",
+            "resource": "愉快なクルー達.png"
+        },
+        {
+            "author": "偽めめんともり",
+            "name": "なんだろう",
+            "resource": "なんだろう.png"
+        },
+        {
+            "author": "wakanY",
+            "name": "通信室",
+            "resource": "Comms.png"
+        },
+        {
+            "author": "けい",
+            "name": "もくもく～",
+            "resource": "もくもく.png"
+        },
+        {
+            "author": "もうふ",
+            "name": "綺麗な欠片",
+            "resource": "Acleanslate.png"
+        },
+        {
+            "author": "komeko",
+            "name": "かなりまな板だよコレ!",
+            "resource": "かなりまな板だよコレ!.png"
+        },
+        {
+            "author": "Kouyou",
+            "name": "かなりまな板だよコレ 反転",
+            "resource": "かなりまな板だよコレ反転.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "エイリアンキル",
+            "resource": "エイリアンキル.png"
+        },
+        {
+            "author": "色変えくん",
+            "name": "レモンプレート",
+            "resource": "レモンプレート.png"
+        },
+        {
+            "author": "nekonomura",
+            "name": "医務室",
+            "resource": "医務室.png"
+        },
+        {
+            "author": "カルメヤキ",
+            "name": "nameplate text",
+            "resource": "nameplate_text.png"
+        },
+        {
+            "author": "けい",
+            "name": "海",
+            "resource": "Sea.png"
+        },
+        {
+            "author": "なみ",
+            "name": "アクアマリンの海",
+            "resource": "Sea.png"
+        },
+        {
+            "author": "なみ",
+            "name": "梅雨",
+            "resource": "梅雨.png"
+        },
+        {
+            "author": "頭がいい人",
+            "name": "mongUs",
+            "resource": "mongUs.png"
+        },
+        {
+            "author": "なみ",
+            "name": "想像世界・緑",
+            "resource": "Creative_World_Green.png"
+        },
+        {
+            "author": "なみ",
+            "name": "想像世界・紫",
+            "resource": "Creative_World_Purple.png"
+        },
+        {
+            "author": "なみ",
+            "name": "想像世界・赤",
+            "resource": "Creative_World_Red.png"
+        },
+        {
+            "author": "なみ",
+            "name": "想像世界・青",
+            "resource": "Creative_World_Blue.png"
+        },
+        {
+            "author": "くらと",
+            "name": "諦めなかったらいけるbyよっキング",
+            "resource": "諦めなかったらいけるbyよっキング.png"
+        },
+        {
+            "author": "くらと",
+            "name": "諦めなかったらいけるbyよっキング2",
+            "resource": "諦めなかったらいけるbyよっキング2.png"
+        },
+        {
+            "author": "花海",
+            "name": "恋人",
+            "resource": "Lovers.png"
+        },
+        {
+            "author": "ののぽん",
+            "name": "服選び",
+            "resource": "服選び.png"
+        },
+        {
+            "author": "くらと",
+            "name": "あすきーあーと",
+            "resource": "あすきーあーと.png"
+        },
+        {
+            "author": "花海",
+            "name": "赤、青、黄",
+            "resource": "Red_Blue_Yellow.png"
+        },
+        {
+            "author": "しらたま",
+            "name": "俺の隣にいる人がインポスターです",
+            "resource": "しらたま_俺の隣にいる人がインポスターです.png"
+        },
+        {
+            "author": "ハロン",
+            "name": "私が神だ、敬え",
+            "resource": "ハロン_私が神だ敬え.png"
+        },
+        {
+            "author": "ハロン",
+            "name": "インポスターに自首を促すナイフ",
+            "resource": "ハロン_インポスターに自首を促すナイフ.png"
+        },
+        {
+            "author": "黒リンゴ",
+            "name": "清き一票を",
+            "resource": "黒リンゴ_清き一票を.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "私神です",
+            "resource": "偽うぱ_私神です.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "世界は私を中心に回っています",
+            "resource": "偽うぱ_世界は私を中心に回っています.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "編集めんどい",
+            "resource": "偽うぱ_編集めんどい.png"
+        },
+        {
+            "author": "偽うぱ",
+            "name": "俺がこんなに愛してるのによお",
+            "resource": "偽うぱ_俺がこんなに愛してるのによお.png"
+        },
+        {
+            "author": "花海",
+            "name": "海の中",
+            "resource": "花海_海の中.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "猫フード",
+            "resource": "あもあすゆっくり_猫フード_1.png"
+        },
+        {
+            "author": "あもあすゆっくり",
+            "name": "猫フード",
+            "resource": "あもあすゆっくり_猫フード_2.png"
+        },
+        {
+            "author": "さつまいも",
+            "name": "1000人おめでとう!",
+            "resource": "さつまいも_1000人おめでとう.png"
+        },
+        {
+            "author": "くらと",
+            "name": "1000人おめでとう!_Ver.その他アナウンス",
+            "resource": "くらと_1000人おめでとう.png"
+        },
+        {
+            "author": "よっす",
+            "name": "お前を殺す",
+            "resource": "よっす_お前を殺す.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "さぁ、バトルだ!",
+            "resource": "Sakura_White_UT_Battle.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "なんかの達人っぽいなにか",
+            "resource": "Sakura_White_TJAP.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "にぼしとねこ",
+            "resource": "Sakura_White_Niboshi.png"
+        },
+        {
+            "author": "Sakura_White",
+            "name": "SW-Needle",
+            "resource": "Sakura_White_SWND.png"
+        },
+        {
+            "author": "くらと",
+            "name": "バグ修正を促すDiscord",
+            "resource": "くらと_Fix_bug_byDiscord_Name.png"
+        },
+        {
+            "author": "くらと",
+            "name": "獣幽霊",
+            "resource": "くらと_獣幽霊.png"
+        },
+        {
+            "author": "くらと",
+            "name": "12人の会議",
+            "resource": "くらと_12人の会議.png"
+        },
+        {
+            "author": "にぢる",
+            "name": "不審者",
+            "resource": "にぢる_不審者.png"
+        }
+    ]
 }
