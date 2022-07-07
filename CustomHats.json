@@ -386,6 +386,17 @@
             "reshasha": "",
             "climbresource": "maidmini_climb.png",
             "reshashb": ""
+        }, 
+        {
+            "adaptive": true,
+            "name": "たこ焼き",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "碧月-たこ焼き.png",
+            "reshasha": "",
+            "climbresource": "碧月-たこ焼き-climb.png",
+            "reshashb": ""
         }
     ]
 }
