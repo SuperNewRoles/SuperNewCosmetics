@@ -397,6 +397,19 @@
             "reshasha": "",
             "climbresource": "碧月-たこ焼き-climb.png",
             "reshashb": ""
+        },
+        {
+            "adaptive": true,
+            "name": "ドラゴンColor",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "Noオノne",
+            "resource": "セオノ_dragonSNRcolor_adaptive.png",
+            "reshasha": "",
+            "backresource": "セオノ_dragonSNRcolor_back.png",
+            "reshashb": "",
+            "climbresource": "セオノ_dragonSNRcolor_climb.png",
+            "reshashc": ""
         }
     ]
 }
