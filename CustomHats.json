@@ -386,6 +386,43 @@
             "reshasha": "",
             "climbresource": "maidmini_climb.png",
             "reshashb": ""
-        }
+        }, 
+        {
+            "adaptive": true,
+            "name": "たこ焼き",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "碧月_たこ焼き.png",
+            "reshasha": "",
+            "climbresource": "碧月-たこ焼き-climb.png",
+            "reshashb": ""
+        },
+        {
+            "adaptive": true,
+            "name": "ドラゴンColor",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "セオノ_dragonSNRcolor_adaptive.png",
+            "reshasha": "",
+            "backresource": "セオノ_dragonSNRcolor_back.png",
+            "reshashb": "",
+            "climbresource": "セオノ_dragonSNRcolor_climb.png",
+            "reshashc": ""
+        },
+        {
+            "adaptive": true,
+            "name": "魔術師Dark",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "セオノ_ConjurerDark_adaptive.png",
+            "reshasha": "",
+            "backresource": "セオノ_ConjurerDark_back.png",
+            "reshashb": "",
+            "climbresource": "セオノ_ConjurerDark_climb.png",
+            "reshashc": ""
+        }    
     ]
 }
