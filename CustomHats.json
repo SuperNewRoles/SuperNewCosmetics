@@ -403,7 +403,7 @@
             "name": "ドラゴンColor",
             "author": "セオノ",
             "package": "SeonoCollection",
-            "condition": "Noオノne",
+            "condition": "None",
             "resource": "セオノ_dragonSNRcolor_adaptive.png",
             "reshasha": "",
             "backresource": "セオノ_dragonSNRcolor_back.png",
