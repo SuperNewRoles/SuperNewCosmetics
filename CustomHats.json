@@ -410,6 +410,19 @@
             "reshashb": "",
             "climbresource": "セオノ_dragonSNRcolor_climb.png",
             "reshashc": ""
-        }
+        },
+        {
+            "adaptive": true,
+            "name": "魔術師Dark",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "セオノ_ConjurerDark_adaptive.png",
+            "reshasha": "",
+            "backresource": "セオノ_ConjurerDark_back.png",
+            "reshashb": "",
+            "climbresource": "セオノ_ConjurerDark_climb.png",
+            "reshashc": ""
+        }    
     ]
 }
