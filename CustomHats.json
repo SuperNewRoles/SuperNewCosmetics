@@ -1,6 +1,5 @@
 ﻿{
-    "hats": [
-        {
+    "hats": [{
             "name": "Gaming hat",
             "author": "Wifi/main",
             "package": "Hat_SNR",
@@ -386,7 +385,7 @@
             "reshasha": "",
             "climbresource": "maidmini_climb.png",
             "reshashb": ""
-        }, 
+        },
         {
             "adaptive": true,
             "name": "たこ焼き",
@@ -423,6 +422,19 @@
             "reshashb": "",
             "climbresource": "セオノ_ConjurerDark_climb.png",
             "reshashc": ""
-        }    
+        },
+        {
+            "adaptive": true,
+            "name": "狼",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "wolfSON_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "wolfSON_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
+            "climbresource": "wolfSON_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        }
     ]
 }
