@@ -1,5 +1,6 @@
 ﻿{
-    "hats": [{
+    "hats": [
+        {
             "name": "Gaming hat",
             "author": "Wifi/main",
             "package": "Hat_SNR",
@@ -499,6 +500,17 @@
             "resource": "Miduki_バスケ_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "Miduki_バスケ_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "勇者",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_勇者_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_勇者_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
