@@ -425,6 +425,17 @@
             "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
             "climbresource": "wolfSON_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "赤ずきん",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_Akazukin_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_Akazukin_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
 }
