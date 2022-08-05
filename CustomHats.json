@@ -436,6 +436,17 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "Miduki_Akazukin_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "お洒落な服",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_お洒落な服_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_お洒落な服_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
 }
