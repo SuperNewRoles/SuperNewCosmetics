@@ -512,6 +512,17 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "Miduki_勇者_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "わたあめ",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_わたあめ_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_わたあめ_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
 }
