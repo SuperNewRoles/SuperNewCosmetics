@@ -165,7 +165,6 @@
             "reshashf": "3259d7485c9c9923dd919c3fa3acef84"
         },
         {
-            "adaptive": true,
             "name": "ポテイト",
             "author": "碧月",
             "package": "Hat_SNR",
@@ -176,7 +175,6 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
             "name": "スイッチ",
             "author": "碧月",
             "package": "Hat_SNR",
@@ -220,7 +218,6 @@
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
             "name": "元気ハツラツ！",
             "author": "shobon",
             "package": "Hat_SNR",
@@ -242,7 +239,6 @@
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
             "name": "フラン",
             "author": "あどみん",
             "package": "Hat_SNR",
@@ -264,7 +260,6 @@
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
             "name": "でかでかまゆげ",
             "author": "硫化水素の音",
             "package": "Hat_SNR",
@@ -297,7 +292,6 @@
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
             "name": "ラーメン屋の服",
             "author": "しらたま",
             "package": "Hat_SNR",
@@ -345,7 +339,6 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
             "name": "怪しい雰囲気",
             "author": "shobon",
             "package": "Hat_SNR",
@@ -378,7 +371,6 @@
             "reshashb": ""
         },
         {
-            "adaptive": true,
             "name": "たこ焼き",
             "author": "碧月",
             "package": "Hat_SNR",
@@ -488,6 +480,7 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b"
         },
         {
+            "adaptive": true,
             "name": "バスケ",
             "author": "碧月",
             "package": "Hat_SNR",
@@ -498,6 +491,7 @@
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
+            "adaptive": true,
             "name": "勇者",
             "author": "碧月",
             "package": "Hat_SNR",
