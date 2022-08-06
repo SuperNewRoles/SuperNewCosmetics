@@ -425,6 +425,19 @@
             "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
             "climbresource": "wolfSON_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "ゴスロリ",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "gosuroriSON_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "gosuroriSON_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
+            "climbresource": "gosuroriSON_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
 }
