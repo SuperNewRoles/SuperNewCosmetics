@@ -15,9 +15,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "ウパウパ兄弟.png",
+            "resource": "UpapaBrothers.png",
             "reshasha": "537dba3421fa89c3fb648f15nytgbw86b",
-            "climbresource": "ウパウパ兄弟_climb.png",
+            "climbresource": "UpapaBrothers_climb.png",
             "reshashc": "ce1b148a5d4a56dd85fe4fccc46"
         },
         {
@@ -25,9 +25,9 @@
             "author": "あもあすゆっくり",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "ヘッドセット.png",
+            "resource": "headset.png",
             "reshasha": "537dba3421fa89cbtr3fb648f15nytgbw86b",
-            "climbresource": "ヘッドセット_climb.png",
+            "climbresource": "headset_climb.png",
             "reshashc": "ce1b148a5d4a5hjy6dd85fe4fccc46"
         },
         {
@@ -35,9 +35,9 @@
             "author": "ヤマブキ",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "kokyusyokuパン.png",
+            "resource": "HighQualityBread.png",
             "reshasha": "537dbdtrhrta;io;fb648f15nytgbw86b",
-            "climbresource": "kokyusyokuパン_climb.png",
+            "climbresource": "High_quality_bread_climb.png",
             "reshashc": "ce1b148akutywrfewsfgsggseg4fccc46"
         },
         {
@@ -46,9 +46,9 @@
             "author": "ヤマブキ",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "TVCrew_Camera_adaptive.png",
+            "resource": "TVCrewCamera_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "TVCrew_Camera_climb_adaptive.png",
+            "climbresource": "TVCrewCamera_adaptive_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -57,9 +57,9 @@
             "author": "ヤマブキ",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "TVCrew_Sound_adaptive.png",
+            "resource": "TVCrewSound_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "TVCrew_Sound_climb_adaptive.png",
+            "climbresource": "TVCrewSound_adaptive_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -67,9 +67,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "おにぎり_碧月.png",
+            "resource": "RiceBallMiduki.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
-            "climbresource": "おにぎり_碧月_climb.png",
+            "climbresource": "RiceBallMiduki_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
@@ -87,7 +87,7 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "さつまいも_adaptive.png",
+            "resource": "SweetPotatoMiduki_adaptive.png",
             "reshasha": "537dba3421fa;io;ll48f15nytgbw86b"
         },
         {
@@ -296,7 +296,7 @@
             "author": "こめこのぱん",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "coffee_Rice_adaptive.png",
+            "resource": "CoffeeRice_adaptive.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
@@ -334,7 +334,7 @@
             "condition": "None",
             "resource": "Ayashii.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Ayashii_back.png",
+            "climbresource": "Ayashii_climbk.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -364,9 +364,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "碧月_たこ焼き.png",
+            "resource": "OctopusDumplingsMiduki.png",
             "reshasha": "",
-            "climbresource": "碧月_たこ焼き-climb.png",
+            "climbresource": "OctopusDumplingsMiduki_climb.png",
             "reshashb": ""
         },
         {
@@ -375,11 +375,11 @@
             "author": "セオノ",
             "package": "SeonoCollection",
             "condition": "None",
-            "resource": "セオノ_dragonSNRcolor_adaptive.png",
+            "resource": "dragonSNRcolor_adaptive.png",
             "reshasha": "",
-            "backresource": "セオノ_dragonSNRcolor_back.png",
+            "backresource": "dragonSNRcolor_back.png",
             "reshashb": "",
-            "climbresource": "セオノ_dragonSNRcolor_climb.png",
+            "climbresource": "dragonSNRcolor_climb.png",
             "reshashc": ""
         },
         {
@@ -388,11 +388,11 @@
             "author": "セオノ",
             "package": "SeonoCollection",
             "condition": "None",
-            "resource": "セオノ_ConjurerDark_adaptive.png",
+            "resource": "ConjurerDark_adaptive.png",
             "reshasha": "",
-            "backresource": "セオノ_ConjurerDark_back.png",
+            "backresource": "ConjurerDark_back.png",
             "reshashb": "",
-            "climbresource": "セオノ_ConjurerDark_climb.png",
+            "climbresource": "ConjurerDark_climb.png",
             "reshashc": ""
         },
         {
@@ -413,9 +413,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_Akazukin_adaptive.png",
+            "resource": "MidukiAkazukin.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_Akazukin_climb.png",
+            "climbresource": "MidukiAkazukin_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -424,9 +424,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_猫型パーカー_adaptive.png",
+            "resource": "MidukiCatShapedParka_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_猫型パーカー_climb.png",
+            "climbresource": "MidukiCatShapedParka_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -435,9 +435,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_うさぎパーカー_adaptive.png",
+            "resource": "MidukiRabbitHoodie_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_うさぎパーカー_climb.png",
+            "climbresource": "MidukiRabbitHoodie_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -445,9 +445,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_ハムスタークルー_adaptive.png",
+            "resource": "MidukiHamsterCrew_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_ハムスタークルー_climb.png",
+            "climbresource": "MidukiHamsterCrew_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -455,9 +455,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_たまごの殻_adaptive.png",
+            "resource": "MidukiEggshells.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_たまごの殻_climb.png",
+            "climbresource": "MidukiEggshells_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -465,7 +465,7 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_サッカー_adaptive.png",
+            "resource": "MidukiSoccer.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b"
         },
         {
@@ -474,9 +474,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_バスケ_adaptive.png",
+            "resource": "MidukiBasketball_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_バスケ_climb.png",
+            "climbresource": "MidukiBasketball_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -485,9 +485,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_勇者_adaptive.png",
+            "resource": "MidukiHero_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_勇者_climb.png",
+            "climbresource": "MidukiHero_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
@@ -496,9 +496,9 @@
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "Miduki_わたあめ_adaptive.png",
+            "resource": "MidukiCottonCandy_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "Miduki_わたあめ_climb.png",
+            "climbresource": "MidukiCottonCandy_climb.png",
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
