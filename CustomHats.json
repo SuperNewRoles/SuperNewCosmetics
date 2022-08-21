@@ -63,17 +63,6 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
-            "adaptive": true,
-            "name": "猫",
-            "author": "こめこのぱん",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "cat_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "cat_climb.png",
-            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
             "name": "おにぎり(碧月)",
             "author": "碧月",
             "package": "Hat_SNR",
