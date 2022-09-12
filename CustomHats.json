@@ -461,25 +461,6 @@
             "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
-            "name": "サッカー",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiSoccer.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b"
-        },
-        {
-            "adaptive": true,
-            "name": "バスケ",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiBasketball_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiBasketball_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
             "adaptive": true,
             "name": "勇者",
             "author": "碧月",
