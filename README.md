@@ -2,7 +2,7 @@
 
 SuperNewRolesのCosmeticsです。<br>
 SuperNewRoles↓<br>
-https://github.com/ykuundesu/SuperNewRoles<br>
+https://github.com/ykundesu/SuperNewRoles<br>
 <br>
 <br>
 
