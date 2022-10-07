@@ -513,6 +513,41 @@
             "condition": "None",
             "resource": "matoSON_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b"
+        },
+        {
+            "name": "パブロフの犬(オーナー)",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "PavlovOwnerSON_adaptive.png",
+            "backresource": "PavlovOwnerSON_back.png",
+            "flipresource": "PavlovOwnerSON_flip.png",
+            "backflipresource": "PavlovOwnerSON_flip_back.png",
+            "climbresource": "PavlovOwnerSON_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "パブロフの犬(犬)",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "PavlovDogSON_adaptive.png",
+            "backresource": "PavlovDogSON_back.png",
+            "flipresource": "PavlovDogSON_flip.png",
+            "backflipresource": "PavlovDogSON_flip_back.png",
+            "climbresource": "PavlovDogSON_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "大天使",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "HighAngleSON.png",
+            "backresource": "HighAngleSON_back.png",
+            "flipresource": "HighAngleSON_flip.png",
+            "backflipresource": "HighAngleSON_flip_back.png",
+            "climbresource": "HighAngleSON_climb.png"
         }
     ]
 }
