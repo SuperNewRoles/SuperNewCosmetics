@@ -361,6 +361,11 @@
             "resource": "ハロン_インポスターに自首を促すナイフ.png"
         },
         {
+            "author": "ハロン",
+            "name": "自分をクルーだと思ってる一般インポスター",
+            "resource": "ハロン_自分をクルーだと思ってる一般インポスター.png"
+        },
+        {
             "author": "黒リンゴ",
             "name": "清き一票を",
             "resource": "黒リンゴ_清き一票を.png"
@@ -416,6 +421,21 @@
             "resource": "よっす_お前を殺す.png"
         },
         {
+            "author": "よっす",
+            "name": "俺が守る",
+            "resource": "よっす＿俺が守る.png"
+        },
+        {
+            "author": "よっす",
+            "name": "小さな世界",
+            "resource": "よっす_小さな世界.png"
+        },
+        {
+            "author": "よっす",
+            "name": "小さな世界",
+            "resource": "よっす_小さな世界.png"
+        },
+        {
             "author": "Sakura_White",
             "name": "さぁ、バトルだ!",
             "resource": "Sakura_White_UT_Battle.png"
@@ -454,6 +474,11 @@
             "author": "にぢる",
             "name": "不審者",
             "resource": "にぢる_不審者.png"
+        },
+        {
+            "author": "fuofuo",
+            "name": "サイコパス",
+            "resource": "fuofuo_サイコパス.png"
         }
     ]
 }
