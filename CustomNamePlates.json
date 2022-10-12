@@ -479,6 +479,56 @@
             "author": "fuofuo",
             "name": "サイコパス",
             "resource": "fuofuo_サイコパス.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "夏の空",
+            "resource": "あさまる_夏の空.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "秋の景色",
+            "resource": "あさまる_秋の景色.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "夏休みの思い出〜森の中〜",
+            "resource": "あさまる_夏休みの思い出〜森の中〜.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "美味しいタピオカ",
+            "resource": "あさまる_美味しいタピオカ.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "とある梅雨の日",
+            "resource": "あさまる_とある梅雨の日.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "転校したぞ!",
+            "resource": "あさまる_転校したぞ!.png"
+        },
+        {
+            "author": "あさまる",
+            "name": "夕方の空",
+            "resource": "夕方の空.png"
+        },
+        {
+            "author": "Rana",
+            "name": "犬とは",
+            "resource": "Rana_犬とは.png"
+        },
+        {
+            "author": "奏推しのおもち",
+            "name": "夜空の上には...",
+            "resource": "奏推しのおもち_夜空の上には....png"
+        },
+        {
+            "author": "奏推しのおもち",
+            "name": "錆びついたプレート",
+            "resource": "錆びついたプレート.png"
         }
     ]
 }
