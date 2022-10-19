@@ -548,6 +548,16 @@
             "flipresource": "HighAngleSON_flip.png",
             "backflipresource": "HighAngleSON_flip_back.png",
             "climbresource": "HighAngleSON_climb.png"
+        },
+        {
+            "name": "syanpan",
+            "author": "syanpan",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "syanpan.png",
+            "reshasha": "",
+            "climbresource": "syanpan_climb.png",
+            "reshashb": ""
         }
     ]
 }
