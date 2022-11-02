@@ -558,6 +558,15 @@
             "reshasha": "",
             "climbresource": "syanpan_climb.png",
             "reshashb": ""
+        },
+        {
+            "name": "ナイス赤ずきん",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "RedHoodGirlSON.png",
+            "backresource": "RedHoodGirlSON_back.png",
+            "climbresource": "RedHoodGirlSON_climb.png"
         }
     ]
 }
