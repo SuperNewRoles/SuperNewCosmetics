@@ -560,6 +560,16 @@
             "reshashb": ""
         },
         {
+            "name": "とある村の狂人枠",
+            "author": "Legendy",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Legendy.png",
+            "reshasha": "",
+            "climbresource": "Legendy_climb.png",
+            "reshashb": ""
+        },
+        {
             "name": "ナイス赤ずきん",
             "author": "セオノ",
             "package": "SeonoCollection",
