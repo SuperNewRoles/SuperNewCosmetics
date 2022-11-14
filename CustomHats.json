@@ -567,6 +567,116 @@
             "resource": "RedHoodGirlSON.png",
             "backresource": "RedHoodGirlSON_back.png",
             "climbresource": "RedHoodGirlSON_climb.png"
+        },
+        {
+            "name": "トウユ",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONtouyu.png",
+            "climbresource": "TONtouyu_climb.png"
+        },
+        {
+            "name": "YOU様",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONyousama.png",
+            "climbresource": "TONyousama_climb.png"
+        },
+        {
+            "name": "あーちゃん",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONachan.png",
+            "flipresource": "TONachan_flip.png",
+            "climbresource": "TONachan_climb.png"
+        },
+        {
+            "name": "セオノ",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONseono.png",
+            "backresource": "TONseono_back.png",
+            "flipresource": "TONseono_flip.png",
+            "climbresource": "TONseono_climb.png"
+        },
+        {
+            "name": "そうえん",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONsouen.png",
+            "backresource": "TONsouen_back.png",
+            "flipresource": "TONsouen_flip.png",
+            "climbresource": "TONsouen_climb.png"
+        },
+        {
+            "name": "テシー",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONteasea.png",
+            "backresource": "TONteasea_back.png",
+            "climbresource": "TONteasea_climb.png"
+        },
+        {
+            "name": "てと",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONteto.png",
+            "flipresource": "TONteto_flip.png",
+            "climbresource": "TONteto_climb.png"
+        },
+        {
+            "name": "ぴぁがぶ",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONgabu.png",
+            "backresource": "TONgabu_back.png",
+            "flipresource": "TONgabu_flip.png",
+            "climbresource": "TONgabu_climb.png"
+        },
+        {
+            "name": "ゆき(Lüty)",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONyuki.png",
+            "flipresource": "TONyuki_flip.png",
+            "climbresource": "TONyuki_climb.png"
+        },
+        {
+            "name": "渚稀",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONnaki.png",
+            "flipresource": "TONnaki_flip.png",
+            "climbresource": "TONnaki_climb.png"
+        },
+        {
+            "name": "渚稀02",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONnaki02.png",
+            "flipresource": "TONnaki02_flip.png",
+            "climbresource": "TONnaki02_climb.png"
+        },
+        {
+            "name": "矢野なつめ",
+            "author": "セオノ",
+            "package": "とんでもございま船Hats",
+            "condition": "None",
+            "resource": "TONnatsume.png",
+            "backresource": "TONnatsume_back.png",
+            "flipresource": "TONnatsume_flip.png",
+            "climbresource": "TONnatsume_climb.png"
         }
     ]
 }
