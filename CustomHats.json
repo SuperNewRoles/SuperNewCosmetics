@@ -677,6 +677,16 @@
             "backresource": "TONnatsume_back.png",
             "flipresource": "TONnatsume_flip.png",
             "climbresource": "TONnatsume_climb.png"
+        },
+        {
+            "name": "狐",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "foxSON_adaptive.png",
+            "backresource": "foxSON_back.png",
+            "climbresource": "foxSON_climb.png",
+            "adaptive": true
         }
     ]
 }
