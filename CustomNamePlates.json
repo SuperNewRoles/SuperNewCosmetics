@@ -574,6 +574,11 @@
             "name": "ファストフード店",
             "author": "やちゃじゃくや",
             "resource": "FastFooSUS.png"
+        },
+        {
+            "name":"キャンプするねこ",
+            "author":"やちゃじゃくや",
+            "resource":"CampfireCat.png"
         }
     ]
 }
