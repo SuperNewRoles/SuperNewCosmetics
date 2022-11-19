@@ -599,6 +599,10 @@
             "name": "機械をいじるねこ",
             "author": "やちゃじゃくや",
             "resource": "MetallicCat.png"
+        }, {
+            "name": "ぱすてるねこ",
+            "author": "やちゃじゃくや",
+            "resource":"PastelCat.png"
         }
     ]
 }
