@@ -529,6 +529,11 @@
             "author": "奏推しのおもち",
             "name": "錆びついたプレート",
             "resource": "錆びついたプレート.png"
+        },
+        {
+            "name": "ウィンドウ",
+            "author": "やちゃじゃくや",
+            "resource": "Window.png"
         }
     ]
 }
