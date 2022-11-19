@@ -594,6 +594,11 @@
             "name": "まほうねこ",
             "author": "やちゃじゃくや",
             "resource": "MagicCat.png"
+        },
+        {
+            "name": "機械をいじるねこ",
+            "author": "やちゃじゃくや",
+            "resource": "MetallicCat.png"
         }
     ]
 }
