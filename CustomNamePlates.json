@@ -576,9 +576,14 @@
             "resource": "FastFooSUS.png"
         },
         {
-            "name":"キャンプするねこ",
-            "author":"やちゃじゃくや",
-            "resource":"CampfireCat.png"
+            "name": "キャンプするねこ",
+            "author": "やちゃじゃくや",
+            "resource": "CampfireCat.png"
+        },
+        {
+            "name": "だぶるねこ",
+            "author": "やちゃじゃくや",
+            "resource": "DoubleCat.png"
         }
     ]
 }
