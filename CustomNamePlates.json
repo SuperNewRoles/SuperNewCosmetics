@@ -589,6 +589,11 @@
             "name": "草の中で寝るねこ",
             "author": "やちゃじゃくや",
             "resource": "GlassCat.pmg"
+        },
+        {
+            "name": "まほうねこ",
+            "author": "やちゃじゃくや",
+            "resource": "MagicCat.png"
         }
     ]
 }
