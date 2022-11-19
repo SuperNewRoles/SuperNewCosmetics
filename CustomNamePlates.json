@@ -534,6 +534,11 @@
             "name": "ウィンドウ",
             "author": "やちゃじゃくや",
             "resource": "Window.png"
+        },
+        {
+            "name": "読めるかな?",
+            "author": "やちゃじゃくや",
+            "resource": "WDamogus.png"
         }
     ]
 }
