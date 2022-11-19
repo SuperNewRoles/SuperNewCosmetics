@@ -569,6 +569,11 @@
             "name": "Hex World",
             "author": "やちゃじゃくや",
             "resource": "Hex.png"
+        },
+        {
+            "name": "ファストフード店",
+            "author": "やちゃじゃくや",
+            "resource": "FastFooSUS.png"
         }
     ]
 }
