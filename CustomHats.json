@@ -571,7 +571,7 @@
         {
             "name": "トウユ",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONtouyu.png",
             "climbresource": "TONtouyu_climb.png"
@@ -579,7 +579,7 @@
         {
             "name": "YOU様",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONyousama.png",
             "climbresource": "TONyousama_climb.png"
@@ -587,7 +587,7 @@
         {
             "name": "あーちゃん",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONachan.png",
             "flipresource": "TONachan_flip.png",
@@ -596,7 +596,7 @@
         {
             "name": "セオノ",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONseono.png",
             "backresource": "TONseono_back.png",
@@ -606,7 +606,7 @@
         {
             "name": "そうえん",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONsouen.png",
             "backresource": "TONsouen_back.png",
@@ -616,7 +616,7 @@
         {
             "name": "テシー",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONteasea.png",
             "backresource": "TONteasea_back.png",
@@ -625,7 +625,7 @@
         {
             "name": "てと",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONteto.png",
             "flipresource": "TONteto_flip.png",
@@ -634,7 +634,7 @@
         {
             "name": "ぴぁがぶ",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONgabu.png",
             "backresource": "TONgabu_back.png",
@@ -644,7 +644,7 @@
         {
             "name": "ゆき(Lüty)",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONyuki.png",
             "flipresource": "TONyuki_flip.png",
@@ -653,7 +653,7 @@
         {
             "name": "渚稀",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONnaki.png",
             "flipresource": "TONnaki_flip.png",
@@ -662,7 +662,7 @@
         {
             "name": "渚稀02",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONnaki02.png",
             "flipresource": "TONnaki02_flip.png",
@@ -671,7 +671,7 @@
         {
             "name": "矢野なつめ",
             "author": "セオノ",
-            "package": "とんでもございま船Hats",
+            "package": "TondemogozaimaSen-Hats",
             "condition": "None",
             "resource": "TONnatsume.png",
             "backresource": "TONnatsume_back.png",
