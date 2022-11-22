@@ -679,6 +679,54 @@
             "climbresource": "TONnatsume_climb.png"
         },
         {
+            "name": "ヴィオラ",
+            "author": "セオノ",
+            "package": "TondemogozaimaSen-Hats",
+            "condition": "None",
+            "resource": "TONviora.png",
+            "flipresource": "TONviora_flip.png",
+            "climbresource": "TONviora_climb.png"
+        },
+        {
+            "name": "はる",
+            "author": "セオノ",
+            "package": "TondemogozaimaSen-Hats",
+            "condition": "None",
+            "resource": "TONharu.png",
+            "flipresource": "TONharu_flip.png",
+            "climbresource": "TONharu_climb.png"
+        },
+        {
+            "name": "みる",
+            "author": "セオノ",
+            "package": "TondemogozaimaSen-Hats",
+            "condition": "None",
+            "resource": "TONmiru.png",
+            "backresource": "TONmiru_back.png",
+            "flipresource": "TONmiru_flip.png",
+            "climbresource": "TONmiru_climb.png"
+        },
+        {
+            "name": "朱朔きい",
+            "author": "セオノ",
+            "package": "TondemogozaimaSen-Hats",
+            "condition": "None",
+            "resource": "TONsuzakukii.png",
+            "backresource": "TONsuzakukii_back.png",
+            "flipresource": "TONsuzakukii_flip.png",
+            "climbresource": "TONsuzakukii_climb.png"
+        },
+        {
+            "name": "桃缶",
+            "author": "セオノ",
+            "package": "TondemogozaimaSen-Hats",
+            "condition": "None",
+            "resource": "TONmomokan.png",
+            "backresource": "TONmomokan_back.png",
+            "flipresource": "TONmomokan_flip.png",
+            "climbresource": "TONmomokan_climb.png"
+        },
+        {
             "name": "狐",
             "author": "セオノ",
             "package": "SeonoCollection",
