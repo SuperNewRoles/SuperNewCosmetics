@@ -735,6 +735,73 @@
             "backresource": "foxSON_back.png",
             "climbresource": "foxSON_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "いっちーgameS",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "icchigameS.png",
+            "climbresource": "icchigameS_climb.png"
+        },
+        {
+            "name": "さわたりあやか",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "SawatariAyaka.png",
+            "climbresource": "SawatariAyaka_climb.png"
+        },
+        {
+            "name": "さわたりひろ",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "SawatariHiro.png",
+            "climbresource": "SawatariHiro_climb.png"
+        },
+        {
+            "name": "星月エイン",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "HoshizukiEinn.png",
+            "backresource": "HoshizukiEinn_back.png",
+            "climbresource": "HoshizukiEinn_climb.png"
+        },
+        {
+            "name": "寧々蝶",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "Nenechiyo.png",
+            "climbresource": "Nenechiyo_climb.png"
+        },
+        {
+            "name": "苗木了一",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "NaekiRyouichi.png",
+            "climbresource": "NaekiRyouichi_climb.png"
+        },
+        {
+            "name": "望乃羽てくと",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "NonohaTect.png",
+            "backresource": "NonohaTect_back.png",
+            "flipresource": "NonohaTect_flip.png",
+            "climbresource": "NonohaTect_climb.png"
+        },
+        {
+            "name": "狼谷そら",
+            "author": "望乃羽てくと",
+            "package": "NonOハウス",
+            "condition": "None",
+            "resource": "KamiyaSora.png",
+            "climbresource": "KamiyaSora_climb.png"
         }
     ]
 }
