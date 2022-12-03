@@ -812,6 +812,18 @@
             "condition": "None",
             "resource": "KamiyaSora.png",
             "climbresource": "KamiyaSora_climb.png"
+        },
+        {
+            "name": "招き猫",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "manekinekoSON_adaptive.png",
+            "backresource": "manekinekoSON_back.png",
+            "flipresource": "manekinekoSON_flip.png",
+            "backflipresource": "manekinekoSON_flip_back.png",
+            "climbresource": "manekinekoSON_climb.png",
+            "adaptive": true
         }
     ]
 }
