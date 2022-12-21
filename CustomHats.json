@@ -11,16 +11,6 @@
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
-            "name": "ウパウパ兄弟",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "UpapaBrothers.png",
-            "reshasha": "537dba3421fa89c3fb648f15nytgbw86b",
-            "climbresource": "UpapaBrothers_climb.png",
-            "reshashc": "ce1b148a5d4a56dd85fe4fccc46"
-        },
-        {
             "name": "ヘッドセット",
             "author": "あもあすゆっくり",
             "package": "Hat_SNR",
@@ -61,34 +51,6 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "TVCrewSound_adaptive_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "name": "おにぎり(碧月)",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "RiceBallMiduki.png",
-            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
-            "climbresource": "RiceBallMiduki_climb.png",
-            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
-        },
-        {
-            "adaptive": true,
-            "name": "クルーカー",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "CrewCar_adaptive.png",
-            "reshasha": "537dba3421fa;io;ll48f15nytgbw86b"
-        },
-        {
-            "adaptive": true,
-            "name": "さつまいも",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "SweetPotatoMiduki_adaptive.png",
-            "reshasha": "537dba3421fa;io;ll48f15nytgbw86b"
         },
         {
             "adaptive": true,
@@ -154,26 +116,6 @@
             "reshashf": "3259d7485c9c9923dd919c3fa3acef84"
         },
         {
-            "name": "ポテイト",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "potaito_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "potaito_climb.png",
-            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "name": "スイッチ",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "switch_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "switch_climb.png",
-            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
             "adaptive": true,
             "name": "トレジャーハント",
             "author": "よっす",
@@ -235,17 +177,6 @@
             "resource": "Huran_adaptive.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "Huran_climb.png",
-            "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
-        },
-        {
-            "adaptive": true,
-            "name": "パンプキン",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "pumpkin_adaptive.png",
-            "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
-            "climbresource": "pumpkin_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
@@ -360,16 +291,6 @@
             "reshashb": ""
         },
         {
-            "name": "たこ焼き",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "OctopusDumplingsMiduki.png",
-            "reshasha": "",
-            "climbresource": "OctopusDumplingsMiduki_climb.png",
-            "reshashb": ""
-        },
-        {
             "adaptive": true,
             "name": "ドラゴンColor",
             "author": "セオノ",
@@ -407,80 +328,6 @@
             "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
             "climbresource": "wolfSON_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "name": "赤ずきん",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiAkazukin.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiAkazukin_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "adaptive": true,
-            "name": "猫型パーカー",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiCatShapedParka_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiCatShapedParka_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "adaptive": true,
-            "name": "うさぎパーカー",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiRabbitHoodie_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiRabbitHoodie_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "name": "ハムスタークルー",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiHamsterCrew_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiHamsterCrew_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "name": "たまごの殻",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiEggshells.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiEggshells_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "adaptive": true,
-            "name": "勇者",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiHero_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiHero_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        },
-        {
-            "adaptive": true,
-            "name": "わたあめ",
-            "author": "碧月",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "MidukiCottonCandy_adaptive.png",
-            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
-            "climbresource": "MidukiCottonCandy_climb.png",
-            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
             "name": "初音ミク",
