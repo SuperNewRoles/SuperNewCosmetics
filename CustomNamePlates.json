@@ -604,6 +604,21 @@
             "name": "ねことスープ",
             "author": "やちゃじゃくや",
             "resource": "SoupCat.png"
+        },
+        {
+            "name": "雪が降る",
+            "author": "やちゃじゃくや",
+            "resource": "Snowy.png"
+        },
+        {
+            "name": "仮想空間",
+            "author": "やちゃじゃくや",
+            "resource": "Virtual.png"
+        },
+        {
+            "name": "YJ-R0B0T",
+            "author": "やちゃじゃくや",
+            "resource": "YJRob.png"
         }
     ]
 }
