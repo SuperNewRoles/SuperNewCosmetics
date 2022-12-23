@@ -671,6 +671,14 @@
             "backflipresource": "manekinekoSON_flip_back.png",
             "climbresource": "manekinekoSON_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "クリスマスケープ",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "XmasCapeSON.png",
+            "climbresource": "XmasCapeSON_climb.png"
         }
     ]
 }
