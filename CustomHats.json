@@ -679,6 +679,23 @@
             "condition": "None",
             "resource": "XmasCapeSON.png",
             "climbresource": "XmasCapeSON_climb.png"
+        },
+        {
+            "name": "ふわねこケープ",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "SONFuwaNekoCape.png",
+            "climbresource": "SONFuwaNekoCape_climb.png"
+        },
+        {
+            "name": "ふわねこケープColor",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "SONFuwaNekoCapeColor_adaptive.png",
+            "climbresource": "SONFuwaNekoCapeColor_climb.png",
+            "adaptive": true
         }
     ]
 }
