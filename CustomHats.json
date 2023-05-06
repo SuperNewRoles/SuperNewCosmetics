@@ -696,6 +696,46 @@
             "resource": "SONFuwaNekoCapeColor_adaptive.png",
             "climbresource": "SONFuwaNekoCapeColor_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "ahui",
+            "author": "あや",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "ahui.png",
+            "climbresource": "ahui_climb.png"
+        },
+        {
+            "name": "Itoko",
+            "author": "あや",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "Itoko.png",
+            "climbresource": "Itoko_climb.png"
+        },
+        {
+            "name": "MOCHA",
+            "author": "あや",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "MOCHA.png",
+            "climbresource": "MOCHA_climb.png"
+        },
+        {
+            "name": "あや",
+            "author": "あや",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "aya.png",
+            "climbresource": "aya_climb.png"
+        },
+        {
+            "name": "勇者ろっと",
+            "author": "あや",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "rotto.png",
+            "climbresource": "rotto_climb.png"
         }
     ]
 }
