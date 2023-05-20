@@ -736,6 +736,72 @@
             "condition": "None",
             "resource": "rotto.png",
             "climbresource": "rotto_climb.png"
+        },
+        {
+            "name": "まっすー",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "massuu.png",
+            "climbresource": "massuu_climb.png"
+        },
+        {
+            "name": "naru",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "naru.png",
+            "climbresource": "naru_climb.png"
+        },
+        {
+            "name": "やくも",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "yakumo_bounce.png",
+            "climbresource": "yakumo_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "素麵茶漬。",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "somen.png",
+            "climbresource": "somenClimb.png"
+        },
+        {
+            "name": "はるか",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "haruka.png",
+            "climbresource": "haruka_Climb.png"
+        },
+        {
+            "name": "むにに",
+            "author": "むにに",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "muni.png",
+            "climbresource": "muni_climb.png"
+        },
+        {
+            "name": "くるま",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "car_bounce.png",
+            "climbresource": "car_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "マーメイド",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "Mermaid.png",
+            "climbresource": "Mermaid_climb.png"
         }
     ]
 }
