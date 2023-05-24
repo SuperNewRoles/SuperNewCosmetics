@@ -787,6 +787,22 @@
             "climbresource": "muni_climb.png"
         },
         {
+            "name": "タイガー",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "tige.png",
+            "climbresource": "tiger_climb.png"
+        },
+        {
+            "name": "ともき",
+            "author": "むにに",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "tomoki.png",
+            "climbresource": "tomoki_climb.png"
+        },
+        {
             "name": "くるま",
             "author": "なる",
             "package": "エンジョブ村",
@@ -802,6 +818,30 @@
             "condition": "None",
             "resource": "Mermaid.png",
             "climbresource": "Mermaid_climb.png"
+        },
+        {
+            "name": "浴衣",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "yukata.png",
+            "climbresource": "yukata_climb.png"
+        },
+        {
+            "name": "浴衣白",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "yukatawhite.png",
+            "climbresource": "yukatawhite_climb.png"
+        },
+        {
+            "name": "浴衣メンズ",
+            "author": "なる",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "yukatamen.png",
+            "climbresource": "yukatamen_climb.png"
         }
     ]
 }
