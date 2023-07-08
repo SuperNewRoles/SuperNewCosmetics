@@ -803,6 +803,14 @@
             "climbresource": "tomoki_climb.png"
         },
         {
+            "name": "れみ",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "remi.png",
+            "climbresource": "remi_climb.png"
+        },
+        {
             "name": "くるま",
             "author": "なる",
             "package": "エンジョブ村",
@@ -842,6 +850,110 @@
             "condition": "None",
             "resource": "yukatamen.png",
             "climbresource": "yukatamen_climb.png"
+        },
+        {
+            "name": "魔法少女スイーピー",
+            "author": "りぃと",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Sweepy.png",
+            "backresource": "Sweepy_back.png",
+            "flipresource": "Sweepy_flip.png",
+            "backflipresource": "Sweepy_flip_back.png",
+            "climbresource": "Sweepy_climb.png"
+        },
+        {
+            "name": "アスター",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Asuta.png",
+            "climbresource": "Asuta_climb.png"
+        },
+        {
+            "name": "ちぃ",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Chii.png",
+            "flipresource": "Chii_flip.png",
+            "climbresource": "Chii_climb.png"
+        },
+        {
+            "name": "かまうちゃん",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Kamauchan.png",
+            "climbresource": "Kamauchan_climb.png"
+        },
+        {
+            "name": "キノ",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Kino.png",
+            "climbresource": "Kino_climb.png"
+        },
+        {
+            "name": "黒猫零p",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "KuronekozeroP.png",
+            "climbresource": "KuronekozeroP_climb.png"
+        },
+        {
+            "name": "Lucia",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Lucia.png",
+            "flipresource": "Lucia_flip.png",
+            "climbresource": "Lucia_climb.png"
+        },
+        {
+            "name": "豚南西ぺ",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Tonnanshape.png",
+            "flipresource": "Tonnanshape_flip.png",
+            "climbresource": "Tonnanshape_climb.png"
+        },
+        {
+            "name": "チャチャ",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "tyatya_bounce.png",
+            "climbresource": "tyatya_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ノアール",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "kuronyan.png",
+            "climbresource": "kuronyan_climb.png"
+        },
+        {
+            "name": "ほうじ茶",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "houjitya_bounce.png",
+            "climbresource": "houjitya_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ミケランジェロ",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "mikenyan.png",
+            "climbresource": "mikenyan_climb.png"
         }
     ]
 }
