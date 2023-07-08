@@ -803,6 +803,14 @@
             "climbresource": "tomoki_climb.png"
         },
         {
+            "name": "れみ",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "remi.png",
+            "climbresource": "remi_climb.png"
+        },
+        {
             "name": "くるま",
             "author": "なる",
             "package": "エンジョブ村",
@@ -914,136 +922,38 @@
             "climbresource": "Tonnanshape_climb.png"
         },
         {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
+            "name": "チャチャ",
+            "author": "八雲",
+            "package": "エンジョブ村",
             "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
+            "resource": "tyatya_bounce.png",
+            "climbresource": "tyatya_climb.png",
+            "bounce": true
         },
         {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
+            "name": "ノアール",
+            "author": "八雲",
+            "package": "エンジョブ村",
             "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
+            "resource": "kuronyan.png",
+            "climbresource": "kuronyan_climb.png"
         },
         {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
+            "name": "ほうじ茶",
+            "author": "八雲",
+            "package": "エンジョブ村",
             "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
+            "resource": "houjitya_bounce.png",
+            "climbresource": "houjitya_climb.png",
+            "bounce": true
         },
         {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
+            "name": "ミケランジェロ",
+            "author": "八雲",
+            "package": "エンジョブ村",
             "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
-        {
-            "name": "題名",
-            "author": "作者名",
-            "package": "クロゼット名",
-            "condition": "None",
-            "resource": "帽子の画像名.png",
-            "backresource": "帽子の_back用の画像名.png",
-            "flipresource": "帽子の_flip用の画像名.png",
-            "backflipresource": "帽子の_back_flip用の画像名.png",
-            "climbresource": "帽子の_climb用の画像名.png"
-        },
+            "resource": "mikenyan.png",
+            "climbresource": "mikenyan_climb.png"
+        }
     ]
 }
