@@ -863,6 +863,14 @@
             "climbresource": "Sweepy_climb.png"
         },
         {
+            "name": "かまうちゃん",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Kamauchan.png",
+            "climbresource": "Kamauchan_climb.png"
+        },
+        {
             "name": "アスター",
             "author": "Lucia",
             "package": "るちあーと",
@@ -878,14 +886,6 @@
             "resource": "Chii.png",
             "flipresource": "Chii_flip.png",
             "climbresource": "Chii_climb.png"
-        },
-        {
-            "name": "かまうちゃん",
-            "author": "Lucia",
-            "package": "るちあーと",
-            "condition": "None",
-            "resource": "Kamauchan.png",
-            "climbresource": "Kamauchan_climb.png"
         },
         {
             "name": "キノ",
@@ -954,6 +954,15 @@
             "condition": "None",
             "resource": "mikenyan.png",
             "climbresource": "mikenyan_climb.png"
+        },
+        {
+            "name": "バシャナイト",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Bashanaito.png",
+            "flipresource": "Bashanaito_flip.png",
+            "climbresource": "Bashanaito_climb.png"
         }
     ]
 }
