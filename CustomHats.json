@@ -1125,12 +1125,53 @@
             "bounce": true
         },
         {
-            "name": "題名",
+            "name": "黒いるか",
             "author": "黒いるか",
             "package": "もからって船",
             "condition": "None",
             "resource": "kuroiruka.png",
             "climbresource": "kuroiruka_climb.png"
+        },
+        {
+            "name": "ゆう",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "yuu.png",
+            "climbresource": "yuu_climb.png"
+        },
+        {
+            "name": "音割れゆう",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "otowareyuu.png"
+        },
+        {
+            "name": "ハルッチ",
+            "author": "ハルッチ",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "haruchi.png",
+            "climbresource": "haruchi_climb.png"
+        },
+        {
+            "name": "ドットクルー",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "dotcrewYU.png",
+            "climbresource": "dotcrewYU_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ドット分身の術!!",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "dotbunsinYU.png",
+            "backresource": "dotbinsinYU_back.png",
+            "adaptive": true
         }
     ]
 }
