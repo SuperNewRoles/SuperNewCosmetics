@@ -963,6 +963,215 @@
             "resource": "Bashanaito.png",
             "flipresource": "Bashanaito_flip.png",
             "climbresource": "Bashanaito_climb.png"
+        },
+        {
+            "name": "くまちゃん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartBearHat_bounce.png",
+            "flipresource": "LuciartBearHat_bounce_flip.png",
+            "climbresource": "LuciartBearHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "トラ猫ちゃん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartCatHat_bounce.png",
+            "flipresource": "LuciartCatHat_bounce_flip.png",
+            "climbresource": "LuciartCatHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ひよこちゃん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartChickHat_bounce.png",
+            "flipresource": "LuciartChickHat_bounce_flip.png",
+            "climbresource": "LuciartChickHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "シバ犬帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartDogHat_bounce.png",
+            "flipresource": "LuciartDogHat_bounce_flip.png",
+            "climbresource": "LuciartDogHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ゾウさん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartElephantHat_bounce.png",
+            "flipresource": "LuciartElephantHat_bounce_flip.png",
+            "climbresource": "LuciartElephantHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "キツネさん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartFoxHat_bounce.png",
+            "flipresource": "LuciartFoxHat_bounce_flip.png",
+            "climbresource": "LuciartFoxHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "キリン帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartGiraffHat_bounce.png",
+            "flipresource": "LuciartGiraffHat_bounce_flip.png",
+            "climbresource": "LuciartGiraffHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "やぎさんゆうびん",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartGoatHat_bounce.png",
+            "flipresource": "LuciartGoatHat_bounce_flip.png",
+            "climbresource": "LuciartGoatHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "コアラ帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartKoalaHat_bounce.png",
+            "flipresource": "LuciartKoalaHat_bounce_flip.png",
+            "climbresource": "LuciartKoalaHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ライオン帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartLionHat_bounce.png",
+            "flipresource": "LuciartLionHat_bounce_flip.png",
+            "climbresource": "LuciartLionHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "パンダ帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartPandaHat_bounce.png",
+            "flipresource": "LuciartPandaHat_bounce_flip.png",
+            "climbresource": "LuciartPandaHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ペンちゃん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartPengin_bounce.png",
+            "flipresource": "LuciartPengin_bounce_flip.png",
+            "climbresource": "LuciartPengin_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "うさちゃん帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartRabbitHat_bounce.png",
+            "flipresource": "LuciartRabbitHat_bounce_flip.png",
+            "climbresource": "LuciartRabbitHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "たぬき帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartRaccoondogHat_bounce.png",
+            "flipresource": "LuciartRaccoondogHat_bounce_flip.png",
+            "climbresource": "LuciartRaccoondogHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "りす帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartSquirrelHat_bounce.png",
+            "flipresource": "LuciartSquirrelHat_bounce_climb.png",
+            "climbresource": "LuciartSquirrelHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "カメ帽子",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "LuciartTurtleHat_bounce.png",
+            "flipresource": "LuciartTurtleHat_bounce_flip.png",
+            "climbresource": "LuciartTurtleHat_bounce_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "黒いるか",
+            "author": "黒いるか",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "kuroiruka.png",
+            "climbresource": "kuroiruka_climb.png"
+        },
+        {
+            "name": "ゆう",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "yuu.png",
+            "climbresource": "yuu_climb.png"
+        },
+        {
+            "name": "音割れゆう",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "otowareyuu.png"
+        },
+        {
+            "name": "ハルッチ",
+            "author": "ハルッチ",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "haruchi.png",
+            "climbresource": "haruchi_climb.png"
+        },
+        {
+            "name": "ドットクルー",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "dotcrewYU.png",
+            "climbresource": "dotcrewYU_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ドット分身の術!!",
+            "author": "ゆう",
+            "package": "ゆう村",
+            "condition": "None",
+            "resource": "dotbunsinYU.png",
+            "backresource": "dotbinsinYU_back.png",
+            "adaptive": true
         }
     ]
 }
