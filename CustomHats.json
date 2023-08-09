@@ -1123,6 +1123,14 @@
             "flipresource": "LuciartTurtleHat_bounce_flip.png",
             "climbresource": "LuciartTurtleHat_bounce_climb.png",
             "bounce": true
+        },
+        {
+            "name": "題名",
+            "author": "黒いるか",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "kuroiruka.png",
+            "climbresource": "kuroiruka_climb.png"
         }
     ]
 }
