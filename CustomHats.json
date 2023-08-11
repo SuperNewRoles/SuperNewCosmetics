@@ -1110,7 +1110,7 @@
             "package": "るちあーと",
             "condition": "None",
             "resource": "LuciartSquirrelHat_bounce.png",
-            "flipresource": "LuciartSquirrelHat_bounce_climb.png",
+            "flipresource": "LuciartSquirrelHat_bounce_flip.png",
             "climbresource": "LuciartSquirrelHat_bounce_climb.png",
             "bounce": true
         },
