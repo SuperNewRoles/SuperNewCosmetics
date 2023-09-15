@@ -1338,6 +1338,15 @@
             "adaptive":true
         },
         {
+            "name":"Lucia(光と闇)",
+            "author":"ねこねこと遊び隊",
+            "package":"NoSCollection",
+            "condition":"None",
+            "resource":"nekoasoluciaMain.png",
+            "climbresource":"nekoasoluciaClimb.png",
+            "flipresource":"nekoasoluciaFlip.png"
+        },
+        {
             "name":"いよくらげ",
             "author":"ねこねこと遊び隊",
             "package":"ねこねこと遊び隊",
@@ -1417,7 +1426,48 @@
             "condition":"None",
             "resource":"kamauchandaMain.png",
             "climbresource":"kamauchandaClimb.png"
+        },
+        {
+            "name":"らむね",
+            "author":"ねこねこと遊び隊",
+            "package":"NoSCollection",
+            "condition":"None",
+            "resource":"ramuneMain.png",
+            "climbresource":"ramuneClimb.png"
+        },
+        {
+            "name":"ころん",
+            "author":"ねこねこと遊び隊",
+            "package":"NoSCollection",
+            "condition":"None",
+            "resource":"oonumatakoronMain.png",
+            "climbresource":"oonumatakoronClimb.png"
+        },
+        {
+            "name":"OGさん",
+            "author":"ねこねこと遊び隊",
+            "package":"NoSCollection",
+            "condition":"None",
+            "resource":"OG_adaMain.png",
+            "climbresource":"OG_adaClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"にっしー",
+            "author":"ねこねこと遊び隊",
+            "package":"NoSCollection",
+            "condition":"None",
+            "resource":"nissyMain.png",
+            "climbresource":"nissyClimb.png"
+        },
+        {
+            "name":"まむ",
+            "author":"ねこねこと遊び隊",
+            "package":"NoSCollection",
+            "condition":"None",
+            "resource":"mamunikiMain.png",
+            "climbresource":"mamunikiClimb.png",
+            "flipresource":"mamunikiFlip.png"
         }
-
     ]
 }
