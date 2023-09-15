@@ -1336,6 +1336,47 @@
             "resource":"nekoaso_adaMain.png",
             "climbresource":"nekoaso_adaClimb.png",
             "adaptive":true
+        },
+        {
+            "name":"いよくらげ",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"iyokurageMain.png",
+            "climbresource":"iyokurageClimb.png"
+        },
+        {
+            "name":"ひょーか",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"hyoukaMain.png",
+            "climbresource":"hyoukaClimb.png"
+        },
+        {
+            "name":"G-summer",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"gsummerMain.png",
+            "climbresource":"gsummerClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"アサメ",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"asameMain.png",
+            "climbresource":"asameClimb.png"
+        },
+        {
+            "name":"だて",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"dateMain.png",
+            "climbresource":"dateClimb.png"
         }
     ]
 }
