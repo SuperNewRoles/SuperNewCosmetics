@@ -1156,6 +1156,14 @@
             "climbresource": "haruchi_climb.png"
         },
         {
+            "name":"rin",
+            "author":"rin",
+            "package":"ゆう村",
+            "condition":"None",
+            "resource":"rinMain.png",
+            "climbresource":"rinClimb.png"
+        },
+        {
             "name": "ドットクルー",
             "author": "ゆう",
             "package": "ゆう村",
@@ -1220,6 +1228,23 @@
             "condition":"None",
             "resource":"wakoMain.png",
             "climbresource":"wakoClimb.png"
+        },
+        {
+            "name":"シェリフカード",
+            "author":"りょい",
+            "package":"ゆう村",
+            "condition":"None",
+            "resource":"sherifcardMain.png",
+            "climbresource":"sherifcardClimb.png",
+            "flipresource":"sherifcardFlip.png"
+        },
+        {
+            "name":"ブリザード",
+            "author":"ハルッチ",
+            "package":"ゆう村",
+            "condition":"None",
+            "resource":"blizzardMain.png",
+            "climbresource":"blizzardClimb.png"
         }
     ]
 }
