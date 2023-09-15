@@ -1340,7 +1340,7 @@
         {
             "name":"Lucia(光と闇)",
             "author":"ねこねこと遊び隊",
-            "package":"NoSCollection",
+            "package":"ねこねこと遊び隊",
             "condition":"None",
             "resource":"nekoasoluciaMain.png",
             "climbresource":"nekoasoluciaClimb.png",
@@ -1430,7 +1430,7 @@
         {
             "name":"らむね",
             "author":"ねこねこと遊び隊",
-            "package":"NoSCollection",
+            "package":"ねこねこと遊び隊",
             "condition":"None",
             "resource":"ramuneMain.png",
             "climbresource":"ramuneClimb.png"
@@ -1438,7 +1438,7 @@
         {
             "name":"ころん",
             "author":"ねこねこと遊び隊",
-            "package":"NoSCollection",
+            "package":"ねこねこと遊び隊",
             "condition":"None",
             "resource":"oonumatakoronMain.png",
             "climbresource":"oonumatakoronClimb.png"
@@ -1446,7 +1446,7 @@
         {
             "name":"OGさん",
             "author":"ねこねこと遊び隊",
-            "package":"NoSCollection",
+            "package":"ねこねこと遊び隊",
             "condition":"None",
             "resource":"OG_adaMain.png",
             "climbresource":"OG_adaClimb.png",
@@ -1455,7 +1455,7 @@
         {
             "name":"にっしー",
             "author":"ねこねこと遊び隊",
-            "package":"NoSCollection",
+            "package":"ねこねこと遊び隊",
             "condition":"None",
             "resource":"nissyMain.png",
             "climbresource":"nissyClimb.png"
@@ -1463,11 +1463,77 @@
         {
             "name":"まむ",
             "author":"ねこねこと遊び隊",
-            "package":"NoSCollection",
+            "package":"ねこねこと遊び隊",
             "condition":"None",
             "resource":"mamunikiMain.png",
             "climbresource":"mamunikiClimb.png",
             "flipresource":"mamunikiFlip.png"
+        },
+        {
+            "name":"ゆずぽん。",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"yuzuponMain.png",
+            "climbresource":"yuzuponClimb.png"
+        },
+        {
+            "name":"遊希",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"yuukiMain.png",
+            "climbresource":"yuukiClimb.png"
+        },
+        {
+            "name":"白兎",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"vaniylaMain.png",
+            "climbresource":"vaniylaClimb.png"
+        },
+        {
+            "name":"つぐん",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"tugunMain.png",
+            "climbresource":"tugunClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"とみとみ",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"tomitomiMain.png",
+            "climbresource":"tomitomiClimb.png"
+        },
+        {
+            "name":"トアル村のたくみん",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"toarutakuminMain.png",
+            "climbresource":"toarutakuminClimb.png"
+        },
+        {
+            "name":"タル",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"taru_adaMain.png",
+            "climbresource":"taru_adaClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"Taki",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"takiMain.png",
+            "climbresource":"takiClimb.png"
         }
     ]
 }
