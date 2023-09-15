@@ -1377,6 +1377,47 @@
             "condition":"None",
             "resource":"dateMain.png",
             "climbresource":"dateClimb.png"
+        },
+        {
+            "name":"makiel",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"makielMain.png",
+            "climbresource":"makielClimb.png"
+        },
+        {
+            "name":"Kindsnow",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"kindsnowMain.png",
+            "climbresource":"kindsnowClimb.png"
+        },
+        {
+            "name":"ケミス",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"kemissMain.png",
+            "climbresource":"kemissClimb.png"
+        },
+        {
+            "name":"かっちゃん",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"kattchanMain.png",
+            "climbresource":"kattchanClimb.png"
+        },
+        {
+            "name":"かまう",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"kamauchandaMain.png",
+            "climbresource":"kamauchandaClimb.png"
         }
+
     ]
 }
