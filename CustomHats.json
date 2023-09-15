@@ -1319,6 +1319,23 @@
             "condition":"None",
             "resource":"blizzardMain.png",
             "climbresource":"blizzardClimb.png"
+        },
+        {
+            "name":"ねこねこと遊び隊",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"nekoasobitaiMain.png",
+            "climbresource":"nekoasobitaiClimb.png"
+        },
+        {
+            "name":"真の可愛さ",
+            "author":"ねこねこと遊び隊",
+            "package":"ねこねこと遊び隊",
+            "condition":"None",
+            "resource":"nekoaso_adaMain.png",
+            "climbresource":"nekoaso_adaClimb.png",
+            "adaptive":true
         }
     ]
 }
