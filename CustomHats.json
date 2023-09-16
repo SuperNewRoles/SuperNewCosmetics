@@ -1338,15 +1338,6 @@
             "adaptive":true
         },
         {
-            "name":"Lucia(光と闇)",
-            "author":"ねこねこと遊び隊",
-            "package":"ねこねこと遊び隊",
-            "condition":"None",
-            "resource":"nekoasoluciaMain.png",
-            "climbresource":"nekoasoluciaClimb.png",
-            "flipresource":"nekoasoluciaFlip.png"
-        },
-        {
             "name":"いよくらげ",
             "author":"ねこねこと遊び隊",
             "package":"ねこねこと遊び隊",
