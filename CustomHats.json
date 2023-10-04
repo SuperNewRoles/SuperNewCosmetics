@@ -1533,6 +1533,30 @@
             "condition":"None",
             "resource":"jyomejyomeMain.png",
             "climbresource":"jyomejyomeClimb.png"
+        },
+        {
+            "name":"明日香1",
+            "author":"黒いるか",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"Asuka01Main.png",
+            "climbresource":"Asuka01Climb.png"
+        },
+        {
+            "name":"明日香2",
+            "author":"黒いるか",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"Asuka02Main.png",
+            "climbresource":"Asuka02Climb.png"
+        },
+        {
+            "name":"明日香のひめちゃん",
+            "author":"黒いるか",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"AsukaNoHimeChanMain.png",
+            "climbresource":"AsukaNoHimeChanClimb.png"
         }
     ]
 }
