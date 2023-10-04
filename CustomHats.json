@@ -1557,6 +1557,25 @@
             "condition":"None",
             "resource":"AsukaNoHimeChanMain.png",
             "climbresource":"AsukaNoHimeChanClimb.png"
+        },
+        {
+            "name":"サウナー",
+            "author":"moi",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"saunerMain.png",
+            "climbresource":"saunerClimb.png",
+            "backresource":"saunerBack.png"
+        },
+        {
+            "name":"きのこ子きのこ",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LuciartMushroomMain.png",
+            "climbresource":"LuciartMushroomClimb.png",
+            "adaptive":true,
+            "bounce":true
         }
     ]
 }
