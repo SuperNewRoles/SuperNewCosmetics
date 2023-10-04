@@ -1525,6 +1525,57 @@
             "condition":"None",
             "resource":"takiMain.png",
             "climbresource":"takiClimb.png"
+        },
+        {
+            "name":"ジョメジョメ",
+            "author":"黒いるか",
+            "package":"アヤナミ村",
+            "condition":"None",
+            "resource":"jyomejyomeMain.png",
+            "climbresource":"jyomejyomeClimb.png"
+        },
+        {
+            "name":"明日香1",
+            "author":"黒いるか",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"Asuka01Main.png",
+            "climbresource":"Asuka01Climb.png"
+        },
+        {
+            "name":"明日香2",
+            "author":"黒いるか",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"Asuka02Main.png",
+            "climbresource":"Asuka02Climb.png"
+        },
+        {
+            "name":"明日香のひめちゃん",
+            "author":"黒いるか",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"AsukaNoHimeChanMain.png",
+            "climbresource":"AsukaNoHimeChanClimb.png"
+        },
+        {
+            "name":"サウナー",
+            "author":"moi",
+            "package":"Hat_SNR",
+            "condition":"None",
+            "resource":"saunerMain.png",
+            "climbresource":"saunerClimb.png",
+            "backresource":"saunerBack.png"
+        },
+        {
+            "name":"きのこ子きのこ",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LuciartMushroomMain.png",
+            "climbresource":"LuciartMushroomClimb.png",
+            "adaptive":true,
+            "bounce":true
         }
     ]
 }
