@@ -1525,6 +1525,14 @@
             "condition":"None",
             "resource":"takiMain.png",
             "climbresource":"takiClimb.png"
+        },
+        {
+            "name":"ジョメジョメ",
+            "author":"黒いるか",
+            "package":"アヤナミ村",
+            "condition":"None",
+            "resource":"jyomejyomeMain.png",
+            "climbresource":"jyomejyomeClimb.png"
         }
     ]
 }
