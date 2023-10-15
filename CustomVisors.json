@@ -64,6 +64,11 @@
             "name": "式神",
             "author": "セオノ",
             "resource": "SONshikigami.png"
+        },
+        {
+            "name": "セオノ風バイザー",
+            "author": "セオノ",
+            "resource": "SONcrewEye.png"
         }
     ]
 }
