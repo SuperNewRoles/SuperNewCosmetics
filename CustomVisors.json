@@ -54,6 +54,26 @@
             "name": "私がやりました...",
             "author": "のあ",
             "resource": "のあ_私がやりました.png"
+        },
+        {
+            "name": "ねこ",
+            "author": "セオノ",
+            "resource": "SONcat.png"
+        },
+        {
+            "name": "式神",
+            "author": "セオノ",
+            "resource": "SONshikigami.png"
+        },
+        {
+            "name": "セオノ風バイザーA",
+            "author": "セオノ",
+            "resource": "SONcrewEye.png"
+        },
+        {
+            "name": "セオノ風バイザーB",
+            "author": "セオノ",
+            "resource": "SONcrewEye2.png"
         }
     ]
 }
