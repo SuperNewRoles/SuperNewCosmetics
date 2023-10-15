@@ -66,9 +66,14 @@
             "resource": "SONshikigami.png"
         },
         {
-            "name": "セオノ風バイザー",
+            "name": "セオノ風バイザーA",
             "author": "セオノ",
             "resource": "SONcrewEye.png"
+        },
+        {
+            "name": "セオノ風バイザーB",
+            "author": "セオノ",
+            "resource": "SONcrewEye2.png"
         }
     ]
 }
