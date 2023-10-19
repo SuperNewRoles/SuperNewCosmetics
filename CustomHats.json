@@ -1672,6 +1672,24 @@
             "condition":"None",
             "resource":"holic_kiyoMain.png",
             "climbresource":"holic_kiyoClimb.png"
+        },
+        {
+            "name":"みずたまさんご",
+            "author":"望乃羽てくと",
+            "package":"NonOハウス",
+            "condition":"None",
+            "resource":"mizutamasangoMain.png",
+            "climbresource":"mizutamasangoClimb.png",
+            "flipresource":"mizutamasangoFlip.png"
+        },
+        {
+            "name":"凉風らむ音",
+            "author":"望乃羽てくと",
+            "package":"NonOハウス",
+            "condition":"None",
+            "resource":"SuzukazeRamuneMain.png",
+            "climbresource":"SuzukazeRamuneClimb.png",
+            "flipresource":"SuzukazeRamuneFlip.png"
         }
     ]
 }
