@@ -1039,6 +1039,43 @@
             "flipresource":"DorahaFlip.png"
         },
         {
+            "name":"緋浜ほたて",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAHotateMain.png",
+            "climbresource":"LAHotateClimb.png",
+            "flipresource":"LAHotateFlip.png"
+        },
+        {
+            "name":"ケミス",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAKemisuMain.png",
+            "climbresource":"LAKemisuClimb.png",
+            "flipresource":"LAKemisuFlip.png"
+        },
+        {
+            "name":"やくみ",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAYakumiMain.png",
+            "climbresource":"LAYakumiClimb.png",
+            "flipresource":"LAYakumiFlip.png"
+        },
+        {
+            "name":"mizuchi",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAMizuchiMain.png",
+            "climbresource":"LAMizuchiClimb.png",
+            "flipresource":"LAMizuchiFlip.png",
+            "backresource":"LAMizuchiBack.png"
+        },
+        {
             "name": "くまちゃん帽子",
             "author": "Lucia",
             "package": "るちあーと",
