@@ -1762,6 +1762,74 @@
             "climbresource":"SONwitch02Climb.png",
             "backresource":"SONwitch02Back.png",
             "adaptive":true
+        },
+        {
+            "name":"Drawing",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1DrawingMain.png",
+            "climbresource":"R1DrawingClimb.png",
+            "flipresource":"R1DrawingFlip.png",
+            "adaptive":true
+        },
+        {
+            "name":"FlashLight",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1FlashLightMain.png",
+            "climbresource":"R1FlashLightClimb.png",
+            "flipresource":"R1FlashLightFlip.png",
+            "adaptive":true,
+            "bounce":true
+        },
+        {
+            "name":"Penguin",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1PenguinMain.png",
+            "climbresource":"R1PenguinClimb.png",
+            "adaptive":true,
+            "bounce":true
+        },
+        {
+            "name":"Runner",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1RunnerMain.png",
+            "climbresource":"R1RunnerClimb.png",
+            "flipresource":"R1RunnerFlip.png",
+            "adaptive":true
+        },
+        {
+            "name":"Snowman",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1SnowmanMain.png",
+            "climbresource":"R1SnowmanClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"SoapBubble",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1SoapBubbleMain.png",
+            "climbresource":"R1SoapBubbleClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"TeddyBear",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1TeddyBearMain.png",
+            "climbresource":"R1TeddyBearClimb.png",
+            "adaptive":true
         }
     ]
 }
