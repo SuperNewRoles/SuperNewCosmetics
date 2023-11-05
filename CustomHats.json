@@ -1039,6 +1039,43 @@
             "flipresource":"DorahaFlip.png"
         },
         {
+            "name":"緋浜ほたて",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAHotateMain.png",
+            "climbresource":"LAHotateClimb.png",
+            "flipresource":"LAHotateFlip.png"
+        },
+        {
+            "name":"ケミス",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAKemisuMain.png",
+            "climbresource":"LAKemisuClimb.png",
+            "flipresource":"LAKemisuFlip.png"
+        },
+        {
+            "name":"やくみ",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAYakumiMain.png",
+            "climbresource":"LAYakumiClimb.png",
+            "flipresource":"LAYakumiFlip.png"
+        },
+        {
+            "name":"mizuchi",
+            "author":"Lucia",
+            "package":"るちあーと",
+            "condition":"None",
+            "resource":"LAMizuchiMain.png",
+            "climbresource":"LAMizuchiClimb.png",
+            "flipresource":"LAMizuchiFlip.png",
+            "backresource":"LAMizuchiBack.png"
+        },
+        {
             "name": "くまちゃん帽子",
             "author": "Lucia",
             "package": "るちあーと",
@@ -1762,6 +1799,90 @@
             "climbresource":"SONwitch02Climb.png",
             "backresource":"SONwitch02Back.png",
             "adaptive":true
+        },
+        {
+            "name":"Drawing",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1DrawingMain.png",
+            "climbresource":"R1DrawingClimb.png",
+            "flipresource":"R1DrawingFlip.png",
+            "adaptive":true
+        },
+        {
+            "name":"FlashLight",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1FlashLightMain.png",
+            "climbresource":"R1FlashLightClimb.png",
+            "flipresource":"R1FlashLightFlip.png",
+            "adaptive":true,
+            "bounce":true
+        },
+        {
+            "name":"Penguin",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1PenguinMain.png",
+            "climbresource":"R1PenguinClimb.png",
+            "adaptive":true,
+            "bounce":true
+        },
+        {
+            "name":"Runner",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1RunnerMain.png",
+            "climbresource":"R1RunnerClimb.png",
+            "flipresource":"R1RunnerFlip.png",
+            "adaptive":true
+        },
+        {
+            "name":"Snowman",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1SnowmanMain.png",
+            "climbresource":"R1SnowmanClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"SoapBubble",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1SoapBubbleMain.png",
+            "climbresource":"R1SoapBubbleClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"TeddyBear",
+            "author":"R1",
+            "package":"R1 Hats",
+            "condition":"None",
+            "resource":"R1TeddyBearMain.png",
+            "climbresource":"R1TeddyBearClimb.png",
+            "adaptive":true
+        },
+        {
+            "name":"てんぷら1号",
+            "author":"黒いるか",
+            "package":"もからって船",
+            "condition":"None",
+            "resource":"MocaTenpura1Main.png",
+            "climbresource":"MocaTenpura1Climb.png"
+        },
+        {
+            "name":"てんぷら2号",
+            "author":"黒いるか",
+            "package":"もからって船",
+            "condition":"None",
+            "resource":"MocaTenpura2Main.png",
+            "climbresource":"MocaTenpura2Climb.png"
         }
     ]
 }
