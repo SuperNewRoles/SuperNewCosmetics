@@ -2074,6 +2074,196 @@
             "resource": "tukisara.png",
             "backresource": "tukisara_back.png",
             "climbresource": "tukisara_climb.png"
+        },
+        {
+            "name": "ねぴりうむ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "Nepi.png",
+            "climbresource": "Nepi_climb.png"
+        },
+        {
+            "name": "いふりうむ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "ifrium.png",
+            "climbresource": "ifrium_climb.png"
+        },
+        {
+            "name": "きゃめ屋さん",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "CCRYSN.png"
+        },
+        {
+            "name": "くまてぃむ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "kumatim.png",
+            "climbresource": "kumatim_climb.png"
+        },
+        {
+            "name": "ずみ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "zumi.png",
+            "climbresource": "zumi_climb.png"
+        },
+        {
+            "name": "たまたまさん",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "tamatama.png",
+            "climbresource": "tamatama_climb.png"
+        },
+        {
+            "name": "てぃむ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "tim.png",
+            "climbresource": "tim_climb.png"
+        },
+        {
+            "name": "なぎお",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "nagion.png",
+            "climbresource": "nagion_climb.png"
+        },
+        {
+            "name": "はなまる子",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "hnmrk.png",
+            "climbresource": "hnmrk_climb.png"
+        },
+        {
+            "name": "みみ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "mimi.png",
+            "climbresource": "mimi_climb.png"
+        },
+        {
+            "name": "めんだこまる子",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "mndk.png",
+            "climbresource": "mndk_climb.png"
+        },
+        {
+            "name": "やいけん",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "yaiken.png",
+            "climbresource": "yaiken_climb.png"
+        },
+        {
+            "name": "よしこ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "ysk.png",
+            "climbresource": "ysk_climb.png"
+        },
+        {
+            "name": "よしたま",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "ystm.png",
+            "climbresource": "ystm_climb.png"
+        },
+        {
+            "name": "アキEX",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "akiex.png",
+            "climbresource": "akiex_climb.png"
+        },
+        {
+            "name": "アワズ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "awazu.png",
+            "climbresource": "awazu_climb.png"
+        },
+        {
+            "name": "スパア屋さん",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "kituen.png",
+            "climbresource": "kituen_climb.png"
+        },
+        {
+            "name": "ツボ",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "Tubo.png",
+            "climbresource": "Tubo_climb.png"
+        },
+        {
+            "name": "是空",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "zekuu.png",
+            "climbresource": "zekuu_climb.png"
+        },
+        {
+            "name": "機械屋さん",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "kkiysn.png",
+            "climbresource": "kkiysn_climb.png"
+        },
+        {
+            "name": "狐狗羽",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "kokku.png",
+            "climbresource": "kokku_climb.png"
+        },
+        {
+            "name": "狐音しづき",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "sizuki.png",
+            "climbresource": "sizuki_climb.png"
+        },
+        {
+            "name": "雨宮叶依",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "amamiya.png",
+            "climbresource": "amamiya_climb.png"
+        },
+        {
+            "name": "ぽかん顔",
+            "author": "ねぴりうむ",
+            "condition": "None",
+            "package": "NEPIRIUM-HAT",
+            "resource": "pokan.png"
         }
     ]
 }
