@@ -1963,6 +1963,117 @@
             "resource": "swimring_adaptive.png",
             "climbresource": "swimring_climb_adaptive.png",
             "adaptive": true
+        },
+        {
+            "name": "赤ちゃん",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "baby_adaptive.png",
+            "climbresource": "baby_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "しゃくれ顎",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "crookedchin_adaptive.png",
+            "climbresource": "crookedchin_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "イルカが好きそうな髪型",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "dars.png",
+            "flipresource": "dars_flip.png",
+            "climbresource": "dars_climb.png"
+        },
+        {
+            "name": "だるまさん",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "daruma_adaptive.png",
+            "climbresource": "daruma_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "叫ばなそうな髪型",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "hirakoji.png",
+            "backresource": "hirakoji_back.png",
+            "climbresource": "hirakoji_climb.png"
+        },
+        {
+            "name": "オラオラしそうな髪型",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "kakugari_adaptive.png",
+            "backresource": "kakugari_back_adaptive.png",
+            "climbresource": "kakugari_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "ゴリラから擬人化してそうな髪型",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "leaf.png",
+            "flipresource": "leaf_flip.png",
+            "climbresource": "leaf_climb.png"
+        },
+        {
+            "name": "お猿さん",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "monkey_adaptive.png",
+            "backresource": "monkey_back_adaptive.png",
+            "climbresource": "monkey_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "プラスねじ",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "PhillipsScrew_adaptive.png",
+            "climbresource": "PhillipsScrew_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "突っ張ることが男な髪型",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "regent_adaptive.png",
+            "backresource": "regent_back_adaptive.png",
+            "climbresource": "regent_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "かなちぃ",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "sad_adaptive.png",
+            "climbresource": "sad_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "日本一明るそうな髪型",
+            "author": "HK",
+            "condition": "None",
+            "package": "HK Hats",
+            "resource": "tukisara.png",
+            "backresource": "tukisara_back.png",
+            "climbresource": "tukisara_climb.png"
         }
     ]
 }
