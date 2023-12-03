@@ -1244,6 +1244,14 @@
             "climbresource": "kuroiruka_climb.png"
         },
         {
+            "name": "黒いるか2Pカラー",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "siroiruka.png",
+            "climbresource": "siroiruka_climb.png"
+        },
+        {
             "name": "ゆう",
             "author": "ゆう",
             "package": "ゆう村",
