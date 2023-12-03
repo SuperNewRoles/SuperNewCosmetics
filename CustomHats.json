@@ -1883,6 +1883,39 @@
             "condition":"None",
             "resource":"MocaTenpura2Main.png",
             "climbresource":"MocaTenpura2Climb.png"
+        },
+        {
+            "name": "べいくどもちょもちょ",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "anko.png",
+            "climbresource": "anko_climb.png"
+        },
+        {
+            "name": "陽映菜",
+            "author": "陽映菜",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "hiena.png",
+            "climbresource": "hiena_climb.png"
+        },
+        {
+            "name": "学生さん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "jkjk_adaptive.png",
+            "climbresource": "jkjk_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ぷりん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "Prin.png",
+            "climbresource": "Prin_climb.png"
         }
     ]
 }
