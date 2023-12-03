@@ -1916,6 +1916,53 @@
             "package": "Hat_SNR",
             "resource": "Prin.png",
             "climbresource": "Prin_climb.png"
+        },
+        {
+            "name": "Elf",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "elf_front_adaptive.png",
+            "backresource": "elf_back_adaptive.png",
+            "climbresource": "elf_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Mushroom",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "mushroom_front_adaptive.png",
+            "flipresource": "mushroom_flip_adaptive.png",
+            "climbresource": "mushroom_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Presents",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "presents_adaptive.png",
+            "flipresource": "presents_flip_adaptive.png",
+            "climbresource": "presents_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Selfie",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "selfie_front_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "swimring",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "swimring_adaptive.png",
+            "climbresource": "swimring_climb_adaptive.png",
+            "adaptive": true
         }
     ]
 }
