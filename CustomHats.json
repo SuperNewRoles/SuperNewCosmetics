@@ -2413,6 +2413,46 @@
             "flipresource": "tissueR1_flip_adaptive.png",
             "climbresource": "tissueR1_climb_adaptive.png",
             "adaptive": true
+        },
+        {
+            "name": "大阪名物1号",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_oosaka1.png",
+            "climbresource": "kuroiru_oosaka1_climb.png"
+        },
+        {
+            "name": "大阪名物2号",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_oosaka2.png",
+            "climbresource": "kuroiru_oosaka2_climb.png"
+        },
+        {
+            "name": "大阪名物3号",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_oosaka3.png",
+            "climbresource": "kuroiru_oosaka3_climb.png"
+        },
+        {
+            "name": "ぽん酢",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_ponzu.png",
+            "climbresource": "kuroiru_ponzu_climb.png"
+        },
+        {
+            "name": "たい焼き",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_taiyaki.png",
+            "climbresource": "kuroiru_taiyaki_climb.png"
         }
     ]
 }
