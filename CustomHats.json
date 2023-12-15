@@ -2272,6 +2272,62 @@
             "condition": "None",
             "package": "NEPIRIUM-HAT",
             "resource": "pokan.png"
+        },
+        {
+            "name": "きーま",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "カレー船",
+            "resource": "CurryKiima.png",
+            "flipresource": "CurryKiima_flip.png",
+            "climbresource": "CurryKiima_climb.png"
+        },
+        {
+            "name": "11110",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "カレー船",
+            "resource": "Curry11110.png",
+            "flipresource": "Curry11110_flip.png",
+            "backresource": "Curry11110_back.png",
+            "backflipresource": "Curry11110_flip_back.png",
+            "climbresource": "Curry11110_climb.png"
+        },
+        {
+            "name": "きりあ",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "カレー船",
+            "resource": "CurryKiria.png",
+            "climbresource": "CurryKiria_climb.png"
+        },
+        {
+            "name": "くー",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "カレー船",
+            "resource": "CurryCoo.png",
+            "flipresource": "CurryCoo_flip.png",
+            "backresource": "CurryCoo_back.png",
+            "climbresource": "CurryCoo_climb.png"
+        },
+        {
+            "name": "なる",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "カレー船",
+            "resource": "CurryNaru.png",
+            "flipresource": "CurryNaru_flip.png",
+            "backresource": "CurryNaru_back.png",
+            "climbresource": "CurryNaru_climb.png"
+        },
+        {
+            "name": "雨沢雪乃",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "カレー船",
+            "resource": "CurryYukino.png",
+            "climbresource": "CurryYukino_climb.png"
         }
     ]
 }
