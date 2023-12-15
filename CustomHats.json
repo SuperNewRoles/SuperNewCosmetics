@@ -1976,7 +1976,7 @@
             "name": "赤ちゃん",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00baby_adaptive.png",
             "climbresource": "HK00baby_climb_adaptive.png",
             "adaptive": true
@@ -1985,7 +1985,7 @@
             "name": "しゃくれ顎",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00crookedchin_adaptive.png",
             "climbresource": "HK00crookedchin_climb_adaptive.png",
             "adaptive": true
@@ -1994,7 +1994,7 @@
             "name": "だるまさん",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00daruma_adaptive.png",
             "climbresource": "HK00daruma_climb_adaptive.png",
             "adaptive": true
@@ -2003,7 +2003,7 @@
             "name": "オラオラしそうな髪型",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00kakugari_adaptive.png",
             "backresource": "HK00kakugari_back_adaptive.png",
             "climbresource": "HK00kakugari_climb_adaptive.png",
@@ -2013,7 +2013,7 @@
             "name": "お猿さん",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00monkey_adaptive.png",
             "backresource": "HK00monkey_back_adaptive.png",
             "climbresource": "HK00monkey_climb_adaptive.png",
@@ -2023,7 +2023,7 @@
             "name": "プラスねじ",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00PhillipsScrew_adaptive.png",
             "climbresource": "HK00PhillipsScrew_climb_adaptive.png",
             "adaptive": true
@@ -2032,7 +2032,7 @@
             "name": "突っ張ることが男な髪型",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00regent_adaptive.png",
             "backresource": "HK00regent_back_adaptive.png",
             "climbresource": "HK00regent_climb_adaptive.png",
@@ -2042,7 +2042,7 @@
             "name": "かなちぃ",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK00sad_adaptive.png",
             "climbresource": "HK00sad_climb_adaptive.png",
             "adaptive": true
@@ -2051,7 +2051,7 @@
             "name": "叫ばなそうな髪型",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK01hirakoji.png",
             "backresource": "HK01hirakoji_back.png",
             "climbresource": "HK01hirakoji_climb.png"
@@ -2060,7 +2060,7 @@
             "name": "ゴリラから擬人化してそうな髪型",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK02leaf.png",
             "flipresource": "HK02leaf_flip.png",
             "climbresource": "HK02leaf_climb.png"
@@ -2069,7 +2069,7 @@
             "name": "日本一明るそうな髪型",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK03tukisara.png",
             "backresource": "HK03tukisara_back.png",
             "climbresource": "HK03tukisara_climb.png"
@@ -2078,11 +2078,11 @@
             "name": "イルカが好きそうな髪型",
             "author": "HK",
             "condition": "None",
-            "package": "HK_Hats",
+            "package": "HK Hats",
             "resource": "HK04dars.png",
             "flipresource": "HK04dars_flip.png",
             "climbresource": "HK04dars_climb.png"
-        }
+        },
         {
             "name": "ねぴりうむ",
             "author": "ねぴりうむ",
@@ -2328,6 +2328,91 @@
             "package": "カレー船",
             "resource": "CurryYukino.png",
             "climbresource": "CurryYukino_climb.png"
+        },
+        {
+            "name": "Arrow",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "arrowR1_adaptive.png",
+            "climbresource": "arrowR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Colorcone",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "colorconeR1_bounce_adaptive.png",
+            "climbresource": "colorconeR1_climb_adaptive.png",
+            "bounce": true,
+            "adaptive": true
+        },
+        {
+            "name": "Crown",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "crownR1_adaptive.png",
+            "climbresource": "crownR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Jewelry",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "jewelryR1_adaptive.png",
+            "flipresource": "jewelryR1_flip_adaptive.png",
+            "climbresource": "jewelryR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Light",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "lightR1_adaptive.png",
+            "flipresource": "lightR1_flip_adaptive.png",
+            "backresource": "lightR1_back_adaptive.png",
+            "climbresource": "lightR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Oops!",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "oops!R1_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Postbox",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "postboxR1_adaptive.png",
+            "climbresource": "postboxR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Tall",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "tallR1_adaptive.png",
+            "climbresource": "tallR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Tissue",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "tissueR1_adaptive.png",
+            "flipresource": "tissueR1_flip_adaptive.png",
+            "climbresource": "tissueR1_climb_adaptive.png",
+            "adaptive": true
         }
     ]
 }
