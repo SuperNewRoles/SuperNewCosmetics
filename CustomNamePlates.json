@@ -624,6 +624,16 @@
             "name": "いるかとメガネと爆弾魔",
             "author": "黒いるか",
             "resource": "kuroiruka_name.png"
+        },
+        {
+            "name": "にゃんこピアノ",
+            "author": "Mocha",
+            "resource": "MLsen1.png"
+        },
+        {
+            "name": "Love Music",
+            "author": "Mocha",
+            "resource": "MLsen2.png"
         }
     ]
 }

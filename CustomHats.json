@@ -2453,6 +2453,22 @@
             "package": "Hat_SNR",
             "resource": "kuroiru_taiyaki.png",
             "climbresource": "kuroiru_taiyaki_climb.png"
+        },
+        {
+            "name": "比良坂芽衣様",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_hirasakamei.png",
+            "climbresource": "kuroiru_hirasakamei_climb.png"
+        },
+        {
+            "name": "マヨネーズ",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_mayo.png",
+            "climbresource": "kuroiru_mayo_climb.png"
         }
     ]
 }
