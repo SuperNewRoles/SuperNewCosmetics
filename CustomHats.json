@@ -2469,6 +2469,37 @@
             "package": "Hat_SNR",
             "resource": "kuroiru_mayo.png",
             "climbresource": "kuroiru_mayo_climb.png"
+        },
+        {
+            "name": "識白シルク",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONshiruku.png",
+            "flipresource": "SONshiruku_flip.png",
+            "backresource": "SONshiruku_back.png",
+            "climbresource": "SONshiruku_climb.png"
+        },
+        {
+            "name": "識白シルク(猫又モード)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONshirukuNeco.png",
+            "flipresource": "SONshirukuNeco_flip.png",
+            "backresource": "SONshirukuNeco_back.png",
+            "climbresource": "SONshirukuNeco_climb.png"
+        },
+        {
+            "name": "識白シルク(変身)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONshirukuTrans.png",
+            "flipresource": "SONshirukuTrans_flip.png",
+            "backresource": "SONshirukuTrans_back.png",
+            "backflipresource": "SONshirukuTrans_flip_back.png",
+            "climbresource": "SONshirukuTrans_climb.png"
         }
     ]
 }
