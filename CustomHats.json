@@ -811,6 +811,54 @@
             "climbresource": "remi_climb.png"
         },
         {
+            "name": "にゃくも",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_nyakumo.png",
+            "climbresource": "Enj_nyakumo_climb.png"
+        },
+        {
+            "name": "hikaRuN",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_hikarun.png",
+            "climbresource": "Enj_hikarun_climb.png"
+        },
+        {
+            "name": "いっきー",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_ikki.png",
+            "climbresource": "Enj_ikki_climb.png"
+        },
+        {
+            "name": "ぴっぷる",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_pippuru.png",
+            "climbresource": "Enj_pippuru_climb.png"
+        },
+        {
+            "name": "らる",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_raru.png",
+            "climbresource": "Enj_raru_climb.png"
+        },
+        {
+            "name": "ユキ",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_yuki.png",
+            "climbresource": "Enj_yuki_climb.png"
+        },
+        {
             "name": "くるま",
             "author": "なる",
             "package": "エンジョブ村",
@@ -850,6 +898,82 @@
             "condition": "None",
             "resource": "yukatamen.png",
             "climbresource": "yukatamen_climb.png"
+        },
+        {
+            "name": "チャチャ",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "tyatya_bounce.png",
+            "climbresource": "tyatya_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ノアール",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "kuronyan.png",
+            "climbresource": "kuronyan_climb.png"
+        },
+        {
+            "name": "ほうじ茶",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "houjitya_bounce.png",
+            "climbresource": "houjitya_climb.png",
+            "bounce": true
+        },
+        {
+            "name": "ミケランジェロ",
+            "author": "八雲",
+            "package": "エンジョブ村",
+            "condition": "None",
+            "resource": "mikenyan.png",
+            "climbresource": "mikenyan_climb.png"
+        },
+        {
+            "name": "GAMER",
+            "author": "ovo",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_gamer_adaptive.PNG",
+            "climbresource": "Enj_gamer_climb.PNG",
+            "adaptive": true
+        },
+        {
+            "name": "猫耳フーディー",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_nekomimihoodie_adaptive.png",
+            "climbresource": "Enj_nekomimihoodie_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "双子コーデ　姉",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_OlderSister.png",
+            "climbresource": "Enj_OlderSister_climb.png"
+        },
+        {
+            "name": "双子コーデ　妹",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_YoungerSister.png",
+            "climbresource": "Enj_YoungerSister_climb.png"
+        },
+        {
+            "name": "食堂のおばちゃん",
+            "author": "にゃくも（八雲）",
+            "condition": "None",
+            "package": "エンジョブ村",
+            "resource": "Enj_syokudounoobatyan.png",
+            "climbresource": "Enj_syokudounoobatyan_climb.png"
         },
         {
             "name": "魔法少女スイーピー",
@@ -920,40 +1044,6 @@
             "resource": "Tonnanshape.png",
             "flipresource": "Tonnanshape_flip.png",
             "climbresource": "Tonnanshape_climb.png"
-        },
-        {
-            "name": "チャチャ",
-            "author": "八雲",
-            "package": "エンジョブ村",
-            "condition": "None",
-            "resource": "tyatya_bounce.png",
-            "climbresource": "tyatya_climb.png",
-            "bounce": true
-        },
-        {
-            "name": "ノアール",
-            "author": "八雲",
-            "package": "エンジョブ村",
-            "condition": "None",
-            "resource": "kuronyan.png",
-            "climbresource": "kuronyan_climb.png"
-        },
-        {
-            "name": "ほうじ茶",
-            "author": "八雲",
-            "package": "エンジョブ村",
-            "condition": "None",
-            "resource": "houjitya_bounce.png",
-            "climbresource": "houjitya_climb.png",
-            "bounce": true
-        },
-        {
-            "name": "ミケランジェロ",
-            "author": "八雲",
-            "package": "エンジョブ村",
-            "condition": "None",
-            "resource": "mikenyan.png",
-            "climbresource": "mikenyan_climb.png"
         },
         {
             "name": "バシャナイト",
