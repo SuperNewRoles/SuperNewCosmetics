@@ -938,8 +938,8 @@
             "author": "ovo",
             "condition": "None",
             "package": "エンジョブ村",
-            "resource": "Enj_gamer_adaptive.PNG",
-            "climbresource": "Enj_gamer_climb.PNG",
+            "resource": "Enj_gamer_adaptive.png",
+            "climbresource": "Enj_gamer_climb.png",
             "adaptive": true
         },
         {
