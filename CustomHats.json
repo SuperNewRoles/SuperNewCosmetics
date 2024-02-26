@@ -1166,6 +1166,34 @@
             "backresource":"LAMizuchiBack.png"
         },
         {
+            "name": "ちぃちゃん",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "Chiichan.png",
+            "flipresource": "Chiichan_flip.png",
+            "climbresource": "Chiichan_climb.png"
+        },
+        {
+            "name": "がっでむ",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "Gaddemu_adaptive.png",
+            "flipresource": "Gaddemu_flip.png",
+            "climbresource": "Gaddemu_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "志季",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "Shiki.png",
+            "flipresource": "Shiki_flip.png",
+            "climbresource": "Shiki_climb.png"
+        },
+        {
             "name": "くまちゃん帽子",
             "author": "Lucia",
             "package": "るちあーと",
@@ -2599,6 +2627,35 @@
             "backresource": "SONshirukuTrans_back.png",
             "backflipresource": "SONshirukuTrans_flip_back.png",
             "climbresource": "SONshirukuTrans_climb.png"
+        },
+        {
+            "name": "Lightsaber",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "lightsaberR1_adaptive.png",
+            "backresource": "lightsaberR1_back_adaptive.png",
+            "climbresource": "lightsaberR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "Moai",
+            "author": "R1",
+            "condition": "None",
+            "package": "R1 Hats",
+            "resource": "moaiR1_adaptive.png",
+            "climbresource": "moaiR1_climb_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "烏野 うた丸",
+            "author": "八足ノお京",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "utamaru.png",
+            "flipresource": "utamaru_flip.png",
+            "backflipresource": "utamaru_flip_back.png",
+            "climbresource": "utamaru_climb.png"
         }
     ]
 }
