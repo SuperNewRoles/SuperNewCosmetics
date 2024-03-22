@@ -1,79 +1,113 @@
-﻿{
+{
     "Visors": [
         {
             "name": "照れ顔",
             "author": "こめこのぱん",
-            "resource": "照れ顔.png"
+            "package": "Visor_SNR",
+            "resource": "照れ顔.png",
+            "behindHats": "true",
+            "IsSNR" : "true"
         },
         {
             "name": "アリスの人形",
             "author": "あもあすゆっくり",
-            "resource": "アリスの人形.png"
+            "package": "Visor_SNR",
+            "resource": "アリスの人形.png",
+            "IsSNR" : "true"
         },
         {
             "name": "キレる",
             "author": "こめこのぱん",
-            "resource": "キレる.png"
+            "package": "Visor_SNR",
+            "resource": "キレる.png",
+            "IsSNR" : "true"
         },
         {
             "name": "目",
             "author": "硫化水素の音",
-            "resource": "目.png"
+            "package": "Visor_SNR",
+            "resource": "目.png",
+            "IsSNR" : "true"
         },
         {
             "name": "くわえ花",
             "author": "kouyou",
-            "resource": "くわえ花.png"
+            "package": "Visor_SNR",
+            "resource": "くわえ花.png",
+            "IsSNR" : "true"
         },
         {
             "name": "Aー",
             "author": "shobon",
-            "resource": "shobon_Aー.png"
+            "package": "Visor_SNR",
+            "resource": "shobon_Aー.png",
+            "behindHats": "true",
+            "IsSNR" : "true"
         },
         {
             "name": "クルー体験VR",
             "author": "shobon",
-            "resource": "shobon_クルー体験VR.png"
+            "package": "Visor_SNR",
+            "resource": "shobon_クルー体験VR.png",
+            "IsSNR" : "true"
         },
         {
             "name": "困惑",
             "author": "にぢる",
-            "resource": "にぢる_困惑.png"
+            "package": "Visor_SNR",
+            "resource": "にぢる_困惑.png",
+            "behindHats": "true",
+            "IsSNR" : "true"
         },
         {
             "name": "バグっちゃってる、、、",
             "author": "らぷ",
+            "package": "Visor_SNR",
             "resource": "らぷ_バグっちゃってる.png"
         },
         {
             "name": "真っ黒",
             "author": "名無し",
-            "resource": "名無し_真っ黒.png"
+            "package": "Visor_SNR",
+            "resource": "名無し_真っ黒.png",
+            "IsSNR" : "true"
         },
         {
             "name": "私がやりました...",
             "author": "のあ",
-            "resource": "のあ_私がやりました.png"
+            "package": "Visor_SNR",
+            "resource": "のあ_私がやりました.png",
+            "IsSNR" : "true"
         },
         {
             "name": "ねこ",
             "author": "セオノ",
-            "resource": "SONcat.png"
+            "package": "SeonoCollection",
+            "resource": "SONcat.png",
+            "behindHats": "true",
+            "IsSNR" : "true"
         },
         {
             "name": "式神",
             "author": "セオノ",
-            "resource": "SONshikigami.png"
+            "package": "SeonoCollection",
+            "resource": "SONshikigami.png",
+            "behindHats": "false",
+            "IsSNR" : "true"
         },
         {
             "name": "セオノ風バイザーA",
             "author": "セオノ",
-            "resource": "SONcrewEye.png"
+            "package": "SeonoCollection",
+            "resource": "SONcrewEye.png",
+            "IsSNR" : "true"
         },
         {
             "name": "セオノ風バイザーB",
             "author": "セオノ",
-            "resource": "SONcrewEye2.png"
+            "package": "SeonoCollection",
+            "resource": "SONcrewEye2.png",
+            "IsSNR" : "true"
         }
     ]
 }
