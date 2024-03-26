@@ -311,9 +311,9 @@
             "author": "セオノ",
             "package": "SeonoCollection",
             "condition": "None",
-            "resource": "SONgosuroriSON_adaptive.png",
-            "backresource": "SONgosuroriSON_back.png",
-            "climbresource": "SONgosuroriSON_climb.png"
+            "resource": "SONgosurori_adaptive.png",
+            "backresource": "SONgosurori_back.png",
+            "climbresource": "SONgosurori_climb.png"
         },
         {
             "adaptive": true,
