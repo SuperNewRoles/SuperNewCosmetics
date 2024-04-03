@@ -2618,6 +2618,117 @@
             "flipresource": "utamaru_flip.png",
             "backflipresource": "utamaru_flip_back.png",
             "climbresource": "utamaru_climb.png"
+        },
+        {
+            "name": "柔らかいパーカー",
+            "author": "Voider",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "VoiderSoftHoodies.png",
+            "climbresource": "VoiderSoftHoodies_climb.png"
+        },
+        {
+            "name": "ハッチャン",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanHACCHAAN.png",
+            "flipresource": "ArujanHACCHAAN_flip.png",
+            "backresource": "ArujanHACCHAAN_back.png",
+            "backflipresource": "ArujanHACCHAAN_flip_back.png",
+            "climbresource": "ArujanHACCHAAN_climb.png"
+        },
+        {
+            "name": "ハチコ",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanHachiko.png",
+            "climbresource": "ArujanHachiko_climb.png"
+        },
+        {
+            "name": "ポン酢野郎",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanPonzuyaro.png",
+            "flipresource": "ArujanPonzuyaro_flip.png",
+            "climbresource": "ArujanPonzuyaro_climb.png"
+        },
+        {
+            "name": "とっしん",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanTossin.png",
+            "flipresource": "ArujanTossin_flip.png",
+            "backresource": "ArujanTossin_back.png",
+            "backflipresource": "ArujanTossin_flip_back.png",
+            "climbresource": "ArujanTossin_climb.png"
+        },
+        {
+            "name": "なつぴょん",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanNatsupyon.png",
+            "backresource": "ArujanNatsupyon_back.png",
+            "climbresource": "ArujanNatsupyon_climb.png"
+        },
+        {
+            "name": "瀬戸あさひ",
+            "author": "アルジャンスキン部(瀬戸あさひ)",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanSeto.png",
+            "climbresource": "ArujanSeto_climb.png"
+        },
+        {
+            "name": "詩人さん",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanShijinSan.png",
+            "flipresource": "ArujanShijinSan_flip.png",
+            "climbresource": "ArujanShijinSan_climb.png"
+        },
+        {
+            "name": "ネオみさとらん",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanNeoMisatoRan_front.png",
+            "flipresource": "ArujanNeoMisatoRan_flip.png",
+            "backresource": "ArujanNeoMisatoRan_back.png",
+            "backflipresource": "ArujanNeoMisatoRan_flip_back.png",
+            "climbresource": "ArujanNeoMisatoRan_climb.png"
+        },
+        {
+            "name": "オタク",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanOtaku.png",
+            "backresource": "ArujanOtaku_back.png",
+            "climbresource": "ArujanOtaku_climb.png"
+        },
+        {
+            "name": "かき氷",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanKakinaga_adaptive.png",
+            "flipresource": "ArujanKakinaga_flip.png",
+            "adaptive": true
+        },
+        {
+            "name": "最低限の羞恥心",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONleaf.png",
+            "flipresource": "SONleaf_flip.png",
+            "climbresource": "SONleaf_climb.png"
         }
     ]
 }
