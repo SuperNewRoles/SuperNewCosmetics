@@ -110,6 +110,27 @@
             "resource": "SONcrewEye2.png",
             "behindHats": "true",
             "IsSNR" : "true"
+        },
+        {
+            "name": "歯茎1",
+            "author": "アルジャンスキン部",
+            "package": "アルジャンバイザー",
+            "resource": "ArujanHaguki.png",
+            "behindHats": "true"
+        },
+        {
+            "name": "歯茎2",
+            "author": "アルジャンスキン部",
+            "package": "アルジャンバイザー",
+            "resource": "ArujanHagukiN.png",
+            "behindHats": "true"
+        },
+        {
+            "name": "歯茎3",
+            "author": "アルジャンスキン部",
+            "package": "アルジャンバイザー",
+            "resource": "ArujanHagukiH.png",
+            "behindHats": "true"
         }
     ]
 }
