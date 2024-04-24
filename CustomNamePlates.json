@@ -488,7 +488,7 @@
         {
             "author": "あさまる",
             "name": "夏休みの思い出〜森の中〜",
-            "resource": "あさまる_夏休みの思い出〜森の中〜.png"
+            "resource": "あさまる_夏休みの思い出_森の中.png"
         },
         {
             "author": "あさまる",
@@ -634,6 +634,11 @@
             "name": "Love Music",
             "author": "Mocha",
             "resource": "MLsen2.png"
+        },
+        {
+            "author": "Nigelファン",
+            "name": "ジャッカルあき",
+            "resource": "ジャッカルあき.png"
         }
     ]
 }

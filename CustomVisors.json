@@ -131,6 +131,122 @@
             "package": "アルジャンバイザー",
             "resource": "ArujanHagukiH.png",
             "behindHats": "true"
+        },
+        {
+            "name": "カメレオン？",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_kamereon.png"
+        },
+        {
+            "name": "サカバンバスピス",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_sakabanbasupisu.png"
+        },
+        {
+            "name": "ティータイム",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_teitime.png",
+            "flipresource": "NigelFan_teitime_flip.png"
+        },
+        {
+            "name": "狂った顔",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_kuruttakao.png"
+        },
+        {
+            "name": "ラジカセ",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_rajikase.png",
+            "flipresource": "NigelFan_rajikase_flip.png"
+        },
+        {
+            "name": "マスクマン",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_masukuman.png"
+        },
+        {
+            "name": "プレゼント箱",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_purezentobako.png"
+        },
+        {
+            "name": "ブーブークッション",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_bubukussyon.png",
+            "flipresource" : "NigelFan_bubukussyon_flip.png"
+        },
+        {
+            "name": "ダブルショットガン",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_daburusyottogan.png",
+            "flipresource" : "NigelFan_daburusyottogan_flip.png"
+        },
+        {
+            "name": "スネアフリー",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_suneahuri.png",
+            "flipresource" : "NigelFan_suneahuri_flip.png"
+        },
+        {
+            "name": "発電装置",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_hatudensouti.png"
+        },
+        {
+            "name": "止まれの標識",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_tomarenohyousiki.png",
+            "flipresource" : "NigelFan_tomarenohyousiki_flip.png"
+        },
+        {
+            "name": "延長ハシゴ",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_entyouhashigo.png"
+        },
+        {
+            "name": "シャベル",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_syoberu.png"
+        },
+        {
+            "name": "カギ",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_kagi.png"
+        },
+        {
+            "name": "すごい懐中電灯",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_sugoikaityuudentou.png",
+            "flipresource" : "NigelFan_sugoikaityuudentou_flip.png"
+        },
+        {
+            "name": "アヒル隊長",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_ahirutaityou.png"
+        },
+        {
+            "name": "最低限の羞恥心",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "resource": "SONleaf.png",
+            "flipresource" : "SONleaf_flip.png"
         }
     ]
 }
