@@ -5,59 +5,59 @@
             "author": "こめこのぱん",
             "package": "Visor_SNR",
             "resource": "照れ顔.png",
-            "behindHats": "true",
-            "IsSNR" : "true"
+            "behindHats": true,
+            "IsSNR" : true
         },
         {
             "name": "アリスの人形",
             "author": "あもあすゆっくり",
             "package": "Visor_SNR",
             "resource": "アリスの人形.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "キレる",
             "author": "こめこのぱん",
             "package": "Visor_SNR",
             "resource": "キレる.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "目",
             "author": "硫化水素の音",
             "package": "Visor_SNR",
             "resource": "目.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "くわえ花",
             "author": "kouyou",
             "package": "Visor_SNR",
             "resource": "くわえ花.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "Aー",
             "author": "shobon",
             "package": "Visor_SNR",
             "resource": "shobon_Aー.png",
-            "behindHats": "true",
-            "IsSNR" : "true"
+            "behindHats": true,
+            "IsSNR" : true
         },
         {
             "name": "クルー体験VR",
             "author": "shobon",
             "package": "Visor_SNR",
             "resource": "shobon_クルー体験VR.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "困惑",
             "author": "にぢる",
             "package": "Visor_SNR",
             "resource": "にぢる_困惑.png",
-            "behindHats": "true",
-            "IsSNR" : "true"
+            "behindHats": true,
+            "IsSNR" : true
         },
         {
             "name": "バグっちゃってる、、、",
@@ -70,67 +70,67 @@
             "author": "名無し",
             "package": "Visor_SNR",
             "resource": "名無し_真っ黒.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "私がやりました...",
             "author": "のあ",
             "package": "Visor_SNR",
             "resource": "のあ_私がやりました.png",
-            "IsSNR" : "true"
+            "IsSNR" : true
         },
         {
             "name": "ねこ",
             "author": "セオノ",
             "package": "SeonoCollection",
             "resource": "SONcat.png",
-            "behindHats": "true",
-            "IsSNR" : "true"
+            "behindHats": true,
+            "IsSNR" : true
         },
         {
             "name": "式神",
             "author": "セオノ",
             "package": "SeonoCollection",
             "resource": "SONshikigami.png",
-            "behindHats": "false",
-            "IsSNR" : "true"
+            "behindHats": false,
+            "IsSNR" : true
         },
         {
             "name": "セオノ風バイザーA",
             "author": "セオノ",
             "package": "SeonoCollection",
             "resource": "SONcrewEye.png",
-            "behindHats": "true",
-            "IsSNR" : "true"
+            "behindHats": true,
+            "IsSNR" : true
         },
         {
             "name": "セオノ風バイザーB",
             "author": "セオノ",
             "package": "SeonoCollection",
             "resource": "SONcrewEye2.png",
-            "behindHats": "true",
-            "IsSNR" : "true"
+            "behindHats": true,
+            "IsSNR" : true
         },
         {
             "name": "歯茎1",
             "author": "アルジャンスキン部",
             "package": "アルジャンバイザー",
             "resource": "ArujanHaguki.png",
-            "behindHats": "true"
+            "behindHats": true
         },
         {
             "name": "歯茎2",
             "author": "アルジャンスキン部",
             "package": "アルジャンバイザー",
             "resource": "ArujanHagukiN.png",
-            "behindHats": "true"
+            "behindHats": true
         },
         {
             "name": "歯茎3",
             "author": "アルジャンスキン部",
             "package": "アルジャンバイザー",
             "resource": "ArujanHagukiH.png",
-            "behindHats": "true"
+            "behindHats": true
         },
         {
             "name": "カメレオン？",
