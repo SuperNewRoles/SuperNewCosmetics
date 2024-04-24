@@ -53,6 +53,17 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
+            "name": "ハッチャン",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanHACCHAAN.png",
+            "flipresource": "ArujanHACCHAAN_flip.png",
+            "backresource": "ArujanHACCHAAN_back.png",
+            "backflipresource": "ArujanHACCHAAN_flip_back.png",
+            "climbresource": "ArujanHACCHAAN_climb.png"
+        },
+        {
             "adaptive": true,
             "name": "九尾の狐",
             "author": "セオノ",
@@ -660,6 +671,23 @@
             "adaptive": true
         },
         {
+            "name": "MOCHA",
+            "author": "あや",
+            "package": "もからって船",
+            "condition": "None",
+            "resource": "MOCHA.png",
+            "climbresource": "MOCHA_climb.png"
+        },
+        {
+            "name": "もからって2",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_mokadg.png",
+            "flipresource": "kuroiru_mokadg_flip.png",
+            "climbresource": "kuroiru_mokadg_climb.png"
+        },
+        {
             "name": "ahui",
             "author": "あや",
             "package": "もからって船",
@@ -674,14 +702,6 @@
             "condition": "None",
             "resource": "Itoko.png",
             "climbresource": "Itoko_climb.png"
-        },
-        {
-            "name": "MOCHA",
-            "author": "あや",
-            "package": "もからって船",
-            "condition": "None",
-            "resource": "MOCHA.png",
-            "climbresource": "MOCHA_climb.png"
         },
         {
             "name": "あや",
@@ -2628,17 +2648,6 @@
             "climbresource": "VoiderSoftHoodies_climb.png"
         },
         {
-            "name": "ハッチャン",
-            "author": "アルジャンスキン部",
-            "condition": "None",
-            "package": "アルジャンハット",
-            "resource": "ArujanHACCHAAN.png",
-            "flipresource": "ArujanHACCHAAN_flip.png",
-            "backresource": "ArujanHACCHAAN_back.png",
-            "backflipresource": "ArujanHACCHAAN_flip_back.png",
-            "climbresource": "ArujanHACCHAAN_climb.png"
-        },
-        {
             "name": "ハチコ",
             "author": "アルジャンスキン部",
             "condition": "None",
@@ -2693,6 +2702,17 @@
             "climbresource": "ArujanShijinSan_climb.png"
         },
         {
+            "name": "みさとらん",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanMisatoRan.png",
+            "flipresource": "ArujanMisatoRan_flip.png",
+            "backresource": "ArujanMisatoRan_back.png",
+            "backflipresource": "ArujanMisatoRan_flip_back.png",
+            "climbresource": "ArujanMisatoRan_climb.png"
+        },
+        {
             "name": "ネオみさとらん",
             "author": "アルジャンスキン部",
             "condition": "None",
@@ -2702,6 +2722,24 @@
             "backresource": "ArujanNeoMisatoRan_back.png",
             "backflipresource": "ArujanNeoMisatoRan_flip_back.png",
             "climbresource": "ArujanNeoMisatoRan_climb.png"
+        },
+        {
+            "name": "たけぉ",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanTakeo.png",
+            "flipresource": "ArujanTakeo_flip.png",
+            "climbresource": "ArujanTakeo_climb.png"
+        },
+        {
+            "name": "バブルケーキ",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanBubbleCake.png",
+            "flipresource": "ArujanBubbleCake_flip.png",
+            "climbresource": "ArujanBubbleCake_climb.png"
         },
         {
             "name": "オタク",
@@ -2729,6 +2767,56 @@
             "resource": "SONleaf.png",
             "flipresource": "SONleaf_flip.png",
             "climbresource": "SONleaf_climb.png"
+        },
+        {
+            "name": "動物学者で探検家",
+            "author": "Nigelファン",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "NigelFan_WildlifAdventure.png",
+            "climbresource": "NigelFan_WildlifAdventure_climb.png"
+        },
+        {
+            "name": "合夜あおい",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_aoi.png",
+            "flipresource": "kuroiru_aoi_flip.png",
+            "climbresource": "kuroiru_aoi_climb.png"
+        },
+        {
+            "name": "てんぷらじゃない",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_ebifurai.png",
+            "climbresource": "kuroiru_ebifurai_climb.png"
+        },
+        {
+            "name": "私はきっとクルー",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_kittokuru.png",
+            "climbresource": "kuroiru_kittokuru_climb.png"
+        },
+        {
+            "name": "きょーこママ",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_kyoko.png",
+            "flipresource": "kuroiru_kyoko_flip.png",
+            "climbresource": "kuroiru_kyoko_climb.png"
+        },
+        {
+            "name": "うまみさん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kuroiru_umami.png",
+            "climbresource": "kuroiru_umami_climb.png"
         }
     ]
 }
