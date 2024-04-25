@@ -1988,7 +1988,7 @@
         {
             "name":"てんぷら1号",
             "author":"黒いるか",
-            "package":"もからって船",
+            "package":"黒いるかHats",
             "condition":"None",
             "resource":"MocaTenpura1Main.png",
             "climbresource":"MocaTenpura1Climb.png"
@@ -1996,7 +1996,7 @@
         {
             "name":"てんぷら2号",
             "author":"黒いるか",
-            "package":"もからって船",
+            "package":"黒いるかHats",
             "condition":"None",
             "resource":"MocaTenpura2Main.png",
             "climbresource":"MocaTenpura2Climb.png"
@@ -2005,7 +2005,7 @@
             "name": "べいくどもちょちょ",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "anko.png",
             "climbresource": "anko_climb.png"
         },
@@ -2021,7 +2021,7 @@
             "name": "学生さん",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "jkjk_adaptive.png",
             "climbresource": "jkjk_climb.png",
             "adaptive": true
@@ -2030,7 +2030,7 @@
             "name": "ぷりん",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "Prin.png",
             "climbresource": "Prin_climb.png"
         },
@@ -2527,7 +2527,7 @@
             "name": "大阪名物1号",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_oosaka1.png",
             "climbresource": "kuroiru_oosaka1_climb.png"
         },
@@ -2535,7 +2535,7 @@
             "name": "大阪名物2号",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_oosaka2.png",
             "climbresource": "kuroiru_oosaka2_climb.png"
         },
@@ -2543,7 +2543,7 @@
             "name": "大阪名物3号",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_oosaka3.png",
             "climbresource": "kuroiru_oosaka3_climb.png"
         },
@@ -2551,7 +2551,7 @@
             "name": "ぽん酢",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_ponzu.png",
             "climbresource": "kuroiru_ponzu_climb.png"
         },
@@ -2559,7 +2559,7 @@
             "name": "たい焼き",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_taiyaki.png",
             "climbresource": "kuroiru_taiyaki_climb.png"
         },
@@ -2567,7 +2567,7 @@
             "name": "比良坂芽衣様",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_hirasakamei.png",
             "climbresource": "kuroiru_hirasakamei_climb.png"
         },
@@ -2575,7 +2575,7 @@
             "name": "マヨネーズ",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_mayo.png",
             "climbresource": "kuroiru_mayo_climb.png"
         },
@@ -2789,7 +2789,7 @@
             "name": "てんぷらじゃない",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_ebifurai.png",
             "climbresource": "kuroiru_ebifurai_climb.png"
         },
@@ -2797,7 +2797,7 @@
             "name": "私はきっとクルー",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_kittokuru.png",
             "climbresource": "kuroiru_kittokuru_climb.png"
         },
@@ -2805,7 +2805,7 @@
             "name": "きょーこママ",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_kyoko.png",
             "flipresource": "kuroiru_kyoko_flip.png",
             "climbresource": "kuroiru_kyoko_climb.png"
@@ -2814,7 +2814,7 @@
             "name": "うまみさん",
             "author": "黒いるか",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "黒いるかHats",
             "resource": "kuroiru_umami.png",
             "climbresource": "kuroiru_umami_climb.png"
         }
