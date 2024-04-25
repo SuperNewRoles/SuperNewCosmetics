@@ -2817,6 +2817,24 @@
             "package": "黒いるかHats",
             "resource": "kuroiru_umami.png",
             "climbresource": "kuroiru_umami_climb.png"
+        },
+        {
+            "name": "番長",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_bantyou_adaptive.png",
+            "flipresource": "kuroiru_bantyou_flip.png",
+            "climbresource": "kuroiru_bantyou_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "益荒男",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_masurao.png",
+            "climbresource": "kuroiru_masurao_climb.png"
         }
     ]
 }

@@ -247,6 +247,27 @@
             "package": "SeonoCollection",
             "resource": "SONleaf.png",
             "flipresource" : "SONleaf_flip.png"
+        },
+        {
+            "name": "お洒落なランプ",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_osyarenaranpu.png",
+            "flipresource": "NigelFan_osyarenaranpu_flip.png"
+        },
+        {
+            "name": "ピエロの笛",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_pieronohue.png",
+            "flipresource": "NigelFan_pieronohue_flip.png"
+        },
+        {
+            "name": "大きなギア",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_ookinagia.png",
+            "flipresource" : "NigelFan_ookinagia_flip.png"
         }
     ]
 }
