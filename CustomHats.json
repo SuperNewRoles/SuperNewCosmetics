@@ -1691,7 +1691,7 @@
         {
             "name":"明日香1",
             "author":"黒いるか",
-            "package":"Hat_SNR",
+            "package":"黒いるかHats",
             "condition":"None",
             "resource":"Asuka01Main.png",
             "climbresource":"Asuka01Climb.png"
@@ -1699,7 +1699,7 @@
         {
             "name":"明日香2",
             "author":"黒いるか",
-            "package":"Hat_SNR",
+            "package":"黒いるかHats",
             "condition":"None",
             "resource":"Asuka02Main.png",
             "climbresource":"Asuka02Climb.png"
@@ -1707,7 +1707,7 @@
         {
             "name":"明日香のひめちゃん",
             "author":"黒いるか",
-            "package":"Hat_SNR",
+            "package":"黒いるかHats",
             "condition":"None",
             "resource":"AsukaNoHimeChanMain.png",
             "climbresource":"AsukaNoHimeChanClimb.png"
@@ -1986,9 +1986,18 @@
             "adaptive":true
         },
         {
+            "name": "百合夜あおい",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_aoi.png",
+            "flipresource": "kuroiru_aoi_flip.png",
+            "climbresource": "kuroiru_aoi_climb.png"
+        },
+        {
             "name":"てんぷら1号",
             "author":"黒いるか",
-            "package":"黒いるかHats",
+            "package":"もからって船",
             "condition":"None",
             "resource":"MocaTenpura1Main.png",
             "climbresource":"MocaTenpura1Climb.png"
@@ -1996,7 +2005,7 @@
         {
             "name":"てんぷら2号",
             "author":"黒いるか",
-            "package":"黒いるかHats",
+            "package":"もからって船",
             "condition":"None",
             "resource":"MocaTenpura2Main.png",
             "climbresource":"MocaTenpura2Climb.png"
@@ -2777,15 +2786,6 @@
             "climbresource": "NigelFan_WildlifAdventure_climb.png"
         },
         {
-            "name": "合夜あおい",
-            "author": "黒いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_aoi.png",
-            "flipresource": "kuroiru_aoi_flip.png",
-            "climbresource": "kuroiru_aoi_climb.png"
-        },
-        {
             "name": "てんぷらじゃない",
             "author": "黒いるか",
             "condition": "None",
@@ -2817,6 +2817,24 @@
             "package": "黒いるかHats",
             "resource": "kuroiru_umami.png",
             "climbresource": "kuroiru_umami_climb.png"
+        },
+        {
+            "name": "番長",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_bantyou_adaptive.png",
+            "flipresource": "kuroiru_bantyou_flip.png",
+            "climbresource": "kuroiru_bantyou_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "益荒男",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_masurao.png",
+            "climbresource": "kuroiru_masurao_climb.png"
         }
     ]
 }
