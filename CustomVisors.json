@@ -133,6 +133,22 @@
             "behindHats": "true"
         },
         {
+            "name": "かき氷",
+            "author": "アルジャンスキン部",
+            "package": "アルジャンバイザー",
+            "resource": "ArujanKakinaga_adaptive.png",
+            "flipresource" : "ArujanKakinaga_flip.png",
+            "adaptive": true
+        },
+        {
+            "name": "黄金北",
+            "author": "アルジャンスキン部",
+            "package": "アルジャンバイザー",
+            "resource": "ArujanOugonpei_adaptive.png",
+            "flipresource" : "ArujanOugonpei_flip.png",
+            "adaptive": true
+        },
+        {
             "name": "カメレオン？",
             "author": "Nigelファン",
             "package": "Nigelファンのバイザー",

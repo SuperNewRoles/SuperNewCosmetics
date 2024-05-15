@@ -638,7 +638,17 @@
         {
             "author": "Nigelファン",
             "name": "ジャッカルあき",
-            "resource": "ジャッカルあき.png"
+            "resource": "Nigel_JackalAki.png"
+        },
+        {
+            "author": "Nigelファン",
+            "name": "コモンウェルス",
+            "resource": "Nigel_CommonWealth.png"
+        },
+        {
+            "author": "Nigelファン",
+            "name": "ジュラシック風",
+            "resource": "Nigel_Jurassic.png"
         }
     ]
 }
