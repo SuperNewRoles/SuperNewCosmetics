@@ -1458,6 +1458,22 @@
             "climbresource":"wakoClimb.png"
         },
         {
+            "name":"ジョメジョメ",
+            "author":"黒いるか",
+            "package":"アヤナミ村",
+            "condition":"None",
+            "resource":"jyomejyomeMain.png",
+            "climbresource":"jyomejyomeClimb.png"
+        },
+        {
+            "name": "もっちん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "アヤナミ村",
+            "resource": "kuroiru_mottin.png",
+            "climbresource": "kuroiru_mottin_climb.png"
+        },
+        {
             "name":"シェリフカード",
             "author":"りょい",
             "package":"ゆう村",
@@ -1681,12 +1697,64 @@
             "climbresource":"takiClimb.png"
         },
         {
-            "name":"ジョメジョメ",
-            "author":"黒いるか",
-            "package":"アヤナミ村",
-            "condition":"None",
-            "resource":"jyomejyomeMain.png",
-            "climbresource":"jyomejyomeClimb.png"
+            "name": "甘兎卯バニーラ",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "amatou.png",
+            "climbresource": "amatou_climb.png"
+        },
+        {
+            "name": "カマンベール堀江",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "kamahori.png",
+            "climbresource": "kamahori_climb.png"
+        },
+        {
+            "name": "輪公園",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "rinrinpark.png",
+            "climbresource": "rinrinpark_climb.png"
+        },
+        {
+            "name": "優々",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "yuyu.png",
+            "climbresource": "yuyu_climb.png"
+        },
+        {
+            "name": "小町",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "toarukomachi_adaptive.png",
+            "flipresource": "toarukomachi_flip.png",
+            "climbresource": "toarukomachi_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ナス",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "toarunasu_adaptive.png",
+            "climbresource": "toarunasu_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "さき",
+            "author": "ねこねこと遊び隊",
+            "condition": "None",
+            "package": "ねこねこと遊び隊",
+            "resource": "toarusaki_adaptive.png",
+            "climbresource": "toarusaki_climb.png",
+            "adaptive": true
         },
         {
             "name":"明日香1",
@@ -2751,6 +2819,48 @@
             "climbresource": "ArujanBubbleCake_climb.png"
         },
         {
+            "name": "はてな",
+            "author": "アルジャンスキン部(セオノ)",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanHatena.png",
+            "backresource": "ArujanHatena_back.png",
+            "climbresource": "ArujanHatena_climb.png"
+        },
+        {
+            "name": "オシオン",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanOsion.png",
+            "flipresource": "ArujanOsion_flip.png",
+            "backresource": "ArujanOsion_back.png",
+            "backflipresource": "ArujanOsion_flip_back.png",
+            "climbresource": "ArujanOsion_climb.png"
+        },
+        {
+            "name": "比良坂芽衣",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanMeiHirasaka.png",
+            "flipresource": "ArujanMeiHirasaka_flip.png",
+            "backresource": "ArujanMeiHirasaka_back.png",
+            "backflipresource": "ArujanMeiHirasaka_flip_back.png",
+            "climbresource": "ArujanMeiHirasaka_climb.png"
+        },
+        {
+            "name": "ちゃげぽよ。",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanChagepoyo.png",
+            "flipresource": "ArujanChagepoyo_flip.png",
+            "backresource": "ArujanChagepoyo_back.png",
+            "backflipresource": "ArujanChagepoyo_flip_back.png",
+            "climbresource": "ArujanChagepoyo_climb.png"
+        },
+        {
             "name": "オタク",
             "author": "アルジャンスキン部",
             "condition": "None",
@@ -2766,6 +2876,15 @@
             "package": "アルジャンハット",
             "resource": "ArujanKakinaga_adaptive.png",
             "flipresource": "ArujanKakinaga_flip.png",
+            "adaptive": true
+        },
+        {
+            "name": "黄金北",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanOugonpei_adaptive.png",
+            "flipresource": "ArujanOugonpei_flip.png",
             "adaptive": true
         },
         {
@@ -2835,6 +2954,64 @@
             "package": "黒いるかHats",
             "resource": "kuroiru_masurao.png",
             "climbresource": "kuroiru_masurao_climb.png"
+        },
+        {
+            "name": "大正ロマン",
+            "author": "Nigelファン",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "NigelFan_TaishoRoman.png",
+            "climbresource": "NigelFan_TaishoRoman_climb.png"
+        },
+        {
+            "name": "ビリビリ黒いるか",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_denki.png",
+            "climbresource": "kuroiru_denki_climb.png"
+        },
+        {
+            "name": "はてなちゃん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_hatena.png",
+            "climbresource": "kuroiru_hatena_climb.png"
+        },
+        {
+            "name": "カッパさん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_kappa.png",
+            "climbresource": "kuroiru_kappa_climb.png"
+        },
+        {
+            "name": "ヒョウモントカゲモドキ",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_leopa_adaptive.png",
+            "climbresource": "kuroiru_leopa_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "トイレタスク中",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_toire.png",
+            "flipresource": "kuroiru_toire_flip.png",
+            "climbresource": "kuroiru_toire_climb.png"
+        },
+        {
+            "name": "おとのさま",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_tonosama.png",
+            "climbresource": "kuroiru_tonosama_climb.png"
         }
     ]
 }
