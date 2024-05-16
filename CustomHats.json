@@ -2850,6 +2850,17 @@
             "climbresource": "ArujanMeiHirasaka_climb.png"
         },
         {
+            "name": "ちゃげぽよ。",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanChagepoyo.png",
+            "flipresource": "ArujanChagepoyo_flip.png",
+            "backresource": "ArujanChagepoyo_back.png",
+            "backflipresource": "ArujanChagepoyo_flip_back.png",
+            "climbresource": "ArujanChagepoyo_climb.png"
+        },
+        {
             "name": "オタク",
             "author": "アルジャンスキン部",
             "condition": "None",
