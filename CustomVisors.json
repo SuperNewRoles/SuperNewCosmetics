@@ -284,6 +284,13 @@
             "package": "Nigelファンのバイザー",
             "resource": "NigelFan_ookinagia.png",
             "flipresource" : "NigelFan_ookinagia_flip.png"
+        },
+        {
+            "name": "翼竜のよっちゃん",
+            "author": "Nigelファン",
+            "package": "Nigelファンのバイザー",
+            "resource": "NigelFan_yottyan.png",
+            "behindHats": true
         }
     ]
 }

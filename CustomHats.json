@@ -2900,7 +2900,7 @@
             "name": "動物学者で探検家",
             "author": "Nigelファン",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "Nigelファンのハット",
             "resource": "NigelFan_WildlifAdventure.png",
             "climbresource": "NigelFan_WildlifAdventure_climb.png"
         },
@@ -2959,7 +2959,7 @@
             "name": "大正ロマン",
             "author": "Nigelファン",
             "condition": "None",
-            "package": "Hat_SNR",
+            "package": "Nigelファンのハット",
             "resource": "NigelFan_TaishoRoman.png",
             "climbresource": "NigelFan_TaishoRoman_climb.png"
         },
@@ -3012,6 +3012,32 @@
             "package": "黒いるかHats",
             "resource": "kuroiru_tonosama.png",
             "climbresource": "kuroiru_tonosama_climb.png"
+        },
+        {
+            "name": "キーウィ",
+            "author": "Nigelファン",
+            "condition": "None",
+            "package": "Nigelファンのハット",
+            "resource": "NigelFan_Kiwi.png",
+            "climbresource": "NigelFan_Kiwi_climb.png"
+        },
+        {
+            "name": "トナカイ",
+            "author": "Nigelファン",
+            "condition": "None",
+            "package": "Nigelファンのハット",
+            "resource": "NigelFan_Reindeer.png",
+            "climbresource": "NigelFan_Reindeer_climb.png"
+        },
+        {
+            "name": "翼竜",
+            "author": "Nigelファン",
+            "condition": "None",
+            "package": "Nigelファンのハット",
+            "resource": "NigelFan_Pterosaurs_adaptive.png",
+            "backresource": "NigelFan_Pterosaurs_adaptive_back.png",
+            "climbresource": "NigelFan_Pterosaurs_adaptive_climb.png",
+            "adaptive": true
         }
     ]
 }
