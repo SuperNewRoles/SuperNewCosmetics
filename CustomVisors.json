@@ -291,6 +291,24 @@
             "package": "Nigelファンのバイザー",
             "resource": "NigelFan_yottyan.png",
             "behindHats": true
+        },
+        {
+            "name": "麗しきこの肉体(情熱)",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "resource": "SONRoseRed.png"
+        },
+        {
+            "name": "麗しきこの肉体(冷静)",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "resource": "SONRoseBlue.png"
+        },
+        {
+            "name": "麗しきこの肉体(陽気)",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "resource": "SONRoseYellow.png"
         }
     ]
 }

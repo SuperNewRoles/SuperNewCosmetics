@@ -399,6 +399,16 @@
             "climbresource": "SONRedHoodGirl_climb.png"
         },
         {
+            "name": "ナイス赤ずきん(Color)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "RedHoodGirlSON_adaptive.png",
+            "backresource": "RedHoodGirlSON_back.png",
+            "climbresource": "RedHoodGirlSON_climb.png",
+            "adaptive": true
+        },
+        {
             "name": "トウユ",
             "author": "セオノ",
             "package": "TondemogozaimaSen-Hats",
@@ -794,7 +804,7 @@
         },
         {
             "name": "にゃくも",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_nyakumo.png",
@@ -802,7 +812,7 @@
         },
         {
             "name": "hikaRuN",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_hikarun.png",
@@ -810,7 +820,7 @@
         },
         {
             "name": "いっきー",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_ikki.png",
@@ -818,7 +828,7 @@
         },
         {
             "name": "ぴっぷる",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_pippuru.png",
@@ -826,7 +836,7 @@
         },
         {
             "name": "らる",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_raru.png",
@@ -834,7 +844,7 @@
         },
         {
             "name": "ユキ",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_yuki.png",
@@ -926,7 +936,7 @@
         },
         {
             "name": "猫耳フーディー",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_nekomimihoodie_adaptive.png",
@@ -935,7 +945,7 @@
         },
         {
             "name": "双子コーデ　姉",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_OlderSister.png",
@@ -943,7 +953,7 @@
         },
         {
             "name": "双子コーデ　妹",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_YoungerSister.png",
@@ -951,7 +961,7 @@
         },
         {
             "name": "食堂のおばちゃん",
-            "author": "にゃくも（八雲）",
+            "author": "にゃくも(八雲)",
             "condition": "None",
             "package": "エンジョブ村",
             "resource": "Enj_syokudounoobatyan.png",
@@ -2861,6 +2871,43 @@
             "climbresource": "ArujanChagepoyo_climb.png"
         },
         {
+            "name": "まんさや様",
+            "author": "アルジャンスキン部(セオノ)",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanMansaya.png",
+            "flipresource": "ArujanMansaya_flip.png",
+            "backresource": "ArujanMansaya_back.png",
+            "climbresource": "ArujanMansaya_climb.png"
+        },
+        {
+            "name": "アベレージ",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanAverage.png",
+            "flipresource": "ArujanAverage_flip.png",
+            "climbresource": "ArujanAverage_climb.png"
+        },
+        {
+            "name": "中野あるま",
+            "author": "アルジャンスキン部(セオノ)",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanAruma.png",
+            "flipresource": "ArujanAruma_flip.png",
+            "climbresource": "ArujanAruma_climb.png"
+        },
+        {
+            "name": "柑橘めたる",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanKankitsuMetal.png",
+            "flipresource": "ArujanKankitsuMetal_flip.png",
+            "climbresource": "ArujanKankitsuMetal_climb.png"
+        },
+        {
             "name": "オタク",
             "author": "アルジャンスキン部",
             "condition": "None",
@@ -2885,6 +2932,34 @@
             "package": "アルジャンハット",
             "resource": "ArujanOugonpei_adaptive.png",
             "flipresource": "ArujanOugonpei_flip.png",
+            "adaptive": true
+        },
+        {
+            "name": "ハチヤマ(実写)",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanHACHIYAMARealA.png",
+            "flipresource": "ArujanHACHIYAMARealA_flip.png",
+            "climbresource": "ArujanHACHIYAMARealA_climb.png"
+        },
+        {
+            "name": "ハチヤマ(実写カラー)",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanHACHIYAMARealB.png",
+            "flipresource": "ArujanHACHIYAMARealB_flip.png",
+            "climbresource": "ArujanHACHIYAMARealB_climb.png"
+        },
+        {
+            "name": "化け狸",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONRaccon_adaptive.png",
+            "backresource": "SONRaccon_back.png",
+            "climbresource": "SONRaccon_climb.png",
             "adaptive": true
         },
         {
@@ -3038,6 +3113,27 @@
             "backresource": "NigelFan_Pterosaurs_adaptive_back.png",
             "climbresource": "NigelFan_Pterosaurs_adaptive_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "麗しきこの肉体(情熱)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONRoseRed.png"
+        },
+        {
+            "name": "麗しきこの肉体(冷静)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONRoseBlue.png"
+        },
+        {
+            "name": "麗しきこの肉体(陽気)",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONRoseYellow.png"
         }
     ]
 }
