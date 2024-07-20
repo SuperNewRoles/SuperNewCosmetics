@@ -3134,6 +3134,15 @@
             "condition": "None",
             "package": "SeonoCollection",
             "resource": "SONRoseYellow.png"
+        },
+        {
+            "name": "あおいるか（ペアアモ）",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiruka_aoiruka.png",
+            "flipresource": "kuroiruka_aoiruka_flip.png",
+            "climbresource": "kuroiruka_aoiruka_climb.png"
         }
     ]
 }
