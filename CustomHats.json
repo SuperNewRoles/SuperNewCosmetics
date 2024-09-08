@@ -3143,6 +3143,62 @@
             "resource": "kuroiruka_aoiruka.png",
             "flipresource": "kuroiruka_aoiruka_flip.png",
             "climbresource": "kuroiruka_aoiruka_climb.png"
+        },
+        {
+            "name": "最強ウェスタン",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_westan.png",
+            "flipresource": "kuroiru_westan_flip.png",
+            "climbresource": "kuroiru_westan_climb.png"
+        },
+        {
+            "name": "かみさま",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_kamisama.png",
+            "flipresource": "kuroiru_kamisama_flip.png",
+            "climbresource": "kuroiru_kamisama_climb.png"
+        },
+        {
+            "name": "まんさん",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_mansan.png",
+            "flipresource": "kuroiru_mansan_flip.png",
+            "climbresource": "kuroiru_mansan_climb.png"
+        },
+        {
+            "name": "楠木瑞羽",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_mizuha.png",
+            "flipresource": "kuroiru_mizuha_flip.png",
+            "climbresource": "kuroiru_mizuha_climb.png"
+        },
+        {
+            "name": "よっぱらい",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_sakenomi.png",
+            "flipresource": "kuroiru_sakenomi_flip.png",
+            "climbresource": "kuroiru_sakenomi_climb.png"
+        },
+        {
+            "name": "倉持京子",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanKyokoKuramochi.png",
+            "flipresource": "ArujanKyokoKuramochi_flip.png",
+            "backresource": "ArujanKyokoKuramochi_back.png",
+            "backflipresource": "ArujanKyokoKuramochi_flip_back.png",
+            "climbresource": "ArujanKyokoKuramochi_climb.png"
         }
     ]
 }

@@ -309,6 +309,13 @@
             "author": "セオノ",
             "package": "SeonoCollection",
             "resource": "SONRoseYellow.png"
+        },
+        {
+            "name": "マッチョ腕",
+            "author": "黒いるか",
+            "package": "Visor_SNR",
+            "resource": "kuroiruka_westan.png",
+            "flipresource" : "kuroiruka_westan_flip.png"
         }
     ]
 }
