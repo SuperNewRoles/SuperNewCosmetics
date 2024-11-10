@@ -3190,6 +3190,24 @@
             "resource": "kuroiru_sakenomi.png",
             "flipresource": "kuroiru_sakenomi_flip.png",
             "climbresource": "kuroiru_sakenomi_climb.png"
+        },
+        {
+            "name": "マテウス",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_mateusu.png",
+            "backresource": "kuroiru_mateusu_back.png",
+            "climbresource": "kuroiru_mateusu_climb.png"
+        },
+        {
+            "name": "トラ娘",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_torako.png",
+            "flipresource": "kuroiru_torako_flip.png",
+            "climbresource": "kuroiru_torako_climb.png"
         }
     ]
 }
