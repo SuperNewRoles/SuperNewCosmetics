@@ -2908,6 +2908,17 @@
             "climbresource": "ArujanKankitsuMetal_climb.png"
         },
         {
+            "name": "倉持京子",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanKyokoKuramochi.png",
+            "flipresource": "ArujanKyokoKuramochi_flip.png",
+            "backresource": "ArujanKyokoKuramochi_back.png",
+            "backflipresource": "ArujanKyokoKuramochi_flip_back.png",
+            "climbresource": "ArujanKyokoKuramochi_climb.png"
+        },
+        {
             "name": "オタク",
             "author": "アルジャンスキン部",
             "condition": "None",
@@ -3163,15 +3174,6 @@
             "climbresource": "kuroiru_kamisama_climb.png"
         },
         {
-            "name": "まんさん",
-            "author": "黒いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_mansan.png",
-            "flipresource": "kuroiru_mansan_flip.png",
-            "climbresource": "kuroiru_mansan_climb.png"
-        },
-        {
             "name": "楠木瑞羽",
             "author": "黒いるか",
             "condition": "None",
@@ -3190,15 +3192,108 @@
             "climbresource": "kuroiru_sakenomi_climb.png"
         },
         {
-            "name": "倉持京子",
-            "author": "アルジャンスキン部",
+            "name": "マテウス",
+            "author": "黒いるか",
             "condition": "None",
-            "package": "アルジャンハット",
-            "resource": "ArujanKyokoKuramochi.png",
-            "flipresource": "ArujanKyokoKuramochi_flip.png",
-            "backresource": "ArujanKyokoKuramochi_back.png",
-            "backflipresource": "ArujanKyokoKuramochi_flip_back.png",
-            "climbresource": "ArujanKyokoKuramochi_climb.png"
+            "package": "もからって船",
+            "resource": "kuroiru_mateusu.png",
+            "backresource": "kuroiru_mateusu_back.png",
+            "climbresource": "kuroiru_mateusu_climb.png"
+        },
+        {
+            "name": "トラ娘",
+            "author": "黒いるか",
+            "condition": "None",
+            "package": "黒いるかHats",
+            "resource": "kuroiru_torako.png",
+            "flipresource": "kuroiru_torako_flip.png",
+            "climbresource": "kuroiru_torako_climb.png"
+        },
+        {
+            "name": "クラウス・雷堂",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Claus_Raidou.png",
+            "climbresource": "Claus_Raidou_climb.png"
+        },
+        {
+            "name": "ハグキヨ",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "HaguKiyo.png",
+            "backresource": "HaguKiyo_back.png",
+            "climbresource": "HaguKiyo_climb.png"
+        },
+        {
+            "name": "ひまじん",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Himajin.png",
+            "flipresource": "Himajin_flip.png",
+            "climbresource": "Himajin_climb.png"
+        },
+        {
+            "name": "HoLIC",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Holic_Robot.png",
+            "climbresource": "Holic_Robot_climb.png"
+        },
+        {
+            "name": "川原辺熊尓",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "KawarabeKuma.png",
+            "backresource": "KawarabeKuma_back.png",
+            "climbresource": "KawarabeKuma_climb.png"
+        },
+        {
+            "name": "まいくてす",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Mai_ku_tesu.png",
+            "climbresource": "Mai_ku_tesu_climb.png"
+        },
+        {
+            "name": "らもRamo",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Ramo.png",
+            "backresource": "Ramo_back.png",
+            "climbresource": "Ramo_climb.png"
+        },
+        {
+            "name": "つたへびぃ",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "tutaheby.png",
+            "flipresource": "tutaheby_flip.png",
+            "climbresource": "tutaheby_climb.png"
+        },
+        {
+            "name": "わたしちゃ",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Watashicha.png",
+            "climbresource": "Watashicha_climb.png"
+        },
+        {
+            "name": "山桜桃レアモ",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "YusuraLeamo.png",
+            "backresource": "YusuraLeamo_back.png",
+            "climbresource": "YusuraLeamo_climb.png"
         }
     ]
 }
