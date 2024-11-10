@@ -2908,6 +2908,17 @@
             "climbresource": "ArujanKankitsuMetal_climb.png"
         },
         {
+            "name": "倉持京子",
+            "author": "アルジャンスキン部",
+            "condition": "None",
+            "package": "アルジャンハット",
+            "resource": "ArujanKyokoKuramochi.png",
+            "flipresource": "ArujanKyokoKuramochi_flip.png",
+            "backresource": "ArujanKyokoKuramochi_back.png",
+            "backflipresource": "ArujanKyokoKuramochi_flip_back.png",
+            "climbresource": "ArujanKyokoKuramochi_climb.png"
+        },
+        {
             "name": "オタク",
             "author": "アルジャンスキン部",
             "condition": "None",
@@ -3163,15 +3174,6 @@
             "climbresource": "kuroiru_kamisama_climb.png"
         },
         {
-            "name": "まんさん",
-            "author": "黒いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_mansan.png",
-            "flipresource": "kuroiru_mansan_flip.png",
-            "climbresource": "kuroiru_mansan_climb.png"
-        },
-        {
             "name": "楠木瑞羽",
             "author": "黒いるか",
             "condition": "None",
@@ -3188,17 +3190,6 @@
             "resource": "kuroiru_sakenomi.png",
             "flipresource": "kuroiru_sakenomi_flip.png",
             "climbresource": "kuroiru_sakenomi_climb.png"
-        },
-        {
-            "name": "倉持京子",
-            "author": "アルジャンスキン部",
-            "condition": "None",
-            "package": "アルジャンハット",
-            "resource": "ArujanKyokoKuramochi.png",
-            "flipresource": "ArujanKyokoKuramochi_flip.png",
-            "backresource": "ArujanKyokoKuramochi_back.png",
-            "backflipresource": "ArujanKyokoKuramochi_flip_back.png",
-            "climbresource": "ArujanKyokoKuramochi_climb.png"
         }
     ]
 }
