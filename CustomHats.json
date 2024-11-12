@@ -3294,6 +3294,26 @@
             "resource": "YusuraLeamo.png",
             "backresource": "YusuraLeamo_back.png",
             "climbresource": "YusuraLeamo_climb.png"
+        },
+        {
+            "name": "悪魔",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONdevil_adaptive.png",
+            "backresource": "SONdevil_back.png",
+            "climbresource": "SONdevil_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "クラゲ",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONkurage_adaptive.png",
+            "backresource": "SONkurage_back.png",
+            "climbresource": "SONkurage_climb.png",
+            "adaptive": true
         }
     ]
 }
