@@ -1850,6 +1850,14 @@
             "climbresource":"maikutesuClimb.png"
         },
         {
+            "name": "まいくてす(2)",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Mai_ku_tesu.png",
+            "climbresource": "Mai_ku_tesu_climb.png"
+        },
+        {
             "name":"ピースつばき",
             "author":"ちきんばんばん",
             "package":"きよちゃんグアス",
@@ -1872,6 +1880,14 @@
             "condition":"None",
             "resource":"watashityaMain.png",
             "climbresource":"watashityaClimb.png"
+        },
+        {
+            "name": "わたしちゃ(2)",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Watashicha.png",
+            "climbresource": "Watashicha_climb.png"
         },
         {
             "name":"狐桜トウカ",
@@ -1904,6 +1920,14 @@
             "condition":"None",
             "resource":"holic_kiyoMain.png",
             "climbresource":"holic_kiyoClimb.png"
+        },
+        {
+            "name": "HoLIC(2)",
+            "author": "望乃羽てくと",
+            "condition": "None",
+            "package": "きよちゃんグアス",
+            "resource": "Holic_Robot.png",
+            "climbresource": "Holic_Robot_climb.png"
         },
         {
             "name":"みずたまさんご",
@@ -3236,14 +3260,6 @@
             "climbresource": "Himajin_climb.png"
         },
         {
-            "name": "HoLIC",
-            "author": "望乃羽てくと",
-            "condition": "None",
-            "package": "きよちゃんグアス",
-            "resource": "Holic_Robot.png",
-            "climbresource": "Holic_Robot_climb.png"
-        },
-        {
             "name": "川原辺熊尓",
             "author": "望乃羽てくと",
             "condition": "None",
@@ -3251,14 +3267,6 @@
             "resource": "KawarabeKuma.png",
             "backresource": "KawarabeKuma_back.png",
             "climbresource": "KawarabeKuma_climb.png"
-        },
-        {
-            "name": "まいくてす",
-            "author": "望乃羽てくと",
-            "condition": "None",
-            "package": "きよちゃんグアス",
-            "resource": "Mai_ku_tesu.png",
-            "climbresource": "Mai_ku_tesu_climb.png"
         },
         {
             "name": "らもRamo",
@@ -3279,14 +3287,6 @@
             "climbresource": "tutaheby_climb.png"
         },
         {
-            "name": "わたしちゃ",
-            "author": "望乃羽てくと",
-            "condition": "None",
-            "package": "きよちゃんグアス",
-            "resource": "Watashicha.png",
-            "climbresource": "Watashicha_climb.png"
-        },
-        {
             "name": "山桜桃レアモ",
             "author": "望乃羽てくと",
             "condition": "None",
@@ -3294,6 +3294,26 @@
             "resource": "YusuraLeamo.png",
             "backresource": "YusuraLeamo_back.png",
             "climbresource": "YusuraLeamo_climb.png"
+        },
+        {
+            "name": "悪魔",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONdevil_adaptive.png",
+            "backresource": "SONdevil_back.png",
+            "climbresource": "SONdevil_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "クラゲ",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONkurage_adaptive.png",
+            "backresource": "SONkurage_back.png",
+            "climbresource": "SONkurage_climb.png",
+            "adaptive": true
         }
     ]
 }
