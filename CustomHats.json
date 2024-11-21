@@ -3314,6 +3314,15 @@
             "backresource": "SONkurage_back.png",
             "climbresource": "SONkurage_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "マテウス",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONmateus.png",
+            "backresource": "SONmateus_back.png",
+            "climbresource": "SONmateus_climb.png"
         }
     ]
 }
