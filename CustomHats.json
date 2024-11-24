@@ -698,6 +698,14 @@
             "climbresource": "kuroiru_mokadg_climb.png"
         },
         {
+            "name": "もからって・新",
+            "author": "あや",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "MochaLatte2.png",
+            "climbresource": "MochaLatte2_climb.png"
+        },
+        {
             "name": "ahui",
             "author": "あや",
             "package": "もからって船",
@@ -1047,7 +1055,7 @@
             "climbresource": "Bashanaito_climb.png"
         },
         {
-            "name":"まるていむ",
+            "name":"まるてぃむ",
             "author":"Lucia",
             "package":"るちあーと",
             "condition":"None",
@@ -3323,6 +3331,14 @@
             "resource": "SONmateus.png",
             "backresource": "SONmateus_back.png",
             "climbresource": "SONmateus_climb.png"
+        },
+        {
+            "name": "観葉植物",
+            "author": "ベレーch",
+            "condition": "None",
+            "package": "Hat_SNR",
+            "resource": "kanyo.png",
+            "climbresource": "kanyo_climb.png"
         }
     ]
 }
