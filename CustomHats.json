@@ -995,6 +995,42 @@
             "climbresource": "Kamauchan_climb.png"
         },
         {
+            "name": "レトロかまうマスター",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "RetroKamau.png",
+            "flipresource": "RetroKamau_flip.png",
+            "climbresource": "RetroKamau_climb.png"
+        },
+        {
+            "name": "キノ",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Kino.png",
+            "climbresource": "Kino_climb.png"
+        },
+        {
+            "name": "Lucia",
+            "author": "Lucia",
+            "package": "るちあーと",
+            "condition": "None",
+            "resource": "Lucia.png",
+            "flipresource": "Lucia_flip.png",
+            "climbresource": "Lucia_climb.png"
+        },
+        {
+            "name": "レトロLuciaウェイトレス",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "RetroLucia.png",
+            "flipresource": "RetroLucia_flip.png",
+            "backresource": "RetroLucia_back.png",
+            "climbresource": "RetroLucia_climb.png"
+        },
+        {
             "name": "アスター",
             "author": "Lucia",
             "package": "るちあーと",
@@ -1012,29 +1048,12 @@
             "climbresource": "Chii_climb.png"
         },
         {
-            "name": "キノ",
-            "author": "Lucia",
-            "package": "るちあーと",
-            "condition": "None",
-            "resource": "Kino.png",
-            "climbresource": "Kino_climb.png"
-        },
-        {
             "name": "黒猫零p",
             "author": "Lucia",
             "package": "るちあーと",
             "condition": "None",
             "resource": "KuronekozeroP.png",
             "climbresource": "KuronekozeroP_climb.png"
-        },
-        {
-            "name": "Lucia",
-            "author": "Lucia",
-            "package": "るちあーと",
-            "condition": "None",
-            "resource": "Lucia.png",
-            "flipresource": "Lucia_flip.png",
-            "climbresource": "Lucia_climb.png"
         },
         {
             "name": "豚南西ぺ",
@@ -1192,6 +1211,34 @@
             "resource": "Shiki.png",
             "flipresource": "Shiki_flip.png",
             "climbresource": "Shiki_climb.png"
+        },
+        {
+            "name": "海鮮のたこ",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "KaisennoTako.png",
+            "flipresource": "KaisennoTako_flip.png",
+            "climbresource": "KaisennoTako_climb.png"
+        },
+        {
+            "name": "Sena",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "Sena.png",
+            "flipresource": "Sena_flip.png",
+            "climbresource": "Sena_climb.png"
+        },
+        {
+            "name": "すぅ",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "Suu.png",
+            "flipresource": "Suu_flip.png",
+            "backresource": "Suu_back.png",
+            "climbresource": "Suu_climb.png"
         },
         {
             "name": "くまちゃん帽子",
@@ -3339,6 +3386,40 @@
             "package": "Hat_SNR",
             "resource": "kanyo.png",
             "climbresource": "kanyo_climb.png"
+        },
+        {
+            "name": "ウェディングドレス",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONdress.png",
+            "climbresource": "SONdress_climb.png"
+        },
+        {
+            "name": "カラードレス",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONdressColor_adaptive.png",
+            "climbresource": "SONdressColor_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "タキシード",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONtuxedo.png",
+            "climbresource": "SONtuxedo_climb.png"
+        },
+        {
+            "name": "カラータキシード",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONtuxedoColor_adaptive.png",
+            "climbresource": "SONtuxedoColor_climb.png",
+            "adaptive": true
         }
     ]
 }
