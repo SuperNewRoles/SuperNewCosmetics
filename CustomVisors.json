@@ -316,6 +316,21 @@
             "package": "Visor_SNR",
             "resource": "kuroiruka_westan.png",
             "flipresource" : "kuroiruka_westan_flip.png"
+        },
+        {
+            "name": "妖精の紙",
+            "author": "Lucia",
+            "package": "Visor_SNR",
+            "resource": "LuciaPaper.png",
+            "flipresource" : "LuciaPaper_flip.png"
+        },
+        {
+            "name": "妖精の紙クルー色",
+            "author": "Lucia",
+            "package": "Visor_SNR",
+            "resource": "LALuciaPaper_adaptive.png",
+            "flipresource" : "LALuciaPaper_adaptive_flip.png",
+            "adaptive": true
         }
     ]
 }
