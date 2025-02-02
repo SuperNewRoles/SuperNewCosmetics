@@ -690,7 +690,7 @@
         },
         {
             "name": "もからって2",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
             "package": "もからって船",
             "resource": "kuroiru_mokadg.png",
@@ -1401,16 +1401,16 @@
             "bounce": true
         },
         {
-            "name": "黒いるか",
-            "author": "黒いるか",
+            "name": "白州いるか",
+            "author": "白州いるか",
             "package": "もからって船",
             "condition": "None",
             "resource": "kuroiruka.png",
             "climbresource": "kuroiruka_climb.png"
         },
         {
-            "name": "黒いるか2Pカラー",
-            "author": "黒いるか",
+            "name": "白州いるか2Pカラー",
+            "author": "白州いるか",
             "condition": "None",
             "package": "もからって船",
             "resource": "siroiruka.png",
@@ -1476,7 +1476,7 @@
         },
         {
             "name":"アヤナミ",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"ayanamiMain.png",
@@ -1484,7 +1484,7 @@
         },
         {
             "name":"いのせんと",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"inosentoMain.png",
@@ -1492,7 +1492,7 @@
         },
         {
             "name":"ジヨン",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"jiyonMain.png",
@@ -1500,7 +1500,7 @@
         },
         {
             "name":"くさ",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"kusaMain.png",
@@ -1508,7 +1508,7 @@
         },
         {
             "name":"ちくたく",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"tikutakuMain.png",
@@ -1516,7 +1516,7 @@
         },
         {
             "name":"わこ",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"wakoMain.png",
@@ -1524,7 +1524,7 @@
         },
         {
             "name":"ジョメジョメ",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"アヤナミ村",
             "condition":"None",
             "resource":"jyomejyomeMain.png",
@@ -1532,7 +1532,7 @@
         },
         {
             "name": "もっちん",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
             "package": "アヤナミ村",
             "resource": "kuroiru_mottin.png",
@@ -1823,24 +1823,24 @@
         },
         {
             "name":"明日香1",
-            "author":"黒いるか",
-            "package":"黒いるかHats",
+            "author":"白州いるか",
+            "package":"白州いるかHats",
             "condition":"None",
             "resource":"Asuka01Main.png",
             "climbresource":"Asuka01Climb.png"
         },
         {
             "name":"明日香2",
-            "author":"黒いるか",
-            "package":"黒いるかHats",
+            "author":"白州いるか",
+            "package":"白州いるかHats",
             "condition":"None",
             "resource":"Asuka02Main.png",
             "climbresource":"Asuka02Climb.png"
         },
         {
             "name":"明日香のひめちゃん",
-            "author":"黒いるか",
-            "package":"黒いるかHats",
+            "author":"白州いるか",
+            "package":"白州いるかHats",
             "condition":"None",
             "resource":"AsukaNoHimeChanMain.png",
             "climbresource":"AsukaNoHimeChanClimb.png"
@@ -2144,7 +2144,7 @@
         },
         {
             "name": "百合夜あおい",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
             "package": "もからって船",
             "resource": "kuroiru_aoi.png",
@@ -2153,7 +2153,7 @@
         },
         {
             "name":"てんぷら1号",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"もからって船",
             "condition":"None",
             "resource":"MocaTenpura1Main.png",
@@ -2161,7 +2161,7 @@
         },
         {
             "name":"てんぷら2号",
-            "author":"黒いるか",
+            "author":"白州いるか",
             "package":"もからって船",
             "condition":"None",
             "resource":"MocaTenpura2Main.png",
@@ -2169,9 +2169,9 @@
         },
         {
             "name": "べいくどもちょちょ",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "anko.png",
             "climbresource": "anko_climb.png"
         },
@@ -2185,18 +2185,18 @@
         },
         {
             "name": "学生さん",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "jkjk_adaptive.png",
             "climbresource": "jkjk_climb.png",
             "adaptive": true
         },
         {
             "name": "ぷりん",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "Prin.png",
             "climbresource": "Prin_climb.png"
         },
@@ -2691,57 +2691,57 @@
         },
         {
             "name": "大阪名物1号",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_oosaka1.png",
             "climbresource": "kuroiru_oosaka1_climb.png"
         },
         {
             "name": "大阪名物2号",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_oosaka2.png",
             "climbresource": "kuroiru_oosaka2_climb.png"
         },
         {
             "name": "大阪名物3号",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_oosaka3.png",
             "climbresource": "kuroiru_oosaka3_climb.png"
         },
         {
             "name": "ぽん酢",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_ponzu.png",
             "climbresource": "kuroiru_ponzu_climb.png"
         },
         {
             "name": "たい焼き",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_taiyaki.png",
             "climbresource": "kuroiru_taiyaki_climb.png"
         },
         {
             "name": "比良坂芽衣様",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_hirasakamei.png",
             "climbresource": "kuroiru_hirasakamei_climb.png"
         },
         {
             "name": "マヨネーズ",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_mayo.png",
             "climbresource": "kuroiru_mayo_climb.png"
         },
@@ -3071,42 +3071,42 @@
         },
         {
             "name": "てんぷらじゃない",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_ebifurai.png",
             "climbresource": "kuroiru_ebifurai_climb.png"
         },
         {
             "name": "私はきっとクルー",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_kittokuru.png",
             "climbresource": "kuroiru_kittokuru_climb.png"
         },
         {
             "name": "きょーこママ",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_kyoko.png",
             "flipresource": "kuroiru_kyoko_flip.png",
             "climbresource": "kuroiru_kyoko_climb.png"
         },
         {
             "name": "うまみさん",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_umami.png",
             "climbresource": "kuroiru_umami_climb.png"
         },
         {
             "name": "番長",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_bantyou_adaptive.png",
             "flipresource": "kuroiru_bantyou_flip.png",
             "climbresource": "kuroiru_bantyou_climb.png",
@@ -3114,9 +3114,9 @@
         },
         {
             "name": "益荒男",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_masurao.png",
             "climbresource": "kuroiru_masurao_climb.png"
         },
@@ -3129,52 +3129,52 @@
             "climbresource": "NigelFan_TaishoRoman_climb.png"
         },
         {
-            "name": "ビリビリ黒いるか",
-            "author": "黒いるか",
+            "name": "ビリビリ白州いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_denki.png",
             "climbresource": "kuroiru_denki_climb.png"
         },
         {
             "name": "はてなちゃん",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_hatena.png",
             "climbresource": "kuroiru_hatena_climb.png"
         },
         {
             "name": "カッパさん",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_kappa.png",
             "climbresource": "kuroiru_kappa_climb.png"
         },
         {
             "name": "ヒョウモントカゲモドキ",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_leopa_adaptive.png",
             "climbresource": "kuroiru_leopa_climb.png",
             "adaptive": true
         },
         {
             "name": "トイレタスク中",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_toire.png",
             "flipresource": "kuroiru_toire_flip.png",
             "climbresource": "kuroiru_toire_climb.png"
         },
         {
             "name": "おとのさま",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_tonosama.png",
             "climbresource": "kuroiru_tonosama_climb.png"
         },
@@ -3227,7 +3227,7 @@
         },
         {
             "name": "あおいるか（ペアアモ）",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
             "package": "もからって船",
             "resource": "kuroiruka_aoiruka.png",
@@ -3236,25 +3236,25 @@
         },
         {
             "name": "最強ウェスタン",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_westan.png",
             "flipresource": "kuroiru_westan_flip.png",
             "climbresource": "kuroiru_westan_climb.png"
         },
         {
             "name": "かみさま",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_kamisama.png",
             "flipresource": "kuroiru_kamisama_flip.png",
             "climbresource": "kuroiru_kamisama_climb.png"
         },
         {
             "name": "楠木瑞羽",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
             "package": "もからって船",
             "resource": "kuroiru_mizuha.png",
@@ -3263,16 +3263,16 @@
         },
         {
             "name": "よっぱらい",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_sakenomi.png",
             "flipresource": "kuroiru_sakenomi_flip.png",
             "climbresource": "kuroiru_sakenomi_climb.png"
         },
         {
             "name": "マテウス",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
             "package": "もからって船",
             "resource": "kuroiru_mateusu.png",
@@ -3281,9 +3281,9 @@
         },
         {
             "name": "トラ娘",
-            "author": "黒いるか",
+            "author": "白州いるか",
             "condition": "None",
-            "package": "黒いるかHats",
+            "package": "白州いるかHats",
             "resource": "kuroiru_torako.png",
             "flipresource": "kuroiru_torako_flip.png",
             "climbresource": "kuroiru_torako_climb.png"
@@ -3420,6 +3420,24 @@
             "resource": "SONtuxedoColor_adaptive.png",
             "climbresource": "SONtuxedoColor_climb.png",
             "adaptive": true
+        },
+        {
+            "name": "いるぽん(ペアアモ)",
+            "author": "白州いるか",
+            "condition": "None",
+            "package": "もからって船",
+            "resource": "kuroiru_irupon.png",
+            "climbresource": "kuroiru_irupon_climb.png"
+        },
+        {
+            "name": "柊紫星",
+            "author": "セオノ",
+            "condition": "None",
+            "package": "SeonoCollection",
+            "resource": "SONhiragi.png",
+            "flipresource": "SONhiragi_flip.png",
+            "backresource": "SONhiragi_back.png",
+            "climbresource": "SONhiragi_climb.png"
         }
     ]
 }
