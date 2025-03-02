@@ -3438,6 +3438,127 @@
             "flipresource": "SONhiragi_flip.png",
             "backresource": "SONhiragi_back.png",
             "climbresource": "SONhiragi_climb.png"
+        },
+        {
+            "name": "十二単_ローズ",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Rose.png",
+            "backresource": "Ohinasamaria_Rose_back.png",
+            "flipresource": "Ohinasamaria_Rose_flip.png",
+            "backflipresource": "Ohinasamaria_Rose_flip_back.png",
+            "climbresource": "Ohinasamaria_Rose_climb.png"
+        },
+        {
+            "name": "十二単_ピンク",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Pink.png",
+            "backresource": "Ohinasamaria_Pink_back.png",
+            "flipresource": "Ohinasamaria_Pink_flip.png",
+            "backflipresource": "Ohinasamaria_Pink_flip_back.png",
+            "climbresource": "Ohinasamaria_Pink_climb.png"
+        },
+        {
+            "name": "十二単_バナナ",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Banana.png",
+            "backresource": "Ohinasamaria_Banana_back.png",
+            "flipresource": "Ohinasamaria_Banana_flip.png",
+            "backflipresource": "Ohinasamaria_Banana_flip_back.png",
+            "climbresource": "Ohinasamaria_Banana_climb.png"
+        },
+        {
+            "name": "十二単_イエロー",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Yellow.png",
+            "backresource": "Ohinasamaria_Yellow_back.png",
+            "flipresource": "Ohinasamaria_Yellow_flip.png",
+            "backflipresource": "Ohinasamaria_Yellow_flip_back.png",
+            "climbresource": "Ohinasamaria_Yellow_climb.png"
+        },
+        {
+            "name": "十二単_シアン",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Cian.png",
+            "backresource": "Ohinasamaria_Cian_back.png",
+            "flipresource": "Ohinasamaria_Cian_flip.png",
+            "backflipresource": "Ohinasamaria_Cian_flip_back.png",
+            "climbresource": "Ohinasamaria_Cian_climb.png"
+        },
+        {
+            "name": "十二単_ブルー",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Blue.png",
+            "backresource": "Ohinasamaria_Blue_back.png",
+            "flipresource": "Ohinasamaria_Blue_flip.png",
+            "backflipresource": "Ohinasamaria_Blue_flip_back.png",
+            "climbresource": "Ohinasamaria_Blue_climb.png"
+        },
+        {
+            "name": "十二単_ライム",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Lime.png",
+            "backresource": "Ohinasamaria_Lime_back.png",
+            "flipresource": "Ohinasamaria_Lime_flip.png",
+            "backflipresource": "Ohinasamaria_Lime_flip_back.png",
+            "climbresource": "Ohinasamaria_Lime_climb.png"
+        },
+        {
+            "name": "十二単_グリーン",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Green.png",
+            "backresource": "Ohinasamaria_Green_back.png",
+            "flipresource": "Ohinasamaria_Green_flip.png",
+            "backflipresource": "Ohinasamaria_Green_flip_back.png",
+            "climbresource": "Ohinasamaria_Green_climb.png"
+        },
+        {
+            "name": "十二単_オレンジ",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Orange.png",
+            "backresource": "Ohinasamaria_Orange_back.png",
+            "flipresource": "Ohinasamaria_Orange_flip.png",
+            "backflipresource": "Ohinasamaria_Orange_flip_back.png",
+            "climbresource": "Ohinasamaria_Orange_climb.png"
+        },
+        {
+            "name": "十二単_ブラウン",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_Brown.png",
+            "backresource": "Ohinasamaria_Brown_back.png",
+            "flipresource": "Ohinasamaria_Brown_flip.png",
+            "backflipresource": "Ohinasamaria_Brown_flip_back.png",
+            "climbresource": "Ohinasamaria_Brown_climb.png"
+        },
+        {
+            "name": "十二単_ホワイト",
+            "author": "M a r i a .",
+            "package": "まりあの",
+            "condition": "None",
+            "resource": "Ohinasamaria_White.png",
+            "backresource": "Ohinasamaria_White_back.png",
+            "flipresource": "Ohinasamaria_White_flip.png",
+            "backflipresource": "Ohinasamaria_White_flip_back.png",
+            "climbresource": "Ohinasamaria_White_climb.png"
         }
     ]
 }
