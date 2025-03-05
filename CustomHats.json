@@ -1102,6 +1102,16 @@
             "flipresource":"NagiAiFlip.png"
         },
         {
+            "name": "凪あいV",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "LAnagiaiV.png",
+            "flipresource": "LAnagiaiV_flip.png",
+            "backresource": "LAnagiaiV_back.png",
+            "climbresource": "LAnagiaiV_climb.png"
+        },
+        {
             "name":"にしむ",
             "author":"Lucia",
             "package":"るちあーと",
@@ -1128,6 +1138,16 @@
             "resource":"YanaMain.png",
             "climbresource":"YanaClimb.png",
             "flipresource":"YanaFlip.png"
+        },
+        {
+            "name": "やなち",
+            "author": "Lucia",
+            "condition": "None",
+            "package": "るちあーと",
+            "resource": "LAyanachi.png",
+            "flipresource": "LAyanachi_flip.png",
+            "backresource": "LAyanachi_back.png",
+            "climbresource": "LAyanachi_climb.png"
         },
         {
             "name":"kihi",
