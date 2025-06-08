@@ -2,9 +2,9 @@
     "assetbundles": [
         {
             "url": "https://raw.githubusercontent.com/SuperNewRoles/SuperNewCosmetics/refs/heads/main/cosmeticsbundle.bundle",
-            "hash": "2025060090111",
+            "hash": "2025060090120",
             "url_android": "https://raw.githubusercontent.com/SuperNewRoles/SuperNewCosmetics/refs/heads/main/cosmeticsbundle_2.bundle",
-            "hash_android": "2025060090111"
+            "hash_android": "2025060090120"
         }
     ]
 }
