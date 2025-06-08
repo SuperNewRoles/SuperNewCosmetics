@@ -1,10 +1,10 @@
 {
     "assetbundles": [
         {
-            "url": "https://raw.githubusercontent.com/SuperNewRoles/SuperNewCosmetics/refs/heads/main/cosmeticsbundle.bundle",
-            "hash": "2025060090139",
-            "url_android": "https://raw.githubusercontent.com/SuperNewRoles/SuperNewCosmetics/refs/heads/main/cosmeticsbundle_2.bundle",
-            "hash_android": "2025060090139"
+            "url": "https://raw.githubusercontent.com/SuperNewRoles/SuperNewCosmetics/refs/heads/tmptest/cosmeticsbundle.bundle",
+            "hash": "2025060090151",
+            "url_android": "https://raw.githubusercontent.com/SuperNewRoles/SuperNewCosmetics/refs/tmptest/main/cosmeticsbundle_2.bundle",
+            "hash_android": "2025060090151"
         }
     ]
 }
