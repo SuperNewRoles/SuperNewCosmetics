@@ -1,4 +1,4 @@
-# SuperNewNamePlates
+# SuperNewCosmetics
 
 SuperNewRolesのCosmeticsです。<br>
 SuperNewRoles↓<br>
