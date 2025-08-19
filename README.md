@@ -13,14 +13,12 @@ https://github.com/ykundesu/SuperNewRoles<br>
   <img src = hats\miku.png width="100" title = miku.png>
   <img src = hats\miku_climb.png width="100" title = miku_adaptive.png>
 
-### あどみんさん 制作「フラン」
-- こちらの作品は東方projectの二次創作です
-
-### マカロンさん 制作「博麗霊夢」「霧雨魔理沙」
-- こちらの作品は東方projectの二次創作です
-
-### gomaさん 制作「kawasiro」
-- こちらの作品は東方projectの二次創作です
+### 東方project関連
+- 以下の作品は東方projectの二次創作です
+  - あどみんさん 制作「フラン」
+  - マカロンさん 制作「博麗霊夢」
+  - マカロンさん 制作「霧雨魔理沙」
+  - gomaさん 制作「kawasiro」
 
 ### 月城 蔵徒 制作「歪んだ正義」
 - この作品は **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)** ライセンスで公開されています
@@ -28,9 +26,8 @@ https://github.com/ykundesu/SuperNewRoles<br>
   - 詳しくは[ライセンスの全文](https://github.com/SuperNewRoles/SuperNewCosmetics/pull/86)をご覧ください
 
 ## NamePlate
-### amekunさん 制作「Yukkuri nameplate」
-- こちらの作品は東方projectの二次創作です
-
-### あもあすゆっくりさん 制作「アリスの人形」
-- こちらの作品は東方projectの二次創作です
+### 東方project関連
+- 以下の作品は東方projectの二次創作です
+  - amekunさん 制作「Yukkuri nameplate」
+  - あもあすゆっくりさん 制作「アリスの人形」
 
