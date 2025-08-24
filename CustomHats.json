@@ -689,15 +689,6 @@
             "climbresource": "MOCHA_climb.png"
         },
         {
-            "name": "もからって2",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_mokadg.png",
-            "flipresource": "kuroiru_mokadg_flip.png",
-            "climbresource": "kuroiru_mokadg_climb.png"
-        },
-        {
             "name": "もからって・新",
             "author": "あや",
             "condition": "None",
@@ -1419,22 +1410,6 @@
             "flipresource": "LuciartTurtleHat_bounce_flip.png",
             "climbresource": "LuciartTurtleHat_bounce_climb.png",
             "bounce": true
-        },
-        {
-            "name": "白州いるか",
-            "author": "白州いるか",
-            "package": "もからって船",
-            "condition": "None",
-            "resource": "kuroiruka.png",
-            "climbresource": "kuroiruka_climb.png"
-        },
-        {
-            "name": "白州いるか2Pカラー",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "siroiruka.png",
-            "climbresource": "siroiruka_climb.png"
         },
         {
             "name": "ちぇるのさん",
@@ -2161,31 +2136,6 @@
             "resource":"R1TeddyBearMain.png",
             "climbresource":"R1TeddyBearClimb.png",
             "adaptive":true
-        },
-        {
-            "name": "百合夜あおい",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_aoi.png",
-            "flipresource": "kuroiru_aoi_flip.png",
-            "climbresource": "kuroiru_aoi_climb.png"
-        },
-        {
-            "name":"てんぷら1号",
-            "author":"白州いるか",
-            "package":"もからって船",
-            "condition":"None",
-            "resource":"MocaTenpura1Main.png",
-            "climbresource":"MocaTenpura1Climb.png"
-        },
-        {
-            "name":"てんぷら2号",
-            "author":"白州いるか",
-            "package":"もからって船",
-            "condition":"None",
-            "resource":"MocaTenpura2Main.png",
-            "climbresource":"MocaTenpura2Climb.png"
         },
         {
             "name": "べいくどもちょちょ",
@@ -3246,15 +3196,6 @@
             "resource": "SONRoseYellow.png"
         },
         {
-            "name": "あおいるか（ペアアモ）",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiruka_aoiruka.png",
-            "flipresource": "kuroiruka_aoiruka_flip.png",
-            "climbresource": "kuroiruka_aoiruka_climb.png"
-        },
-        {
             "name": "最強ウェスタン",
             "author": "白州いるか",
             "condition": "None",
@@ -3273,15 +3214,6 @@
             "climbresource": "kuroiru_kamisama_climb.png"
         },
         {
-            "name": "楠木瑞羽",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_mizuha.png",
-            "flipresource": "kuroiru_mizuha_flip.png",
-            "climbresource": "kuroiru_mizuha_climb.png"
-        },
-        {
             "name": "よっぱらい",
             "author": "白州いるか",
             "condition": "None",
@@ -3289,15 +3221,6 @@
             "resource": "kuroiru_sakenomi.png",
             "flipresource": "kuroiru_sakenomi_flip.png",
             "climbresource": "kuroiru_sakenomi_climb.png"
-        },
-        {
-            "name": "マテウス",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_mateusu.png",
-            "backresource": "kuroiru_mateusu_back.png",
-            "climbresource": "kuroiru_mateusu_climb.png"
         },
         {
             "name": "トラ娘",
@@ -3440,14 +3363,6 @@
             "resource": "SONtuxedoColor_adaptive.png",
             "climbresource": "SONtuxedoColor_climb.png",
             "adaptive": true
-        },
-        {
-            "name": "いるぽん(ペアアモ)",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_irupon.png",
-            "climbresource": "kuroiru_irupon_climb.png"
         },
         {
             "name": "柊紫星",
