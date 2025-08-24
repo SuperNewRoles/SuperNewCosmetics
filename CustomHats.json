@@ -689,15 +689,6 @@
             "climbresource": "MOCHA_climb.png"
         },
         {
-            "name": "もからって2",
-            "author": "白州いるか",
-            "condition": "None",
-            "package": "もからって船",
-            "resource": "kuroiru_mokadg.png",
-            "flipresource": "kuroiru_mokadg_flip.png",
-            "climbresource": "kuroiru_mokadg_climb.png"
-        },
-        {
             "name": "もからって・新",
             "author": "あや",
             "condition": "None",
