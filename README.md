@@ -12,7 +12,7 @@ https://github.com/ykundesu/SuperNewRoles<br>
   <img src = hats\miku.png width="100" title = miku.png>
   <img src = hats\miku_climb.png width="100" title = miku_adaptive.png>
 
-## 月城 蔵徒制作「歪んだ正義」
+## 月城 蔵徒制作「揺るがぬ決意」「歪んだ正義」
 - この作品は **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)** ライセンスで公開されています
 - MODでの利用やゲームプレイ、配信など、通常の範囲でご利用いただく場合は、追加の許可によりクレジット表示は不要です
   - 詳しくは[ライセンスの全文](https://github.com/SuperNewRoles/SuperNewCosmetics/pull/86)をご覧ください
