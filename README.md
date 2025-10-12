@@ -19,6 +19,7 @@ https://github.com/ykundesu/SuperNewRoles<br>
   - マカロンさん 制作「博麗霊夢」
   - マカロンさん 制作「霧雨魔理沙」
   - gomaさん 制作「kawasiro」
+  - シャケさん 制作 「レティ」
 
 ### 月城 蔵徒制作「揺るがぬ決意」「歪んだ正義」
 - この作品は **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)** ライセンスで公開されています
