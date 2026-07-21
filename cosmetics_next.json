@@ -2,9 +2,9 @@
     "assetbundles": [
         {
             "url": "https://cosmetics.supernewroles.com/cosmeticsbundle.bundle",
-            "hash": "20260712_1",
+            "hash": "20260721_1",
             "url_android": "https://cosmetics.supernewroles.com/cosmeticsbundle_android.bundle",
-            "hash_android": "20260712_1"
+            "hash_android": "20260721_1"
         }
     ]
 }
